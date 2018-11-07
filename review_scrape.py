@@ -12,7 +12,11 @@ for line in scanned_restaurants:
 print(already_scanned)
 scanned_restaurants.close()
 
+<<<<<<< HEAD
 restaurants_list = open("sf_restaurant_names.txt")
+=======
+restaurants_list = open("mihir.txt")
+>>>>>>> d1ef4c29aa57b96996b8a037c6a833423a1b6192
 base_url = "https://www.yelp.com/biz/"
 for restaurant_line in restaurants_list:
     restaurant = restaurant_line.rstrip("\n")
@@ -23,6 +27,7 @@ for restaurant_line in restaurants_list:
     source = requests.get(restaurant_url)
     soup = BeautifulSoup(source.content, features = "html.parser")
     #print(soup.prettify())
+<<<<<<< HEAD
     if len(soup.find_all("script", {"type": "application/ld+json"})) == 1:
         json_data = soup.find_all("script", {"type": "application/ld+json"})[0].text
     else:
@@ -31,6 +36,14 @@ for restaurant_line in restaurants_list:
             json_data = soup.find_all("script", {"type": "application/ld+json"})[2].text
     json_data = json.loads(json_data)
     if 'aggregateRating' not in json_data:
+=======
+    json_data = soup.find_all("script", {"type": "application/ld+json"})[1].text
+    json_data = json.loads(json_data)
+    if 'aggregateRating' not in json_data:
+        json_data = soup.find_all("script", {"type": "application/ld+json"})[2].text
+        json_data = json.loads(json_data)
+    if 'aggregateRating' not in json_data:
+>>>>>>> d1ef4c29aa57b96996b8a037c6a833423a1b6192
         with open("skipped_restaurants.txt", "a+") as f:
             print("Skipped " + restaurant_line)
             f.write(restaurant_line)
@@ -54,6 +67,7 @@ for restaurant_line in restaurants_list:
             url = restaurant_url + "?start=" + str(page*20)
             source = requests.get(url)
             soup = BeautifulSoup(source.content, features = "html.parser")
+<<<<<<< HEAD
             if len(soup.find_all("script", {"type": "application/ld+json"})) == 1:
                 json_data = soup.find_all("script", {"type": "application/ld+json"})[0].text
             else:
@@ -61,6 +75,13 @@ for restaurant_line in restaurants_list:
                 if 'review' not in json_data:
                     json_data = soup.find_all("script", {"type": "application/ld+json"})[2].text
             json_data = json.loads(json_data)
+=======
+            json_data = soup.find_all("script", {"type": "application/ld+json"})[1].text
+            json_data = json.loads(json_data)
+            if 'review' not in json_data:
+                json_data = soup.find_all("script", {"type": "application/ld+json"})[2].text
+                json_data = json.loads(json_data)
+>>>>>>> d1ef4c29aa57b96996b8a037c6a833423a1b6192
             current_reviews = json_data['review']
             for r in current_reviews:
                 reviews.append(r)

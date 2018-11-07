@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 jimss-sandwich-and-smoke-shop-san-francisco
 joes-ice-cream-san-francisco
 streat-brew-san-francisco
@@ -1323,6 +1324,8 @@ the-clubhouse-at-the-presidio-golf-course-san-francisco
 blaze-fast-fired-pizza-san-francisco
 anonymous-asian-san-francisco
 crazy-pepper-san-francisco
+=======
+>>>>>>> d1ef4c29aa57b96996b8a037c6a833423a1b6192
 skool-san-francisco
 specialtys-café-and-bakery-san-francisco-44
 tosca-cafe-san-francisco-3
@@ -1380,7 +1383,10 @@ perrys-san-francisco-14
 ladle-and-leaf-san-francisco-6
 quickly-san-francisco-13
 silver-cloud-restaurant-and-karaoke-bar-san-francisco
+<<<<<<< HEAD
 whole-foods-market-steep-brew-san-francisco
+=======
+>>>>>>> d1ef4c29aa57b96996b8a037c6a833423a1b6192
 shaska-deli-cafe-san-francisco
 vinyl-coffee-and-wine-bar-san-francisco
 alx-gastropub-san-francisco-2
@@ -1433,6 +1439,7 @@ cafe-venue-san-francisco-8
 cultivar-san-francisco-san-francisco-2
 uncle-joe-san-francisco
 peets-coffee-san-francisco-24
+<<<<<<< HEAD
 tsunami-panhandle-san-francisco-2
 kaiyō-san-francisco-2
 hrd-san-francisco-4
@@ -1466,3 +1473,5 @@ saru-sushi-bar-san-francisco
 alma-cocina-san-francisco
 aa-bakery-and-cafe-san-francisco-2
 griddle-fresh-san-francisco
+=======
+>>>>>>> d1ef4c29aa57b96996b8a037c6a833423a1b6192

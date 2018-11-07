@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 the-lunch-wagon-on-sansome-and-california-san-francisco
 golden-gate-tap-room-san-francisco
 golden-coffee-shop-san-francisco
@@ -4484,6 +4485,8 @@ the-clubhouse-at-the-presidio-golf-course-san-francisco
 blaze-fast-fired-pizza-san-francisco
 anonymous-asian-san-francisco
 crazy-pepper-san-francisco
+=======
+>>>>>>> d1ef4c29aa57b96996b8a037c6a833423a1b6192
 skool-san-francisco
 specialtys-café-and-bakery-san-francisco-44
 pineapple-king-bakery-san-francisco-2
@@ -4829,6 +4832,7 @@ natives-bar-san-francisco-2
 uncle-joe-san-francisco
 lobos-creek-valley-trail-at-the-presidio-san-francisco
 peets-coffee-san-francisco-24
+<<<<<<< HEAD
 tsunami-panhandle-san-francisco-2
 zabb-thai-cuisine-san-francisco
 seismic-coffee-san-francisco-2
@@ -4956,3 +4960,5 @@ american-indian-market-and-powwow-san-francisco
 griddle-fresh-san-francisco
 novela-san-francisco-2
 musical-stairs-san-francisco
+=======
+>>>>>>> d1ef4c29aa57b96996b8a037c6a833423a1b6192
