@@ -1,0 +1,174 @@
+Cup of Tai Ice Tea                            
+Cup of Peach Ice Tea                            
+Cup of Snapple Ice Tea                            
+Vegetable Spring Rolls
+Vegetable Pot Stickers                            
+Salt and Pepper Vegetable Ball
+Beef on the Sticks
+Vegetable Steamed Dumplings                            
+Pork Steamed Dumplings                            
+Mini Shanghai Pork Buns                            
+Combination Dim Sum
+Ming's Eggplant                            
+Deep Fried Samosa                            
+Deep Fried Oyster                            
+Ming's Wrap                            
+Tomato and Egg Flower Soup
+Hot Sour Soup
+Spinach Mushroom with Tofu Soup                            
+Monk's Garden Soup
+Hong Kong Wor Wonton Soup                            
+Seafood Hot and Sour Soup with Basil
+Soft Tofu Salad with Chili and Scallions                            
+Spinach Salad with Ginger Sauce                            
+Broccoli Salad with Garlic Sauce                            
+String Bean with Dry Shrimp Salad                            
+Red Oil Wonton Salad                            
+Bean Sprouts Cucumber Salad                            
+Mango Salad with Tiger Prawns                            
+Papaya and Seasonal Greens Salad                            
+Cold Noodle Salad                            
+Chicken Mu-Shu
+Mango and Pineapple Chicken                            
+Red Ginger Chicken                            
+Double Mushroom and Chicken                            
+Chinese Broccoli with Chicken                            
+Mix Vegetable with Chicken                            
+Wild Pepper Chicken
+Whole Roast Duck                            
+Whole Crispy Chicken                            
+Pork Egg Fu Young                            
+Vegetable Scrambled Egg                            
+Chicken Scrambled Egg                            
+Beef Scrambled Egg                            
+Pork Scrambled Egg                            
+Seafood Egg Fu Young                            
+Combination Egg Fu Young                            
+Seafood Scrambled Egg                            
+Combination Scrambled Egg                            
+Prawns with Tofu in Lobster Sauce
+Garlic Squid                            
+Jalapeno Squid
+Stir Fried Triple Delight                            
+Szechuan Flounder Fillet                            
+Sweet and Sour Flounder Fillet                            
+Salt and Pepper Squid                            
+Double Mushroom and Prawns                            
+Prawns over Chinese Baby Bok-Choy                            
+Volcano Prawns
+Salmon with Asparagus
+Portobello Mushroom with Prawns                            
+Prawns with Vegetable                            
+Vegetable Jalapeno Fried Rice                            
+Chicken Jalapeno Fried Rice                            
+Beef Jalapeno Fried Rice                            
+Pork Jalapeno Fried Rice                            
+Singapore Style Noodle
+Vegetable Hong Kong Style Crispy Noodle                            
+Chicken Hong Kong Style Crispy Noodle                            
+Beef Hong Kong Style Crispy Noodle                            
+Pork Hong Kong Style Crispy Noodle                            
+House Special Lao Mein                            
+Wild Pepper Spice Noodle                            
+Vegetable Fried Brown Rice                            
+Chicken Fried Brown Rice
+Beef Fried Brown Rice                            
+Pork Fried Brown Rice                            
+Seafood Jalapeno Fried Rice                            
+Combination Jalapeno Fried Rice                            
+Seafood Fried Brown Rice                            
+Combination Fried Brown Rice                            
+Seafood Hong Kong Style Crispy Noodle                            
+Combination Hong Kong Style Crispy Noodle                            
+A. Wild Pepper Lamb Chop                            
+B. Princess Prawn                            
+C. Szechuan Crispy Beef
+D. Basil Eggplant with Prawns and Scallops
+E. Dry Braised Chicken Wings
+F. Salt and Pepper Triple Delight
+G. Black Forest Pork                            
+H. Lemon Fish                            
+I. Black Pepper Beef in Sizzling Plate
+J. Old Country Scallops                            
+K. Jade Prawns                            
+L. King Salmon Steak                            
+M. Walnut Prawns                            
+N. Satay Beef in Sizzling Plate                            
+O. Happy Family                            
+P. Mini Szechuan Hot Pot
+Q. Minced Chicken Lettuce Cups                            
+R. Mountain City Chicken
+S. Mussels with Black Bean Sauce                            
+T. Double Mushroom and Triple Delight                            
+U. Three Delicacies                            
+V. Ming's Dinner
+W. Spicy Beef with Scallion in Wine Sauce
+Steamed Mixed Vegetable                            
+Steamed Mixed Vegetables with Chicken
+Steamed Broccoli with Bean Curd                            
+Steamed Mixed Vegetables with Buckwheat Noodle                            
+Wild Pepper Tofu
+Vegetable Mu-Shu                            
+Chili Potato
+Hunan Eggplant
+Cumin Tofu
+General Tsao Tofu
+Black Mushroom with Baby Bok Choy
+String Bean with Tofu in Garlic and Salt                            
+Dry Sauteed String Bean
+Szechuan Buddha
+Indian Monk
+Pressed Flavored Tofu with Bamboo Tofu                            
+Shang Hai Tofu                            
+Double Mushroom with Chop Sui                            
+Wild Pepper Eggplant                            
+Walnut Asparagus                            
+Chinese Broccoli with Ginger Sauce                            
+Authentic Mapo Tofu
+Wild Pepper Meatless Chicken
+Szechuan Meatless Chicken
+General Tsao Meatless Chicken                            
+Dry Braised Meatless Chicken
+Flavor Meatless Chicken
+Lemon Grass Meatless Chicken                            
+Sesame Beef
+Hunan Hot Pepper Beef
+Lamb with Green Onion                            
+Satay Beef in Sizzling Plate                            
+Cow on the Snow                            
+Hunan Hot Pepper Pork                            
+Shredded Pork with Garlic Sauce                            
+Dry Braised Crispy Pork                            
+Ants on the Tree                            
+Salt and Pepper Spareribs                            
+Double Mushroom and Shredded Pork                            
+Peking Style Pork Chop                            
+String Bean with Tofu in Garlic and Salt Lunch Special                            
+Dry Sauteed String Bean Lunch Special                            
+Szechuan Buddha Lunch Special                            
+Cumin Beef Lunch Special                            
+Broccoli Beef Lunch Special                            
+Beef with Chinese Broccoli Lunch Special                            
+Hunan Hot Pepper Pork Lunch Special                            
+Black Forest Pork Lunch Special                            
+Twice Cooked Pork Lunch Special
+Dry Braised Crispy Pork Lunch Special                            
+Shredded Pork with Garlic Sauce Lunch Special                            
+Wild Pepper Chicken Lunch Special                            
+Wild Pepper Tofu Lunch Special                            
+Tofu with Beef Lunch Special                            
+Szechuan Chicken Lunch Special                            
+Chicken with Vegetable Lunch Special                            
+Orange Chicken Lunch Special                            
+Kung Pao Tofu Lunch Special
+General Tsao Chicken Lunch Special                            
+General Tsao Tofu Lunch Special                            
+Prawns with Tofu in Lobster Sauce Lunch Special                            
+Calamari with Black Bean Sauce Lunch Special
+Prawns with Vegetable Lunch Special                            
+Wild Pepper Meatless Chicken Lunch Special                            
+General Tsao Meatless Chicken Lunch Special                            
+Curry Meatless Chicken Lunch Special
+Crispy Chicken Lunch Special
+Salt and Pepper Pork Chop Lunch Special
+Slice of Cheesecake                            

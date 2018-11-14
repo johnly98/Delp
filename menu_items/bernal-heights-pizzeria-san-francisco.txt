@@ -1,0 +1,58 @@
+oz. Canned Soda                            
+-Liter Bottled Soda                            
+Carton Milk                            
+Minute Maid Juice                            
+Piece Buffalo Wings                            
+Meatballs al Sugo                            
+Brazilian Chicken Croquettes                            
+Baiano Chicken Bites                            
+Breaded Pawns                            
+Frango A Passarinho                            
+Small House Salad                            
+Insalata Della Casa                            
+New England Clam Chowder                            
+Brazilian Salad                            
+Chef Salad                            
+Popeye's Spinach                            
+Prawns Fettuccine                            
+Fettuccine Frutti Di Mare                            
+Salmon Special                            
+Fettuccine Primavera                            
+Fettuccine Al Pesto                            
+Chicken Fettuccini Alfredo
+Spaghetti Marinara                            
+Spaghetti Bolognese
+Spaghetti Eggplant                            
+Ravioli                            
+Chicken Bacon Ranch
+Meat Lovers
+Veggie Lovers
+Frutti Di Mare                            
+TH Street Special                            
+Greek Goddess
+Hawaiian
+Pesto Tuscano                            
+Mushroom Special Pizza                            
+Amazon Veggie Pizza                            
+Classic Italian Pizza                            
+Sardinian Pizza                            
+Mexi-Cali                            
+Heights Special
+Pizza D'Marco                            
+Mr. Bernal
+Dolores Special                            
+Authentic Panini                            
+Meatball Sub                            
+Chicken Parmigiana Sub                            
+Eggplant Parmigiana Sub                            
+Hamburger                            
+Grilled Chicken Breast Sandwich                            
+Eggplant Parmesan Sandwich                            
+Philly Cheese Sandwich                            
+Mozzarella and Ricotta Calzone                            
+Mozzarella, Ricotta and 1 Item Calzone                            
+Veggie Calzone                            
+Mozzarella and Ricotta with 2 Items Calzone                            
+Flan
+Passion Fruit Mousse
+Chicken Picatta

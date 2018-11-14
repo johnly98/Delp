@@ -1,0 +1,196 @@
+Calamari in Spicy Sauce                            
+Sliced in BBQ Pork                            
+Wonton in Spicy Sauce                            
+Green Onion in Pan Cake                            
+Piece Fried Wonton                            
+Piece Egg Roll                            
+Piece Pork Pot Stickers
+Piece Beef Teriyaki                            
+Piece Fried Chicken Wing                            
+Piece Fried Prawns                            
+Chef's Special Hot Plate for 2                            
+Bean Curd and Spinach Soup                            
+Special Wonton Soup
+Seaweed Egg Flower Soup
+Sizzling Rice Soup
+Chef's Special Seafood Soup                            
+West Lake Beef Soup
+Shrimp Salad                            
+Meatless Salad
+Sweet and Sour Pork
+Twice Cooked Pork
+Pork with Plum Sauce                            
+Shredded Pork in Spicy Sauce                            
+Pork with 2 Delicate Mushrooms                            
+Pork in Black Bean Sauce                            
+BBQ Pork with Mixed Vegetables                            
+Kung Pao Pork
+Pork with String Bean                            
+Mandarin Pork                            
+Szechuan Pork                            
+Beef with Oyster Sauce                            
+Tomato Beef                            
+Curry Beef
+Shredded Beef with Spicy Sauce                            
+Mu Shu Beef                            
+Beef with Black Bean Sauce                            
+Beef with Bean Sauce                            
+Mongolian Beef
+Hunan Beef                            
+Beef with Mixed Vegetables                            
+Beef with Snow Peas
+Beef with String Bean                            
+Chef's Special Beef
+Orange Peel Beef
+Beef with Broccoli
+Beef on Hot Plate                            
+Szechuan Beef
+Hunan General Prawns                            
+Calamari in Black Bean Sauce                            
+Calamari with Mixed Vegetables                            
+Hunan Calamari                            
+Kung Pao Prawns                            
+Prawns with Broccoli                            
+Curry Prawns                            
+Prawns with Spicy Sauce                            
+Prawns in Black Bean Sauce                            
+Prawns with String Bean                            
+Prawns with Mixed Vegetables                            
+Szechuan Prawns                            
+Prawns in Lobster Sauce                            
+Sweet and Sour Prawns
+Prawns with 2 Delicate Mushrooms                            
+Prawns with Snow Pea                            
+Mu Shu Prawns                            
+Sizzling Rice Prawns                            
+Cashew Prawns
+Lemon Prawns                            
+Chef's Special Prawns                            
+Scallops and Prawns                            
+Kung Pao Scallops                            
+Scallops in Black Bean Sauce                            
+Scallops with Broccoli                            
+Seafood on Hot Plate                            
+Seafood Deluxe
+Family Happiness                            
+Mongolian Chicken                            
+Chicken Egg Fu Yung                            
+Sweet and Sour Chicken
+Almond Chicken                            
+Cashew Chicken
+Curry Chicken
+Chicken with String Bean
+Mu Shu Chicken                            
+Broccoli Chicken                            
+Chicken with Mixed Vegetables                            
+Chicken in Black Bean Sauce                            
+Honey Wrapped Chicken
+Chicken with 2 Delicate Mushrooms                            
+House Special Chicken                            
+Chef's Special Chicken
+Hunan General Chicken
+Szechuan Chicken                            
+Lemon Chicken
+Chicken with Snow Reo                            
+BBQ Duck                            
+Crispy Chicken                            
+Crispy Duck
+Beef Chow Mein
+Vegetable Chow Mein
+Chicken Chow Mein
+Tomato Beef Chow Mein
+BBQ Pork Chow Mein
+Curry Chicken Chow Mein                            
+Shrimp Chow Mein
+Combination Chow Mein
+Beef Chow Fun
+Chicken Chow Fun                            
+BBQ Pork Chow Fun
+Shrimp Chow Fun
+Noodle Soup                            
+Combination Chow Fun
+Pork Fried Rice
+Vegetable Fried Rice                            
+Beef Fried Rice                            
+Chicken Fried Rice
+BBQ Pork Fried Rice
+Young Chow Fried Rice                            
+Combination Fried Rice
+Honey Walnut Shrimp
+Chef's Special                            
+Salt Pepper Fish                            
+Salt Pepper Prawn                            
+Ginger Onion Fish
+Fish in Black Bean Sauce                            
+Salt Pepper Pork Chops
+Peking Pork Chops                            
+Pepper Chili Chicken                            
+Szechuan Vegetable                            
+Fresh Vegetable Combination                            
+Braised Bean Curd                            
+Bean Curd in Spicy Sauce                            
+Bean Curd with Mixed Vegetables                            
+Bean Curd with Mushrooms                            
+Mu Shu Vegetable                            
+Dry Fried String Beans
+Stir Fried String Bean                            
+Stir Fried Bok Choy                            
+Eggplant with Spicy Sauce                            
+Braised Eggplant                            
+Eggplant with Plum Sauce                            
+Stir Fried Broccoli                            
+Vegetable 3 Kinds                            
+Broccoli with Spicy Sauce                            
+Lo Hon Chai                            
+Meatless Chicken with Vegetables                            
+Kung Pao Meatless Chicken                            
+Cashew Meatless Chicken                            
+Sweet and Sour Meatless Chicken
+Chef's Special Meatless Chicken                            
+Lemon Meatless Chicken                            
+Szechuan Meatless Chicken                            
+Vegetable Egg Fu Yung                            
+Stir Fried Cabbage with Special Sauce                            
+Dry Fried String Bean Lunch Special                            
+Szechuan Vegetable Lunch Special                            
+Bean Curd with Vegetable Lunch Special                            
+Stir Fried Vegetable Lunch Special                            
+Eggplant in Spicy Sauce Lunch Special
+Stir Fried String Bean Lunch Special                            
+Pork in Spicy Sauce Lunch Special                            
+Twice Cooked Pork Lunch Special                            
+Hunan General Chicken Lunch Special                            
+Sweet and Sour Chicken Lunch Special                            
+Kung Pao Chicken Lunch Special                            
+Almond Chicken Lunch Special                            
+Chicken in Black Bean Sauce Lunch Special                            
+Chicken with Broccoli Lunch Special                            
+Chicken with Mixed Vegetables Lunch Special                            
+String Bean Chicken Lunch Special                            
+Chicken with Snow Peas Lunch Special                            
+Szechuan Beef Lunch Special                            
+Kung Pao Beef Lunch Special                            
+Beef with Mixed Vegetables Lunch Special                            
+Beef with Broccoli Lunch Special                            
+Curry Beef Lunch Special                            
+Mongolian Beef Lunch Special                            
+Beef with Bean Curd Lunch Special                            
+Kung Pao Prawns Lunch Special                            
+Cashew Prawn Lunch Special                            
+Prawns in Black Bean Sauce Lunch Special                            
+Prawns with Broccoli Lunch Special                            
+Prawns with Snow Pea Lunch Special                            
+Prawns with Mixed Vegetables Lunch Special                            
+Sweet and Sour Prawns Lunch Special                            
+Lemon Prawns Lunch Special                            
+Szechaun Prawns Lunch Special                            
+Prawns in Lobster Sauce Lunch Special                            
+Meatless Chicken with Vegetables Lunch Special                            
+Cashew Meatless Chicken Lunch Special                            
+Almond Meatless Chicken Lunch Special                            
+Lemon Meatless Chicken Lunch Special                            
+Hunan Squid Lunch Special                            
+Seafood Deluxe Lunch Special                            
+Fish in Black Bean Sauce Lunch Special                            
+Pork Chops Lunch Special                            
+Salt and Pepper Prawns Lunch Special

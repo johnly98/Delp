@@ -1,0 +1,55 @@
+Hot WIngs
+Whole Garlic Bread                            
+/2 Garlic Bread
+Extra 18" Large Cheese Pizza                            
+Small 12" Deep Dish Pizza                            
+Medium 14" Deep Dish Pizza                            
+Large 16" Deep Dish Pizza                            
+Extra 18" Large Deep Dish Pizza                            
+Small 12" Calzone                            
+Medium 14" Calzone                            
+Large 16" Calzone                            
+Extra 18" Large Calzone                            
+Piccolo Special Pizza
+Roma Special Pizza                            
+Larkin Special Pizza
+Greco Special Pizza                            
+Chicken BBQ Special Pizza                            
+Meat Lovers Special Pizza                            
+Athena Special Pizza                            
+Arugula Special Pizza                            
+Civic Center Special Pizza
+Tutti Viande Special Pizza
+Margherita Special Pizza                            
+Chicken Garlic Sandwich                            
+Pizza Sub Sandwich
+Spaghetti Bolognese Dinner                            
+Spaghetti Marinara Dinner                            
+Ravioli Meat Sauce a la Carte                            
+Ravioli Cheese a la Carte                            
+Ravioli Cheese Dinner                            
+Lasagna Bolognese Dinner                            
+Vegetarian Lasagna Dinner                            
+Spaghetti Chicken and Mushrooms                            
+Fettuccine Alfredo Dinner                            
+Chicken Fettuccine
+Chicken Fettuccine Dinner                            
+Tortellini Cheese a la Carte                            
+Tortellini Cheese Dinner                            
+Fettuccine Pesto                            
+Fettuccine Pesto Dinner                            
+Spaghetti, Chicken and Mushrooms Dinner                            
+Sizzling Deal                            
+Two Small Special                            
+Full Meal Deal                            
+Large Pizza Double Deal                            
+Medium Pizza Double Deal                            
+Pizza and Burger                            
+Party Special                            
+Soup Special                            
+Salad 1 Special                            
+Salad 2 Special                            
+Appetizer Special                            
+Pasta Special                            
+Veal Special                            
+Dessert Special                            

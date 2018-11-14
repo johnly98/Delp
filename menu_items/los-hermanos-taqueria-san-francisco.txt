@@ -1,0 +1,51 @@
+Melon                            
+Fresa                            
+Mango                            
+Chilaquiles con Huevo                            
+Huevos con Jamon                            
+Huevos a La Mexicana                            
+Caldo de Res (Pick Up Only)                            
+Caldo de Pollo (Pick Up Only)
+Caldo de Camaron (Pick Up Only)                            
+Caldo 7 Mares (Pick Up Only)                            
+Pozole Caldo (Pick Up Only)                            
+Meduno Caldo (Saturday and Sunday - Pick Up Only)                            
+Shrimp Taco Salad                            
+Chicken Mexican Salad
+Vegetarian Regular Burrito                            
+Vegetarian Super Burrito
+Fish Burrito                            
+Chimichanga Deep Fried Burrito
+Special Mojado Wet Burrito
+Fried Fish Taco                            
+Super Veggie Taco                            
+Tostada Taco                            
+Quesadilla Suiza                            
+Fish Quesadilla                            
+Steak and Prawn Quesadilla                            
+Los Hermanos Nachos
+Torta de Milanesa
+Basic Burger                            
+Avo Burger                            
+Los Hermanos Burger                            
+Chicken Philly Sandwich                            
+Steak Plate                            
+Enchiladas Plate                            
+Flautas Plate                            
+Alambres Plate
+Fajitas Plate                            
+Bistec Ranchero Plate                            
+Steak and Prawn Plate                            
+Camarones a la Diabla Plate
+Camarones a la Plancha Plate                            
+Camarones al Mojo de Ajo Plate                            
+Pescado Frito Plate                            
+Camarones Empanizados Plate                            
+Plato de Tamales Plate                            
+Filete de Pascado Plate                            
+Cocktel de Camaron Plate                            
+Pint Rice                            
+Pint Beans                            
+Pint Sour Cream                            
+Pint Guacamole                            
+Pint Salsa                            

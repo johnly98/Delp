@@ -1,0 +1,30 @@
+#1. 1/4 Lb Junior Burger Meal
+#2. 1/3 Lb Burger Burger Meal                            
+#3. Turkey Burger Meal                            
+#4. Philly Cheese Steak Meal                            
+#5. Steak Sandwich Meal                            
+#6. Chicken Sandwich Meal                            
+#7. Veggie Burger Meal                            
+#8. Fish Burger Meal                            
+Whiz Burger
+/2 Lb Double Burger                            
+Junior Burger
+Burger Burger
+Mushroom Burger
+Chicken Burger
+Chili Burger                            
+Bacon Burger
+Philly Cheese Steak Sandwich
+Grilled Chicken Melt                            
+Grilled Patty Melt                            
+Grilled Tuna Melt                            
+Big Dog                            
+Corn Dog
+Seasoned Crosscut Fries
+Chili Fries                            
+Pieces Chicken Nuggets                            
+Chicken Wings and Fries
+Malted Shake
+Fresh Banana Shake
+Mango Shake
+Freeze Beer Float                            

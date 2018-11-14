@@ -1,0 +1,72 @@
+Chashu                            
+Spinach                            
+Kimchi                            
+Ebi Spicy Mayo
+Nasu Gomae                            
+Shichimi Chicken Salad
+Beef Teriyaki Salad                            
+Tonkatsu                            
+Veggie Tempura                            
+Geso Age                            
+Crispy Daimaru
+Sesame Wings                            
+Pumpkin n Yam Tempura                            
+Beef n Enoki Roll
+Baked Scallop                            
+Kinoko Mushroom Teriyaki
+Noodle with Curry Veggie
+Noodle with Meat Sauce
+Ebi with Garlic Butter
+Spicy Pork                            
+Chashu Ramen                            
+Curry Tonkatsu Ramen
+Curry Chicken Katsu Ramen
+Shrimp Tempura Ramen
+Kimchi Ramen                            
+Nori Ramen
+Spicy Mabo Tofu Ramen
+Garlic Tenderous Rib Ramen
+Beef Stew Ramen
+Kinoko Mushrooms Ramen                            
+Butter and Corn Ramen
+Curry Veggie Ramen
+Curry Beef Ramen
+Tan Tan
+Negi Beef
+Shoga Niku
+Chicken Nugget Robatayaki
+Chicken Wings Robatayaki                            
+Minced Chicken Robatayaki
+Lamb Chop Robatayaki                            
+Ox Tongue Robatayaki
+Pork Neck Robatayaki                            
+Rib Eye Robatayaki                            
+Short Rib Robatayaki                            
+Saba Robatayaki                            
+Salmon Kama Robatayaki                            
+Salmon Fillet Robatayaki                            
+Hamachi Kama Robatayaki                            
+Shisamo Robatayaki                            
+Ika Robatayaki                            
+Asparagus Bacon Robatayaki
+Beef n Green Onion Robatayaki                            
+Chikuwa Robatayaki                            
+Corn Robatayaki                            
+Chicken Gizzard Robatayaki                            
+Shishito Robatayaki                            
+Lilikoi Passion                            
+Chashu Cold Ramen
+Chicken Cold Ramen                            
+Veggie Cold Ramen
+Seafood Yakisoba                            
+Chashu Yakisoba
+Chicken Yakisoba                            
+Black Peppered Beef Yakisoba
+Seafood Okonomiyaki
+Vegetable Okonomiyaki                            
+Beef Okonomiyaki
+Chicken Okonomiyaki
+Curry Veggie                            
+Chahan                            
+Onigiri                            
+Grilled Onigiri

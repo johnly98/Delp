@@ -1,0 +1,215 @@
+Snow Frog
+Papaya
+Bird's Nest
+Snow lotus                            
+Original
+Coconut Milk
+Ginger Juice
+Coconut Milk Sweet Sticky Rice
+Sesame Paste
+Almond Paste
+Red Bean
+Birds Nest
+Sesame Ball
+Peanut Ball
+Red Bean Ball
+Plain Ball                            
+Sesame Filled Glutinous Balls Hot Dessert
+Peanut Filled Glutinous Balls Hot Dessert
+Red Bean Filled Glutinous Balls Hot Dessert                            
+Sesame Paste Hot Dessert                            
+Peanut Paste Hot Dessert
+Almond Paste Hot Dessert
+Sesame and Almond Paste Hot Dessert
+Steamed Pears with Almonds Hot Dessert
+Coconut Milk Sago Hot Dessert
+Coconut Milk Sweet Sticky Rice Hot Dessert                            
+Sweet Sticky Rice and Sago with Coconut Milk Hot Dessert
+Taro in Coconut Milk Sago Hot Dessert
+Taro in Coconut Milk Sweet Sticky Rice Hot Dessert                            
+MoMo ChoCho Hot Dessert                            
+Red Bean Sweet Soup Hot Dessert
+Green Bean with Kelp Sweet Soup Hot Dessert                            
+Red and Green Bean Sweet Soup Hot Dessert                            
+Ginger Milk Curd Hot Dessert
+Pieces Plain Glutinous Balls with Crushed Peanuts Hot Dessert
+Pieces Sesame Glutinous Balls with Crushed Peanuts Hot Dessert
+Pieces Peanut Glutinous Balls with Crushed Peanuts Hot Dessert
+Pieces Red Bean Glutinous Balls with Crushed Peanuts Hot Dessert
+Pieces Pan Fried Sesame Glutinous Balls with Crushed Peanuts Hot Dessert                            
+Peanut and Sesame Paste Hot Dessert                            
+Egg and Ham Sandwich                            
+Egg and Luncheon Meat Sandwich
+Pork Chop Sandwich and Fries
+Chicken Steak Sandwich and Fries
+Condensed Milk and Butter Toast
+Condensed Milk and Peanut Butter Toast
+Nutella Toast
+Two Fried Eggs Noodles                            
+Fried Egg and Ham Noodles                            
+Fried Egg and Luncheon Meat Noodles
+Fried Egg and Sausage Noodles
+Preserved Pickles and Sliced Pork Noodles                            
+Pickle Cabbage and Sliced Pork Noodles                            
+Pan Fried Pork Chop Noodles                            
+Chicken Steak Noodles                            
+Deep Fried Chicken Wings Noodles
+Soya Chicken Wings Noodles                            
+Salt and Hot Pepper Chicken Wings Noodles                            
+Curry Fishballs Noodles                            
+Fried Fishballs Noodles                            
+Beef Briskets Noodles                            
+Soy Sauce Noodles                            
+XO Sauce Noodles
+Beef Chop                            
+Salt and Hot Pepper Pork Chop
+Chicken and Pork Chop                            
+Curry Fish and Squid Balls                            
+Deep Fried Chicken Wings and Fries                            
+Steamed Rice Crepe
+HK Style Waffles
+Soya Chicken Wings Snack                            
+Curry Fishballs Snack                            
+Fried Fishballs Snack                            
+Fried Squid Balls
+Deep Fried Soya Tofu
+Spicy Popcorn Chicken
+Original Popcorn Chicken
+Pan Fried Rice with XO Sauce
+Salt and Hot Pepper Chicken Wings Snack                            
+Salt and Hot Pepper Fried Tofu
+Potstickers with XO Sauce                            
+Fried Triplets                            
+Fried Snacks Sampler Plate                            
+Beef Chap                            
+Seasonal Vegetables with Oyster Sauce                            
+Salt and Hot Pepper Calamari
+Curry Calamari                            
+Snow Frog in Papaya Boat                            
+Birds Nest in Papaya Boat                            
+Mango Pudding
+Mixed Fruits Mango Pudding
+Tortoise Jelly
+Mixed Fruit Tortoise Jelly
+B-Kid Grass Gelly                            
+Mango Go-Go
+Mixed Fruit Bowl
+Birds Nest in Mixed Fruit Chocolate Milk Sago                            
+Mango Go-Jelly                            
+Snow Frog in Mixed Fruit Coconut Milk Sago                            
+Ice Cream Puffle
+Super mango go go
+Super B-kid grass jelly
+Mango empire
+Super mango pudding
+Super tortoise jelly
+Mixed fruit sundae
+Mango Sago
+Strawberry Sago
+Watermelon Sago
+Honeydew Sago
+Cantaloupe Sago
+Papaya Sago
+Mixed Fruit Coconut Milk Sago                            
+Mixed Fruit Mango Puree Sago
+Mixed Fruit Strawberry Puree Sago
+Mixed Fruit Watermelon Puree Sago
+Mixed Fruit Honeydew Puree Sago                            
+Mixed Fruit Cantaloupe Puree Sago                            
+Mixed Fruit Papaya Puree Sago                            
+Avocado Sago                            
+Mango Sweet Sticky Rice                            
+Strawberry Sweet Sticky Rice
+Watermelon Sweet Sticky Rice                            
+Honeydew Sweet Sticky Rice                            
+Cantaloupe Sweet Sticky Rice                            
+Papaya Sweet Sticky Rice                            
+Mixed Fruit Coconut Milk Sweet Sticky Rice                            
+Mixed Fruit Mango Puree Sweet Sticky Rice                            
+Mixed Fruit Strawberry Puree Sweet Sticky Rice                            
+Mixed Fruit Watermelon Puree Sweet Sticky Rice                            
+Mixed Fruit Honeydew Puree Sweet Sticky Rice                            
+Mixed Fruit Cantaloupe Puree Sweet Sticky Rice                            
+Mixed Fruit Papaya Puree Sweet Sticky Rice                            
+Avocado Sweet Sticky Rice                            
+Mango Grass Jelly
+Strawberry Grass Jelly                            
+Watermelon Grass Jelly                            
+Honeydew Grass Jelly                            
+Cantaloupe Grass Jelly                            
+Papaya Grass Jelly                            
+Mixed Fruit Coconut Milk Grass Jelly                            
+Mixed Fruit Mango Puree Grass Jelly                            
+Mixed Fruit Strawberry Puree Grass Jelly                            
+Mixed Fruit Watermelon Puree Grass Jelly                            
+Mixed Fruit Honeydew Puree Grass Jelly                            
+Mixed Fruit Cantaloupe Puree Grass Jelly                            
+Mixed Fruit Papaya Puree Grass Jelly                            
+Avocado Grass Jelly                            
+Mango Glutinous Ball
+Strawberry Glutinous Ball                            
+Watermelon Glutinous Ball                            
+Honeydew Glutinous Ball                            
+Cantaloupe Glutinous Ball                            
+Papaya Glutinous Ball                            
+Mixed Fruit Coconut Milk Glutinous Ball
+Mixed Fruit Mango Puree Glutinous Ball                            
+Mixed Fruit Strawberry Puree Glutinous Ball                            
+Mixed Fruit Watermelon Puree Glutinous Ball                            
+Mixed Fruit Honeydew Puree Glutinous Ball                            
+Mixed Fruit Cantaloupe Puree Glutinous Ball                            
+Mixed Fruit Papapya Puree Glutinous Ball                            
+Avocado Glutinous Ball                            
+Red Bean Shaved Ice Drink
+Grass Jelly Shaved Ice Drink                            
+Mixed Fruit Shaved Ice Drink
+Red Bean Iced Milk Tea Shaved Ice Drink                            
+Grass Jelly Iced Milk Tea Shaved Ice Drink                            
+Grass Jelly Coffee Shaved Ice Drink                            
+Hot HK Milk Tea
+Hot Coffee with Condensed Milk                            
+Hot HK Milk Tea with Coffee                            
+Hot Black Coffee                            
+Hot Lemon Tea                            
+Hot Honey with Lemon                            
+Hot Coke with Lemon                            
+Boiled Coke with Ginger and Lemon
+Hot Citron Honey                            
+Hot Red Dates Honey                            
+Hot Ovaltine
+Hot Horlick                            
+Hot Oval-Hor                            
+Hot Fresh Soy Milk
+Hot Coconut Milk Tea
+Hot American Ginseng Tea with Honey                            
+Iced HK Milk Tea
+Iced Coffee with Condensed Milk
+Iced HK Milk Tea with Coffee                            
+Iced Black Coffee                            
+Iced Lemon Tea
+Iced Honey with Lemon                            
+Iced Coke with Lemon                            
+Iced 7-Up with Lemon                            
+Iced Citron Honey                            
+Iced Red Dates Honey                            
+Iced Ovaltine                            
+Iced Horlick                            
+Iced Oval-Hor                            
+Iced Fresh Soy Milk                            
+Coke Float                            
+Root Beer Float                            
+-Up Float                            
+Iced Coconut Milk Tea
+Iced Thai Tea                            
+Mango Juice
+Strawberry Juice
+Papaya Juice
+Honeydew Juice
+Chicken Steak Daily Special                            
+Two Fried Eggs and Luncheon Meat Daily Special                            
+Preserved Pickles and Sliced Pork Daily Special                            
+Pan Fried Pork Chop Daily Special                            
+Deep Fried Chicken Wings Daily Special                            
+Chicken and Pork Daily Special
+Pickle Cabbage and Sliced Pork Daily Special                            
+Mixed Grill

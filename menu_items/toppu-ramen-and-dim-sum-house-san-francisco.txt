@@ -1,0 +1,92 @@
+S01. Miso Soup                            
+S02. Kimchi Soft Tofu Soup
+S03. Asari Sakamushi                            
+S04. Wor Wonton Soup                            
+SA1. Toppu Chicken Salad                            
+SA2. Wakame Salad                            
+SA3. Cold Spinach Salad                            
+SR1. California Roll                            
+SR2. Toppu Roll
+A1. Sweet Potato Fries
+A1. French Fries                            
+A2. Two Steamed Buns
+A3. Edamame                            
+A4. Kimchi                            
+A5. Buta No Kakuni                            
+A6. Agedashi Tofu                            
+A7. Vegetable Gyoza                            
+A8. Pork and Veg Gyoza
+A9. Kaki Furai                            
+A10. Special Fried Chicken Wings                            
+A11. Baked Mussels                            
+A12. Grilled Unagi                            
+A13. Grilled Korean Short Ribs
+A14. Chicken Kara-age
+A15. Pork Katsu                            
+A16. Chicken Teriyaki                            
+A17. Beef Steak Teriyaki                            
+A18. Salmon Teriyaki                            
+A19. Takoyaki                            
+A20. Toppu Pancake                            
+A21. Deep Fried Calamari
+A22. Shrimp Tempura                            
+A23. Pork Coarse Sausage                            
+A24. Enoki Mushroom Wrapped with Bacon                            
+A25. Shrimp Wrapped with Bacon                            
+A26. Scallops Wrapped with Bacon                            
+D1. Dim Sum Platter
+D2. Steamed Shrimp Dumpling
+D3. Steamed Pork Dumpling
+D4. Steamed Shanghai Xiao Lung Bao                            
+D5. Steamed BBQ Pork Bun
+D6. Egg Custard Bun
+D7. Steamed Taro Bun                            
+D8. Stewed Vegetarian Bun                            
+D9. Sticky Rice in Lotus Leaf                            
+D10. Steamed Rice Noodles Rolls                            
+D11. Boiled Beef Tripe                            
+D12. Crispy Veggie Egg Roll                            
+D13. Pan Fried Leek and Shrimp Dumpling                            
+D14. Fried Wonton with Spicy Mayonnaise Sauce                            
+D15. Spicy Beef Comb                            
+D16. Fried Turnip Cake with House Sauce
+D17. Fried Sesame Balls
+SP1. Honey Walnut Prawns                            
+SP2. Broccoli Beef                            
+SP3. Sweet and Sour Pork
+SP4. Sesame Chicken                            
+SP5. Vegetable Delight                            
+SU1. Seafood Yaki Udon                            
+SU2. Yaki Udon                            
+SU3. Vegetable Yaki Udon                            
+JR1. Toppu Combo Fried Rice                            
+JR2. Unagi Fried Rice
+JR3. Salmon Fried Rice                            
+JR4. Kimchi Fried Rice                            
+JR5. Vegetables Fried Rice                            
+TR1. Salmon Teriyaki Rice                            
+TR2. Unagi Teriyaki Rice                            
+TR3. Beef Steak Teriyaki Rice                            
+TR4. Chicken Teriyaki Rice
+TR5. Tofu and Vegetable Teriyaki Rice                            
+CR1. Hamburger Curry Rice
+CR2. Beef Steak Curry Rice                            
+CR3. Cutlet Pork Chop Curry Rice                            
+CR4. Chicken Curry Rice
+CR5. Tofu and Vegetable Curry Rice                            
+CR6. Shrimp Tempura Curry Rice                            
+R1. Tonkotsu Ramen                            
+R2. Tonkotsu Miso Ramen
+R3. Vegetarian Soy Sauce Ramen
+R4. Vegetarian Miso Ramen
+R5. San Francisco Ramen
+R6. Spicy Miso Pork Belly Ramen
+R7. Seafood                            
+R8. Beef                            
+DE1. Ice Cream                            
+DE2. Toppu Ice Cream Sundae
+DE3. Cream Puffs                            
+Hot Assorted Organic Tea                            
+Bottle Still Water                            
+Bottle Sparkling Water                            
+Unsweetend Ice Tea                            

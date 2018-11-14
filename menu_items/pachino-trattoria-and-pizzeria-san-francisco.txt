@@ -1,0 +1,88 @@
+Polpettine                            
+Tricolore Salad                            
+Burrata and Prosciutto di Parma                            
+Bucatini Carbonara Plate                            
+Rigatoni Salsiccia Plate                            
+Spaghetti della Nonna Plate                            
+Pappardelle alla Bolognese Plate                            
+Orecchiette alla Norma Plate                            
+Ravioli di Magro
+Spaghetti del Mare                            
+Angel Hair Spaghetti
+" Verdure Pizza                            
+" Margherita Extra Pizza                            
+" Margherita Pizza Dinner                            
+" Margherita Extra Pizza Dinner                            
+" Verdure Pizza Dinner                            
+" Chicken Breast Pizza                            
+" Funghi and Taleggio Pizza                            
+" Dei Re Pizza                            
+" Pollastra Pizza Dinner                            
+" Funghi and Taleggio Pizza Dinner                            
+' Affumicata Pizza Dinner                            
+" Dei Re Pizza Dinner                            
+" Margherita Pizza                            
+" Marinara Pizza                            
+" Parma Classic Pizza                            
+" Prosciutto and Burrata Pizza
+" Diavola Pizza                            
+" Pepperoni Pizza                            
+" Zingara Pizza                            
+" Marinara Pizza Dinner                            
+" Puttanesca Pizza Dinner                            
+" Parma Pizza Dinner                            
+" Pachino Pizza Dinner                            
+" Diavola Pizza Dinner                            
+" Pepperoni Pizza Dinner                            
+" Zingara Pizza Dinner                            
+Soup of the Day Lunch
+Polpettine Lunch                            
+Caprese Salad Lunch                            
+Tricolore Salad Lunch                            
+Garlic Bread Lunch                            
+Grilled Calamari Lunch                            
+Bruschetta Lunch                            
+Burrata and Prosciutto di Parma Lunch                            
+Bucatini Carbonara Lunch                            
+Rigatoni Salsiccia Lunch                            
+Spaghetti della Nonna Lunch                            
+Pappardelle alla Bolognese Lunch                            
+Orecchiette alla Norma Lunch                            
+Ravioli Margo Lunch                            
+Spaghetti Del Mare Lunch                            
+Angel Hair Spaghetti Lunch                            
+King Salmon Fillet Lunch                            
+" Verdure Pizza Lunch                            
+" Margherita Extra Pizza Lunch                            
+" Margherita Pizza Lunch                            
+" Chicken Breast Pizza Lunch                            
+" Funghi and Taleggio Pizza Lunch                            
+" Dei Re Pizza Lunch                            
+" Pollastra Pizza Lunch                            
+" Affumicata Pizza Lunch                            
+" Marinara Pizza Lunch                            
+" Parma Classic Pizza Lunch                            
+" Prosciutto and Burrata Lunch                            
+" Diavola Pizza Lunch                            
+" Pepperoni Pizza Lunch                            
+" Zingara Pizza Lunch                            
+" Puttanesca Pizza Lunch                            
+" Parma Pizza Lunch                            
+" Pachino Pizza Lunch                            
+Ginger Beer
+Limonata Pellegrino                            
+Aranciata Pellegrino                            
+Small Pellegrino Water                            
+Large Pellegrino Water                            
+Root Beer IBC                            
+Flourless Chocolate Cake
+Limoncello Italian Cheesecake                            
+Limoncello Torte                            
+Caesar with Chicken Breast                            
+Caesar with Grilled Prawns                            
+Chopped Salad with Shrimp                            
+Siciliana Pizza
+Cotto Cheese                            
+Pistacchi e Salsiccia Pizza
+Gorgonzola e Noci Pizza                            
+Toscana

@@ -1,0 +1,120 @@
+Piece Steamed Dumpling
+Piece Fried Spring Roll                            
+Piece Fried Curry Potato Triangle                            
+Piece Chicken Nuggets                            
+Piece Drumstick with Sweet and Sour Sauce                            
+Piece Fried Taro Cake                            
+Salt and Pepper Fried Pumpkin
+Crispy Tofu with Salt and Chili Peppers
+Piece Fried Won Ton                            
+Hot and Sour Soup with Won Ton                            
+Won Ton Soup with Vegetable and Mushroom
+Sweet Corn with Tofu Soup
+Thai Style Soup
+Veggie Shark's Fin Soup
+Piece Lettuce Wraps                            
+Braised Spareribs with Broccoli
+Taro, Pumpkin and Fatty Pork with Bean Sauce                            
+Soy Sauce, Soy Chicken with Bok Choy
+Mixed Mushroom, Pumpkin & String beans                            
+Black Mushroom, Veggie Abalone and Sea Slugs                            
+Fried Chicken with Lemon Sauce
+Sweet and Sour Soy Chicken
+Cuttlefish w/Chinese Satay Sauce
+Coconut Sauce ,Taro, Pumpkin & S.chicken                            
+Broccoli soy Beef                            
+Black Bean Sauce                            
+Cordyceps Mushroom
+Sliced Fatty Pork                            
+Lotus Root, Lily, Fungus, Peas and Ginko Nuts                            
+Stir Fried Mixed Green Vegetables                            
+Stir Fried Pea Sprouts with Ginger                            
+Braised Spareribs with Daikon
+Bean Curd Pouch                            
+Pai Pai Tofu Balls with Broccoli
+String Bean w/ soy sea bass                            
+Braised Bean Curd Tofu with Vegetables and Mushroom                            
+Homemade Dry Tofu with Veggies, Ham and Celery                            
+Fresh Mushroom with Soft Tofu and Vegetables                            
+Curry Lamb                            
+Curry Pumpkin Tofu and Mixed Vegetables                            
+Braised String Beans
+Eggplant in Spicy Chilli Sauce                            
+Kung Pao Tofu with Peppers and Broccoli                            
+House Special Chow Mein                            
+Vegetables Chow Mein                            
+Veggie Chicken Chow Mein in Black Pepper Sauce                            
+Singapore Style Chow Rice Vermicelli                            
+Stir Fried E-mein Noodle                            
+Braised E-mein Noodle                            
+Preserved Mustard Greens                            
+Won Ton Noodle Soup with Vegetables                            
+Veggie Chicken, Green Vegetables with Noodle Soup
+Curry Mixed Vegetables and Tofu Udon Soup                            
+Side Order Pan Fried Noodle                            
+Curry Fried Rice with Soy Chicken                            
+Green Vegetables Fried Rice                            
+Spinach and Pine Nuts Fried Rice                            
+Bowl of Steamed White Rice                            
+Bowl of Steamed Brown Rice
+L38. House Special Chow Mein Noodle Lunch                            
+L39. Vegetables Chow Mein Noodle Lunch                            
+L40. Veggie Chicken Chow Mein Lunch                            
+L41. Singapore Style Chow Rice Vermicelli Lunch                            
+L42. Preserved Mustard Greens and Fried Rice Cake Lunch                            
+L43. Won Ton Noodle Soup Lunch                            
+L44. Veggie Chicken, Green Vegetable with Noodle Soup Lunch
+L45. Curry Tofu Udon Soup Lunch
+L46. Thai Style Spicy and Sour Soup with Rice Vermicelli Lunch                            
+L47. House Special Fried Rice Lunch                            
+L48. Curry Fried Rice Lunch                            
+L49. Green Vegetable Fried Rice Lunch
+L50. Spinach and Pine Nuts Fried Rice Lunch                            
+L21 Braised Bean Curd Tofu                            
+L22. Basil Tofu w/ Mixed vegetables                            
+L23. Sliced Fatty pork                            
+L24. Eggplant w/ soy sea Bass                            
+L25. Lotus Root , Lily , Fungus                            
+L26. Golden Knots w/ vegetables                            
+L27. basil Soy chicken w/ Mixed Vegetables                            
+L28 Spareribs w/ Dai Kon , Lettuce
+L29. Sweet Walnut, Tofu w/ Broccoli                            
+L01. Pumpkin, String Beans Lunch Special                            
+L02. Sweet and Sour Sauce Soy Chicken Lunch Special
+L03. 4 Piece Lemon Sauce Fillet Lunch Special                            
+L04. Coconut Sauce with Taro Lunch Special
+L05. Broccoli with Soy Beef Lunch Special                            
+L06. Braised Spareribs with Broccoli Lunch Special                            
+L07. String Beans with Shredded Homemade Dry Tofu Lunch Special                            
+L08. String Beans with Soy Beef Lunch Special                            
+L09. Eggplant and String Beans Lunch Special                            
+L10. Eggplant, Tofu and Basil Lunch Special                            
+L11. Satay Sauce Lunch Special                            
+L12. Bean Curd Pouch Lunch Special                            
+L13. Veggie Deluxe Lunch Special                            
+L14. Bean Curd Rolls with Vegetable Lunch Special                            
+L15. Stir Fried Mixed Green Vegetables Lunch Special                            
+L16. String Bean Lunch Special
+L17. Braised Tofu Lunch Special
+L18. Pai Pa Tofu Balls Lunch Special
+L19. Homemade Dry Tofu Lunch Special                            
+L20. Black Bean Sauce Lunch Special                            
+L21. Braised Bean Curd Tofu Lunch Special                            
+L22. Basil Tofu with Mixed Green Vegetables Lunch Special                            
+L23. Sliced Fatty Pork Lunch Special
+L24. Eggplant with Soy Sea Bass Lunch Special
+L25. Lotus Root, Lily, Fungus, Peas and Ginko Nuts Lunch Special                            
+L26. Golden Knots Lunch Special                            
+L27. Basil Soy Chicken with Mixed Vegetables Lunch Special                            
+L28. Braised Spareribs Lunch Special                            
+L29. Sweet Walnuts with Tofu and Broccoli Lunch Special                            
+L21. Braised Bean Curd tofu w/ Vegetables                            
+L21                            
+L30. Braise String Beans Lunch                            
+L31. Eggplant in Spicy Chilli Sauce Lunch                            
+L32. Kung Pao Soy Chicken Lunch
+L33. Spicy Ma Po Tofu Lunch                            
+L34. Curry Pumpkin Tofu and Mixed Vegetables Lunch                            
+L35. Mongolian Soy Beef Lunch
+L36. Twice Cooked Veggie Pork Lunch
+L37. Kung Pao Tofu Lunch                            

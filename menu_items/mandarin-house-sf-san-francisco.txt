@@ -1,0 +1,195 @@
+B1. 4 Piece Vegetarian Spring Roll                            
+B2. 6 Piece Pot Stickers                            
+B3. 6 Piece Crab Puff                            
+B4. BBQ Pork                            
+B5. 8 Piece Fried Prawns                            
+B6. 8 Piece Red Oil Wonton                            
+B7. 6 Piece Fried Chicken Wings                            
+B8. 4 Piece BBQ Spareribs                            
+B9. Green Onion Pancake
+B12. Combination Plate                            
+B10. Fried Oyster                            
+B11. Curry Fish Ball                            
+C1. Hot and Sour Soup
+C2. Chicken Corn Soup
+C3. Spinach Tofu Soup                            
+C8. Westlake Beef Soup                            
+C4. Sizzling Rice Soup                            
+D6. Sliced Pork Hot and Sour Soup                            
+C5. Seafood Tofu Soup
+D8. Combination Wonton Soup                            
+C6. Wor Wonton Soup                            
+C7. Crab Corn Soup                            
+B13. Chicken Salad                            
+B14. Spicy Cucumber Salad                            
+B15. Mango Prawns Salad
+A1. 4 Piece Siu Mai                            
+A2. 4 Piece Shrimp Dumpling                            
+A3. 3 Piece BBQ Pork Bun                            
+B4. 6 Piece Shanghai Baby Bun                            
+A4. Dim Sum Combo Plate                            
+G1. Kung Pao Chicken                            
+G2. Cashew Chicken                            
+G3. Mixed Vegetable Chicken                            
+G4. Basil Chicken                            
+G5. Asparagus Chicken                            
+G6. Curry Chicken                            
+G7. General Tso's Chicken
+H8. Orange Chicken                            
+G8. Sesame Chicken                            
+G9. Lemon Chicken                            
+G10. Salt and Pepper Chicken Wings                            
+G11. 1/2 Roasted Duck                            
+G12. Salt and Pepper Chicken                            
+I1. Broccoli Beef                            
+I2. Mongolian Beef                            
+I3. String Bean Beef                            
+I4. Tofu Beef                            
+I5. Chinese Broccoli Beef                            
+I6. Mango Beef                            
+I7. Sesame Beef                            
+I9. Ginger and Scallion Lamb                            
+I10. Cumin Lamb                            
+I8. Tomato Beef                            
+J1. Sweet and Sour Pork                            
+J2. Shredded Pork with Spicy Garlic Sauce                            
+J3. Mixed Vegetable with BBQ Pork                            
+J4. Salt and Pepper Pork Chop                            
+J4. Peking Pork Chop                            
+J6. Yangtze Spareribs Clay Pot                            
+H1. Kung Pao Prawn                            
+H2. Sweet and Sour Prawn                            
+H3. Salt and Pepper Prawn                            
+H4. Asparagus Prawn                            
+H6. Calamari with Black Bean Sauce                            
+H5. Asparagus Salmon                            
+K7. Mixed Vegetables Salmon                            
+K8. Broccoli with Seafood Combo                            
+K9. Seafood Combo Clay Pot                            
+K10. Sesame Prawns                            
+K11 Salt & Pepper Fish Fillet
+H7. Fish Fillet with Black Bean Sauce                            
+H8. Prawn with Scrambled Egg                            
+H9. Dry Braised Flounder Fish                            
+H10. Sweet Corn Sauce Over Cod Fillet                            
+K1. Kung Pao Meatless Chicken                            
+K2. Mango Meatless Chicken                            
+K3. Curry Meatless Chicken                            
+K4. Basil Meatless Chicken                            
+K5. Cumin Meatless Chicken                            
+K6. General Tsao's Meatless Chicken                            
+K7. Sweet and Sour Meatless Chicken                            
+K8. Lemon Meatless Chicken                            
+K9. Salt and Pepper Meatless Chicken
+L1. Sauteed Vegetable with Garlic Sauce                            
+L2. Double Mushroom with Baby Bok Choy                            
+L3. Chinese Broccoli                            
+L4. Dry Sauteed String Bean                            
+L5. Eggplant with Spicy Garlic Sauce                            
+M6. Orange Eggplant                            
+L6. Asparagus with Black Bean Sauce                            
+L7. Garlic Pea Sprout
+M9. Chinese Broccoli                            
+L8. Fried Tofu with Mixed Vegetable                            
+L9. Mapo Tofu                            
+L10. String Bean Fried Tofu                            
+L11. Basil Tofu                            
+L12. Salt and Pepper Tofu
+L13. Salt and Pepper Eggplant                            
+M1. Fried Rice                            
+M1. Chow Mein                            
+M1. Seafood Fried Rice
+M1. Prawns Fried Rice                            
+M1. Seafood Chow Mein                            
+M1. Prawns Chow Mein                            
+M2. Combination Fried Rice
+M2. Combination Chow Mein                            
+M3. Kung Pao Chicken Fried Rice
+M4. Black Pepper Beef Fried Rice                            
+M5. Beef Chow Fun
+M6. Hong Kong Style Noodle
+M6. Vegetable Hong Kong Style Noodle                            
+M6. Seafood Hong Kong Style Noodle                            
+M6. Prawns Hong Kong Style Noodle                            
+M7. Singapore Style Rice Noodle
+M8. Basil Fried Rice
+M9. House Spicy Fried Rice
+M10. Korean Style Noodle Soup                            
+M11. Combination Noodle Soup                            
+M12. Steamed Brown Rice                            
+M13. Steamed White Rice                            
+D1. Mu Shu Vegetable                            
+D2. Mu Shu Pork
+D3. Mu Shu Chicken                            
+D4. Mu Shu Beef                            
+D5. Mu Shu Prawns                            
+E1. Mandarin Clay Pot
+E2. Sizzling Rice with Seafood Combo                            
+E3. Dry Braised Chicken Wings                            
+E4. Walnut Prawns                            
+E5. Spicy Eggplant Chicken and Prawns                            
+E6. Salt and Pepper Triple Delight                            
+E7. Pea Sprout with Fish Filet                            
+E8. Salt and Pepper Pork Chop                            
+E9. Buddhas Delight                            
+E10. Seafood Combo Clay Pot                            
+E11. Orange Eggplant                            
+E12. Sizzling Black Pepper Beef                            
+E13. Boneless Mandarin Chicken                            
+E14. Boneless Mandarin Duck                            
+E15. Yangtze Style Spareribs Clay Pot                            
+E16. Orange Chicken                            
+Bento Box Special A                            
+Bento Box Special B                            
+Bento Box Special C                            
+F1. Steamed Mixed Vegetable                            
+F2. Steamed Mixed Vegetable with Soft Tofu                            
+F3. Steamed Mixed Vegetable with Chicken                            
+F4. Steamed Mixed Vegetable with Prawns                            
+G5. Steamed Broccoli with Tofu                            
+G6. Steamed Broccoli with Chicken                            
+G7. Steamed Broccoli with Prawns                            
+F5. Steamed Mixed Vegetables with Salmon                            
+General Tsao's Chicken Lunch Special
+Tofu Beef Lunch Special                            
+Asparagus Beef Lunch Special                            
+Ginger and Scallion Lamb Lunch Special                            
+Mixed Vegetable with BBQ Pork Lunch Special                            
+Walnut Prawns Lunch Special                            
+Salt and Pepper Calamari Lunch Special                            
+Pea Sprout with Fish Fillet Lunch Special
+Salmon with Black Bean Sauce
+Asparagus Salmon Lunch Special                            
+Sesame Meatless Chicken Lunch Special                            
+Mixed Vegetable Meatless Chicken Lunch Special                            
+Sauteed Mixed Vegetable Lunch Special                            
+Eggplant with Spicy Garlic Sauce Lunch Special
+Catering Fried Rice                            
+Catering Chow Mein                            
+Catering Baked Chicken Legs                            
+Catering Baked Spare Ribs                            
+Catering Baked Pork                            
+Catering Vegetable Spring Rolls                            
+Catering Pot Stickers                            
+Catering Kung Pao Chicken                            
+Catering General Chicken                            
+Catering Sesame Chicken                            
+Catering Dry Braised Chicken Wings                            
+Catering Mongolian Beef                            
+Catering String Bean Beef                            
+Catering Sweet and Sour Pork                            
+Catering BBQ Pork with Mixed Vegetable                            
+Catering Kung Pao Prawns                            
+Catering Walnut Prawns                            
+Catering Fish Fillet with Black Bean Sauce                            
+Catering Sauteed Mixed Vegetable                            
+Catering Eggplant with Spicy Garlic Sauce                            
+Catering Fried Tofu with Mixed Vegetable                            
+Catering Garlic Broccoli                            
+Catering Kung Pao Meatless Chicken                            
+Catering Basil Meatless Chicken                            
+Catering General Meatless Chicken                            
+Catering Sweet and Sour Meatless Chicken                            
+Catering Fried Rice Seafood
+Catering Chow Mein Seafood                            
+Catering Mandarin Chicken                            

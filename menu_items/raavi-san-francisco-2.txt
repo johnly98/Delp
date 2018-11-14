@@ -1,0 +1,48 @@
+Samosas
+Chicken Seekh Kebab
+Fish Tandoori
+Prawn Tandoori                            
+Chicken Leg Tandoori
+Chicken Breast Tandoori
+Assorted Tandoori Kebab                            
+Chilly Chicken                            
+Lamb Seekh Kebab
+Papad                            
+Lamb Rogan Josh Curry                            
+Gobhi Ghost Curry                            
+Cholay Ghost Curry                            
+Karahai Ghost Curry                            
+Bhindi Ghost Curry                            
+Daal Ghost Curry                            
+Achar Lamb Curry                            
+Lamb Korma Curry                            
+Gobhi Chicken Curry
+Cholay Chicken Curry
+Karahai Chicken Curry                            
+Bhindi Chicken Curry
+Achar Chicken Curry                            
+Chicken Korma Curry                            
+Yellow Daal Tadka                            
+Daal Saag
+Baingan Bharta
+Bhindi Do Pyaza                            
+Paneer Makhanwala
+Kadhai Paneer
+Aloo Vindaloo
+Fish Curry
+Kadhai Shrimp                            
+Shrimp Saag
+Prawn Vindaloo                            
+Fish Palak
+Fish Karahai                            
+Achar Fish                            
+Fish Vindaloo                            
+Fish Tikka Masala                            
+Achar Prawn                            
+Kadhai Prawn
+Plain Basmati Rice
+Mutter Pulao                            
+Aloo Parantha                            
+Laccha Parantha                            
+Plain Yogurt                            
+Water Bottle                            

@@ -1,0 +1,130 @@
+A1. Por-J Vegetarian Spring Rolls                            
+A2. Samosa                            
+A3. Satay                            
+A4. Deep Fried Calamari                            
+A5. Deep Fried Pumpkin                            
+A6. Crispy Tofu                            
+A7. Fresh Spring Rolls
+A8. Shrimp Rolls                            
+A9. Imperial Rolls                            
+A10. Devil Wings
+SO1. Tom Yum Soup
+SO2. Tom Kha Soup
+SO3. Gang Jued Soup                            
+SO4. Po Tak Soup                            
+N1. Noodle Soup                            
+N2. Duck Noodle Soup
+N3. Tom Yum Noodle Soup
+N4. Tom Kha Noodle Soup
+N5. Rad Nah Noodle Soup                            
+S1. Larb Salad                            
+S2. Larb Duck Salad                            
+S3. Papaya Salad                            
+S4. Thai Salad                            
+S5. Green Bean Salad                            
+S6. Grill Shrimp Salad                            
+S7. Calamari Salad                            
+S8. Glass Noodle Salad                            
+S9. Larb Pla Salad                            
+P1. Pad Thai                            
+P2. Pad Seew                            
+P3. Pad Kee Mao                            
+P4. Pad Woon Sen                            
+P5. Kua Kai                            
+C1. Green Curry Beef
+C2. Red Curry Chicken                            
+C3. Yellow Curry Stewed Chicken                            
+C4. Mussamun Curry Stewed Beef                            
+C5. Panang Curry Stewed Beef
+C6. Shrimp and Pumpkin Curry
+C7. Roasted Duck Red Curry
+T1. Pad Kra Praw (Pad Basil)                            
+T2. Pad Ma Kuer (Pad Eggplant)
+T3. Pad Prik Khing (String Bean)
+T4. Hi Ma Kai (Cashew Nuts)
+T5. Pad Khing Sod (Ginger)                            
+T6. Param                            
+T7. Pad Cha                            
+T8. Crispy Duck Kra Praw (Basil Duck)                            
+R1. Thai Fried Rice                            
+R2. Spicy Fried Rice                            
+R3. Pineapple Fried Rice                            
+R4. Fried Chicken Fried Rice
+R5. BBQ Chicken Fried Rice
+R6. Crab Fried Rice
+R7. Duck Fried Rice
+B1. BBQ Chicken                            
+B2. BBQ Pork                            
+B3. BBQ Beef                            
+V1. Veggie Delight                            
+V2. Param Tofu                            
+V3. Pad J                            
+V4. Tofu Prik Khing                            
+V5. Veggie Curry                            
+V6. Eggplant Tofu                            
+V7. Pumpkin Red Curry Tofu                            
+F1. Eggplant Salmon                            
+F2. Grill Salmon                            
+F3. Panang Salmon                            
+F4. Green Curry Salmon                            
+F5. Garlic Salmon                            
+F6. Dinner Larb Pla Catfish                            
+F6. Three Flavor Catfish
+F7. Garlic Catfish
+F8. Green Curry Catfish                            
+D1. Combo Beef Dinner Special                            
+D2. Noodle Curry Chicken (Kao Soi) Dinner Special
+D3. Healthy Clay Pot Dinner Special                            
+D4. Thai Thai Spicy Beef Dinner Special
+D5. Glass Noodle Shrimp Pad Thai Dinner Special
+D6. Egg Noodle Shrimp Dinner Special                            
+D7. Hidden Chicken (Khao Mok Kai) Dinner Special
+D8. Seafood Green Curry Fried Rice Dinner Special
+D9. Seafood Soft Curry Dinner Special
+D10. Panang Soft Shell Crab Dinner Special                            
+D11. Shrimp Green Curry Garlic Noodle Special
+O1. Jasmine Rice                            
+O2. Brown Rice                            
+O8. Sticky Rice                            
+O3. Coconut Rice                            
+O4. Peanut Sauce                            
+O5. Cucumber Salad                            
+O6. Steamed Vegetables                            
+O7. Steamed Noodles                            
+Lunch Fried Banana with Coconut Ice Cream                            
+Lunch Stick Rice with Mango                            
+Lunch Roti Pancake with Sweetened Condensed Milk                            
+E1. FBI                            
+Dinner Sticky Rice with Mango                            
+E2. Sticky Rice with Mango                            
+Catering Por Jay
+Catering Samosa                            
+Catering Satay Chicken Skewers                            
+Catering Tofu Skewers                            
+Catering Por Sod
+Catering Pad Basil                            
+Catering Pad Eggplant                            
+Catering Pad Cashew Nut                            
+Catering Pad Ginger                            
+Catering Basil Chicken                            
+Catering Cashew Chicken                            
+Catering Larb Salad                            
+Catering Papaya Salad (Som Tum)                            
+Catering Green Bean Salad                            
+Catering Cucumber Salad                            
+Catering Pad Se Ew
+Catering Pumpkin Curry                            
+Catering Masman Curry                            
+Catering Vegetarian Param                            
+Catering Vegetarian Pad Thai                            
+Catering Vegetarian Fried Rice                            
+Catering Vegetarian Pad-J                            
+Catering Vegetarian Pad Basil                            
+Catering Vegetarian Green Curry                            
+Catering Vegetarian Red Curry                            
+Catering Vegetarian Yellow Curry
+Catering Vegetarian Pumpkin Curry                            
+Catering Vegetarian Pad Ginger                            
+Catering Vegetarian Mix Veggie                            
+Catering Vegetarian Pad See Ew
+Regular Thai Iced                            

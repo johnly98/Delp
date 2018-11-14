@@ -1,0 +1,59 @@
+Cheese Pizza Slice
+-Topping Pizza Slice                            
+Margarita Pizza Slice                            
+Americana Pizza Slice                            
+AT&T Pizza Slice                            
+Clam Bake Pizza Slice                            
+Mission Pizza Slice                            
+Fresh Choice Pizza Slice                            
+Classic Pizza Slice                            
+San Franciscan Pizza Slice                            
+Greek Pizza Slice                            
+Prima Pizza Slice                            
+Pesto Delight Pizza Slice                            
+Chef Pizza Slice                            
+Porto Pizza Slice                            
+Meat Lover Pizza Slice                            
+Veggie Deluxe Pizza Slice                            
+Pollo Loco Pizza Slice                            
+ers Pizza Slice                            
+Supreme Special Pizza Slice
+Rainbow Pizza Slice                            
+Soma Pizza Slice                            
+Garden Pizza Slice                            
+Cowboy Pizza Slice                            
+Americana Pizza                            
+AT&T Pizza                            
+Classic Pizza
+Porto Pizza                            
+Pollo Loco Pizza                            
+ers Pizza                            
+Supreme's Special Pizza
+Rainbow Pizza                            
+Soma Pizza                            
+Cowboy Pizza                            
+Margarita Calzone                            
+Americana Calzone                            
+AT&T Calzone                            
+Clam Bake Calzone                            
+Mission Calzone
+Fresh Choice Calzone                            
+Classic Calzone
+San Franciscan Calzone
+Greek Calzone
+Prima Calzone                            
+Pesto Delight Calzone                            
+Chef Calzone                            
+Porto Calzone                            
+Meat Lover Calzone                            
+Veggie Deluxe Calzone                            
+Pollo Loco Calzone                            
+ers Calzone                            
+Supreme's Special Calzone                            
+Rainbow Calzone                            
+Soma Calzone                            
+Garden Calzone                            
+Cowboy Calzone                            
+Green Ravioli                            
+Healthy Chicken                            
+flan                            

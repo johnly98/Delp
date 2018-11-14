@@ -1,0 +1,209 @@
+Fried Wonton Chips                            
+Deep-Fried Pawns                            
+Crispy Onion Pancake                            
+Honey BBQ Pork Slices                            
+Fried Garlic Calamari                            
+Honey BBQ Spareribs                            
+Fried Chicken Nuggets                            
+Veggies Tempura                            
+Hot and Sour Soup with Chicken
+Veggie Hot and Sour Soup                            
+Assorted Veggies with Tofu Soup                            
+Egg Blossom Soup                            
+Seafood with Tofu Soup                            
+Large Miso Soup                            
+Small Hot and Sour Soup
+Spicy Combo Noodle Soup
+Pork Moo Shu                            
+Chicken Moo Shu                            
+Beef Moo Shu                            
+Shrimp Moo Shu                            
+Vegetable Moo Shu                            
+A. Walnut Prawns                            
+B. Triple Crowns with Scallions
+C. Phoenix and Dragon
+D. General's Chicken                            
+E. Szechuan Duck                            
+F. Beef and Scallops                            
+G. Crispy Chicken with Sesame                            
+I. Happy Family Seafood Combo
+K. Salmon with Ginger Garlic and Veggies
+L. May Lee's Vegetables                            
+M. Basil Chicken                            
+M. Basil Beef                            
+N. Salt and Pepper Pork Chop                            
+N. Salt and Pepper Chicken                            
+H. Orange Chicken                            
+Seafood and Tofu with Veggie                            
+P. Jalapeno Beef                            
+P. Jalapeno Chicken                            
+J. Jalapeno Fish                            
+J. Jalapeno Prawns                            
+O. Spicy Honey Dry Fried Chicken Wings                            
+Beef with Snowpeas                            
+Ginger Beef                            
+Beef with Assorted Vegetables                            
+Beef with Oyster Sauce
+Jalapeno Beef with Chef's Sauce                            
+Spicy Shredded Pork                            
+Pork Chop with Salt and Pepper                            
+Peking Pork Ribs                            
+Black Bean Sauce with BBQ Spareribs                            
+Ginger Lamb                            
+Salmon with Broccoli                            
+Prawns with Assorted Vegetables                            
+Hunan Prawns                            
+Prawns in Garlic Sauce                            
+Curry Sauce Prawns                            
+Prawns and Scallops                            
+Fish with Black Bean Sauce                            
+Chinese Green with Fish Fillet                            
+Salmon with Black Pepper Sauce                            
+Salmon with Two Kinds of Mushroom                            
+Salmon with Tofu and Mushrooms                            
+Jalapeno Salmon with Black Beans Sauce                            
+Jalapeno Fish                            
+Jalapeno Prawns                            
+Tofu with Black Mushrooms                            
+Kung Pao Tofu with Peanuts
+Bok Choy and Black Mushrooms                            
+Szechuan Eggplant with Tofu
+Salt and Pepper Tofu with Tofu                            
+Tofu with Black Bean Sauce                            
+Spicy String Bean with Tofu
+Vegetarian Egg Foo Young                            
+May Lee's Veggie                            
+Garlic Chinese Green
+Small Veggie Fried Rice                            
+Small Chicken Fried Rice                            
+Assorted Veggie Fried Rice                            
+Spicy Garlic Fried Rice
+Spicy Mongolian Beef Fried Rice                            
+Spicy Basil Chicken Fried Rice                            
+Spicy Beef Fried Rice                            
+Vegetarian Chow Mein Noodle
+Soft Chow Mein Noodle                            
+Combo Chow Mein
+Soft Noodle with Tomato and Chicken                            
+Chow Fun Rice Noodle                            
+Small Veggie Chow Mein                            
+Small Chicken Chow Mein
+Garlic Chow Mein Noodle                            
+Spicy Mongolian Beef Chow Mein Noodle                            
+Mongolian Beef Over Rice Lunch Special                            
+Mongolian Chicken Over Rice Lunch Special                            
+Sesame Beef Over Rice Lunch Special                            
+Sesame Chicken Over Rice Lunch Special                            
+String Bean Beef Over Rice Lunch Special                            
+String Bean Chicken Over Rice Lunch Special                            
+Broccoli Beef Over Rice Lunch Special                            
+Broccoli Chicken Over Rice Lunch Special                            
+Chinese Greens with Beef Over Rice Lunch Special                            
+Kung Pao Beef Over Rice Lunch Special                            
+Kung Pao Chicken Over Rice Lunch Special                            
+General's Chicken Over Rice Lunch Special                            
+Chicken and Shrimp with Vegetable Over Rice Lunch Special                            
+Spicy Mongolian Beef Chow Mein Lunch Special                            
+Combination Chow Mein Lunch Special                            
+Combination Fried Rice Lunch Special                            
+Veggie Chow Mein Lunch Special                            
+Veggie Fried Rice Lunch Special                            
+Beef Chow Fun Rice Noodle Lunch Special                            
+Sweet and Sour Chicken Over Rice Lunch Special                            
+Eggplant and Tofu Over Rice Lunch Special                            
+Chinese Green with Fish Filet Over Rice Lunch Special                            
+Salt and Pepper Pork Chop Lunch Special                            
+Salt and Pepper Chicken Lunch Special                            
+Basil Chicken Over Rice Lunch Special                            
+Basil Beef Over Rice Lunch Special                            
+Seafood with Tofu Over Rice Lunch Special                            
+String Bean with Spareribs Over Rice Lunch Special                            
+Walnut Prawn over Rice Lunch Special                            
+Salmon with Tofu Over Rice Lunch Special                            
+Sweet and Sour Pork Over Rice Lunch Special                            
+Tofu Salmon Over Rice Lunch Special                            
+Scrambled Egg with Beef Over Rice Lunch Special                            
+Scrambled Egg with Chicken Over Rice Lunch Special                            
+Butter Molen Beef Over Rice                            
+Butter Molen Chicken Over Rice                            
+Shrimp Teriyaki                            
+Tuna and Salmon Sashimi                            
+Salmon Sashimi.                            
+Tuna Maki                            
+Salmon Maki                            
+Salmon Tuna Roll                            
+Tuna Avocado Roll                            
+Avocado Cucumber Oshinko Roll                            
+Chef's Vegetarian Roll                            
+Regular Sushi Combination                            
+Sushi and Sashimi Combo                            
+Orange Soda                            
+Shrimp and Veggie Tempura                            
+Family Dinner                            
+Combo King Mongolian Beef Special Dinner
+Combo King Salt and Pepper Pork Chop Special Dinner                            
+Combo King String Bean Chicken Special Dinner                            
+Combo King Walnut Prawn Special Dinner                            
+Combo King Orange Chicken Special Dinner                            
+Combo King Broccoli with Beef Special Dinner                            
+Choose Any 3 Dishes                            
+Deep Fried Shrimp Ball                            
+BBQ Pork Bun Dim Sum                            
+Siu Mai                            
+Sesame Balls                            
+Wonton with Chili Sauce                            
+Salt and Pepper Tofu Dim Sum                            
+Vegetable and Pork Dumplings                            
+Shanghai Steamed Dumplings
+Meatless Chicken with Broccoli
+Meatless Kung Pao Chicken                            
+Meatless Cashew Chicken with Veggie                            
+Meatless String Bean Chicken                            
+Meatless General Chicken                            
+Meatless Orange Chicken                            
+Meatless Sweet and Sour Chicken                            
+Meatless Mongolian Chicken                            
+Meatless Mongolian Beef                            
+Meatless Prawn                            
+Meatless Beef with Broccoli                            
+Meatless Prawn with Broccoli                            
+Meatless Kung Pao Beef                            
+Meatless Kung Pao Prawn
+Meatless Beef with String Bean                            
+Meatless Prawn with String Bean                            
+Hunan Meatless Beef                            
+Hunan Meatless Prawn                            
+Basil Meatless Beef                            
+Basil Meatless Prawn                            
+String Beans and Chicken Breast                            
+Jalapeno Chicken with Chef's Sauce
+Chicken with Cashew                            
+Kung Pao Chicken with Peanuts                            
+Chicken Breast with Broccoli                            
+Mongolian Chicken Breast                            
+Chicken Breast with Snow Pea                            
+Curry Chicken Breast                            
+Chicken Breast with Assorted Vegetables                            
+Chicken Wings with Spicy Honey Sauce                            
+Hunan Chicken Breast                            
+Crispy Chicken with Sesame                            
+Chicken Breast with Tofu                            
+Chicken with Eggplant                            
+Mongolian Beef Over Rice Dinner Special                            
+Mongolian Chicken Over Rice Dinner Special                            
+Sesame Beef Over Rice Dinner Special                            
+Sesame Chicken Over Rice Dinner Special                            
+String Bean Beef Over Rice Dinner Special                            
+String Bean Chicken Over Rice Dinner Special                            
+Broccoli Beef Over Rice Dinner Special                            
+Broccoli Chicken Over Rice Dinner Special                            
+Chinese Greens with Beef Over Rice Dinner Special                            
+Kung Pao Beef Over Rice Dinner Special                            
+Kung Pao Chicken Over Rice Dinner Special                            
+General's Chicken Over Rice Dinner Special                            
+Chicken and Shrimp with Vegetable Over Rice Dinner Special                            
+Combination Chow Mein Dinner Special                            
+Combination Fried Rice Dinner Special                            
+Veggie Chow Mein Dinner Special                            
+Veggie Fried Rice Dinner Special                            
+Beef Chow Fun Rice Noodle Dinner Special

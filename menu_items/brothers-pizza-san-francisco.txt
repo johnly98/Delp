@@ -1,0 +1,107 @@
+Brother's Special Pizza
+Chef's Special All Meat Pizza                            
+BBQ Chicken Pizza
+Simple Chicken Pizza                            
+Green and White Special Pizza                            
+Chicken Tikka Masala Pizza
+Potato Pizza
+White Sauce Chicken Pizza
+Chicken Pesto Pizza                            
+Indian Style Vegetarian Pizza
+Tandoori Chicken Pizza
+Gourmet Vegetarian Pizza
+NEW Chicken Combo Masala Pizza                            
+Chicken Tandoori Red                            
+Seekh Kebab                            
+Tandoori Tikka Yellow
+Vegetarian                            
+Tikka and Tandoori Combo
+Palak Paneer without Dal                            
+Chicken Tikka Masala without Dal                            
+Shahi Paneer without Dal                            
+Baked Chicken
+BBQ Pork Ribs                            
+Hawaiian Salad                            
+Clam Chowder Soup                            
+Dal Soup                            
+Meatball Sandwich with Meat Sauce                            
+Italian Sausage Sandwich                            
+Chef's All Meat Sandwich                            
+BBQ Chicken Sandwich with Onions                            
+Tandoori Sandwich
+Hawaiian Sandwich                            
+Tikka Masala Sandwich                            
+Brother's Sandwich                            
+Tandoori Wings Appetizer                            
+Hot Wings Appetizer                            
+Cheese Sticks Appetizer                            
+Stuffed Jalapenos Appetizer                            
+Chicken Nuggets Appetizer                            
+Brother's Basket                            
+Holiday Special Wings                            
+Honey BBQ Wings Appetizer                            
+Pesto Bread
+Cheesy Pesto Bread                            
+Buttery Toasted French Bread                            
+Buttery Toasted French Bread with Cheese                            
+Meatballs with Meat Sauce                            
+Cheesy Garlic Bread                            
+Baked Potato Wedges with Garlic and Parsley
+Ranch (on the side)                            
+Baked Fries with Garlic and Parsley                            
+Pizza Sauce (on the side)                            
+Liter Soda Bottle                            
+Arizona Iced Tea                            
+Chocolate Mousse Cake
+Spaghetti with Meatballs and Meat Sauce A la Carte                            
+Spaghetti with Mushrooms and Meat Sauce A la Carte                            
+Ravioli with Meatballs and Meat Sauce A la Carte                            
+/2 Spaghetti & 1/2 Ravioli A la Carte                            
+/2 Spaghetti & 1/2 Ravioli with Meatballs and Meat Sauce A la Carte                            
+Baked Meat Lasagna A la Carte                            
+Chicken Tikka Masala Spaghetti A la Carte                            
+Spaghetti Masala A la Carte                            
+Meat Ravioli A la Carte                            
+Fettuccini A la Carte                            
+Cheese Tortellini A la Carte                            
+Spaghetti A la Carte                            
+Fettuccini Masala A la Carte                            
+Cheese Tortellini Masala A la Carte                            
+Meat Ravioli Masala A la Carte                            
+ers Special                            
+Everyday Pasta Special for 2                            
+Big Giants Special                            
+NBA Special                            
+Super Bowl Special
+Pesto Special Pizza Slice (Pick Up Only)
+Hawaiian Special Pizza Slice (Pick Up Only)                            
+Brother's Special (Pick Up Only)                            
+Tandoori Chicken Special Pizza Slice (Pick Up Only)                            
+Chef's Special All Meat Pizza Slice (Pick Up Only)                            
+Vegetarian Special Pizza Slice (Pick Up Only)                            
+Gourmet Vegetarian Pizza Slice (Pick Up Only)                            
+BBQ Chicken Pizza Slice (Pick Up Only)                            
+Simple Chicken Pizza Slice (Pick Up Only)                            
+Green and White Special Pizza Special (Pick Up Only)                            
+Chicken Tikka Masala Pizza Slice (Pick Up Only)                            
+Potato Pizza Slice (Pick Up Only)                            
+White Sauce Chicken Pizza Slice (Pick Up Only)                            
+Chicken Pesto Pizza Slice (Pick Up Only)                            
+Indian Style Vegetarian Pizza Slice (Pick Up Only)                            
+Margherita Pizza Slice (Pick Up Only)                            
+Build Your Own Pizza Slice (Pick Up Only)                            
+Beer Individual (bottle)                            
+Bottle of Wine                            
+Spaghetti Dinner                            
+Spaghetti with Mushrooms and Meat Sauce Dinner                            
+Spaghetti with Meatballs and Meat Sauce Dinner                            
+Chicken Tikka Masala Spaghetti Dinner                            
+Spaghetti Masala Dinner                            
+/2 Spaghetti & 1/2 Ravioli Dinner                            
+Baked Meat Lasagna Dinner                            
+Fettuccini Dinner                            
+Meat Ravioli Dinner                            
+Cheese Tortellini Dinner                            
+Fettuccini Masala Dinner                            
+Cheese Tortellini Masala Dinner                            
+Meat Ravioli Masala Dinner                            

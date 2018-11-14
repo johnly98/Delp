@@ -1,0 +1,167 @@
+A01. Spring Rolls                            
+A02. Fried Wontons                            
+A03. Fried Crab Wontons
+A04. Fried Prawns                            
+A05. Salt and Pepper Chicken Wings                            
+A06. Korean Style Chicken Wings                            
+A07. Soy Sauce Chicken Wings                            
+A08. Curry Chicken Wings                            
+A09. Fried Salt and Pepper Tofu                            
+A10. Curry Fish Balls                            
+A11. Appetizer Combination Plate                            
+B01. Hot and Sour Soup
+B02. Wonton Soup                            
+B03. Sweet Corn Chicken Chowder                            
+B04. Miso Soup with Fresh Clams                            
+B05. Mixed Vegetable Soup                            
+P01. New York Style Cheese Cake                            
+P02. Green Tea Cheese Cake                            
+P03. Tiramisu Cake                            
+P04. Fried Banana                            
+D01. House Special Chow Mein                            
+D02. Mixed Vegetable Chow Mein                            
+D03. Soy Sauce Chow Mein                            
+D03. Soy Sauce Chow Fun                            
+D04. Chicken and Vegetable Chow Mein                            
+D05. Prawns and Vegetable Chow Mein                            
+D06. Beef and Soy Sauce Chow Fun                            
+D07. Beef in Black Bean Sauce Chow Fun                            
+D08. Crispy Chinese Noodles with Shredded Pork                            
+D10. Assorted Meats Chow Mein                            
+D11. Scrambled Egg and Shrimp Chow Fun                            
+D12a. Singapore Style Rice Noodle                            
+D12b. Singapore Style Rice Fun                            
+D09. Crispy Chinese Noodles with Tomato Beef                            
+D13. Curry Chicken Chow Mein                            
+E01. House Special Fried Rice                            
+E02. Mixed Vegetable Fried Rice                            
+E03. Minced Beef Fried Rice                            
+E04. Salted Fish and Chicken Fried Rice                            
+E05. Pineapple and Chicken Fried Rice                            
+E06. Chicken Fried Rice                            
+E07. BBQ Pork Fried Rice                            
+E08. Egg Fried Rice
+Salmon Fried Rice
+F01. Steamed Rice                            
+F02. Soda                            
+F03a. Snapple                            
+F03b. Vitamin Water                            
+F03c. Sparkling Water                            
+F03d. Red Bull                            
+ITO Unsweetened Green Tea                            
+Tejava Unsweetened Black Tea                            
+G01. Chicken with Black Bean Sauce                            
+G02. Kung Pao Chicken                            
+G03. Cashew Nut with Chicken
+G04. Asparagus with Chicken                            
+G05. Mongolian Chicken                            
+G06. Chicken with Broccoli
+G07. Chicken with String Beans
+G08. Lemon Chicken                            
+G09. Sesame Chicken                            
+G10. Curry Chicken                            
+G11. Sweet and Sour Chicken
+G12. Roasted Duck with Tofu                            
+G13. Roasted Duck (Half)                            
+H01a. Mongolian Beef                            
+H01b. Mongolian Lamb                            
+H02a. Asparagus with Beef                            
+H02b. Asparagus with Lamb                            
+H03a. Beef with Broccoli
+H04a. Tomato Beef                            
+H04b. Tomato Lamb                            
+H05. Chef Special Ox Tail
+H06a. Scrambled Eggs and Beef                            
+H06b. Scrambled Eggs and Lamb                            
+H07a. Beef with String Beans                            
+H07b. Lamb with String Beans                            
+H08. Bitter Melon and Beef with Black Bean Sauce                            
+H09a. Pineapple with Beef                            
+H09b. Pineapple with Lamb                            
+H10a. Spicy Tofu with Beef
+H10b. Spicy Tofu with Lamb                            
+H03b. Lamb with Broccoli                            
+K01. Sweet and Sour Pork
+K02. Shredded Pork with String Beans                            
+K03. Pork Zucchini with Fermented Tofu                            
+K04. Peking Spare Ribs                            
+K05. Salt and Pepper Pork Chop                            
+K06. Lotus Root and Mixed Vegetable with Pork                            
+L01. Sauteed Fish with Ginger and Onion                            
+L02. Fried Salt and Pepper Sauteed Fish                            
+L03. Sauteed Fish with Sweet Corn                            
+L04. Sauteed Fish Filet with Vegetable                            
+L05. Sauteed Fish with Black Bean Sauce                            
+L06. Sweet and Sour Sauteed Fish                            
+L07. Sauteed Fish Bitter Melon with Black Bean Sauce                            
+M01. Mongolian Prawn                            
+M02. Scrambled Egg with Prawns
+M03. Walnut Prawns                            
+M04. Prawns with Broccoli                            
+N01. Braised Tofu with Mixed Vegetable                            
+N02. Braised Vegetable with Mushroom                            
+N03. Eggplant with Spicy Garlic Sauce                            
+N04. Hot and Spicy String Beans                            
+N05. Hot and Spicy Pork and Tofu                            
+N06. Vegetarian Deluxe                            
+N07. Mushrooms, Egg Tofu with Vegetable                            
+N08. Kung Pao Meatless Chicken
+N09. Bitter Melon with Scrambled Egg                            
+N10. Garlic with Cabbage                            
+N11. Garlic with Broccoli                            
+S01) Kung Pao Lunch Special                            
+S02) Mongolian Lunch Special                            
+S03) Scrambled Egg Lunch Special                            
+S04) String Beans Lunch Special                            
+S05) Mixed Vegetables Lunch Special                            
+S06) Cashew Nuts Lunch Special                            
+S07) Broccoli Lunch Special
+S08) Sweet and Sour Sauce Lunch Special
+S09) Spicy Tofu Lunch Special                            
+S10) Curry Sauce Lunch Special                            
+S11) Salt & Pepper Pork Chop Lunch Special                            
+S12) Salt & Pepper Chicken Wings Lunch Special                            
+S13) Singapore Style Rice Noodles Lunch Special                            
+S14) Beef & Soy Sauce Chow Mein Lunch Special                            
+S15) Salted Fish & Chicken Fried Rice Lunch Special                            
+S16) Soy Sauce Chow Mein Lunch Special                            
+C01. BBQ Pork Bun
+C02. Pork Siu Mai                            
+C03. Shrimp Dumplings                            
+C04. Shanghai Dumplings                            
+C05. Dim Sum Combo
+Vegetarian Dinner                            
+Spring Rolls Tray                            
+Salt and Pepper Chicken Wings Tray
+Korean Style Chicken Wings Tray                            
+Soy Sauce Chicken Wings Tray                            
+Curry Chicken Wings T                            
+Curry Fish Balls Tray                            
+Kung Pao Chicken Tray                            
+Beef and Broccoli Tray
+Chicken and Broccoli Tray
+Lemon Chicken Tray                            
+Sesame Chicken Tray                            
+Peking Spare Ribs Tray                            
+Salt and Pepper Pork Chops Tray                            
+Sweet and Sour Sauteed Fish Tray                            
+Vegetarian Deluxe Tray                            
+House Special Fried Rice Tray                            
+Mixed Vegetable Fried Rice Tray                            
+Minced Beef Fried Rice Tray                            
+Salted Fish and Chicken Fried Rice Tray
+Pineapple and Chicken Fried Rice Tray                            
+Chicken Fried Rice Tray                            
+BBQ Pork Fried Rice Tray                            
+House Special Chow Mein Tray                            
+Mixed Vegetable Chow Mein Tray                            
+Soy Sauce Chow Mein Tray                            
+Soy Sauce Chow Fun Tray                            
+Chicken and Vegetable Chow Mein Tray                            
+Prawns and Vegetable Chow Mein Tray                            
+Beef and Soy Sauce Chow Fun Tray                            
+Beef in Black Bean Sauce Chow Fun Tray
+Assorted Meats Chow Mein Tray                            
+Singapore Style Rice Noodle Tray                            
+Singapore Style Fun Tray                            
+Curry Chicken Chow Mein Tray                            

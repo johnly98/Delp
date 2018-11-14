@@ -1,0 +1,85 @@
+Can of Soda                            
+Lemonade                            
+Lemon Iced Tea                            
+Perrier                            
+Young Coconut Juice with Pulp                            
+Glass Bottle of Soda                            
+Arizona Green Tea                            
+San Pellegrino                            
+Veggie Summer Rolls
+Shrimp Rolls
+Grilled Pork Rolls
+Cabbage Salad with Fried Tofu
+Papaya Salad with Beef                            
+Papaya Salad with Prawns                            
+Cabbage Salad with Chicken                            
+Grilled Beef Rolls                            
+Veggie Crispy Rolls                            
+Combo Rolls
+Fried Chicken Wings                            
+Fresh Avocado Roll                            
+Fried Tofu Roll                            
+Spice Chicken Noodle Soup                            
+Curry Chicken Noodle Soup
+Prawns Noodle Soup                            
+Pork Noodle Soup
+Pork Chops Noodle Soup                            
+Beef Combo Noodle Soup                            
+Rare Beef Noodle Soup                            
+Brisket Noodle Soup                            
+Mixed Vegetables Noodle Soup                            
+Curry Veggie w TOFU PHO                            
+Spice Chicken Garlic Noodles
+Curry Chicken Garlic Noodles
+Beef Garlic Noodles
+Prawn Garlic Noodles                            
+Pork Garlic Noodles
+Pork Chops Garlic Noodles                            
+Mixed Vegetable Garlic Noodles                            
+Garlic Noodle Bowl                            
+Curry Mixed Veggie/ Tofu & Garlic Noodle                            
+Spiced Chicken Rice
+Curry Chicken Rice                            
+Beef Rice                            
+Prawns Rice                            
+Pork Rice                            
+Pork Chops Rice                            
+Mixed Vegetables Rice                            
+Curry Veggie with TOFU Rice                            
+Spice Chicken Vermicelli                            
+Beef Vermicelli
+Prawns Vermicelli                            
+Pork Vermicelli
+Pork Chops Vermicelli                            
+Mixed Vegetables Vermicelli                            
+Imperial Rolls Vermicelli                            
+Veggie Crispy Rolls Vermicelli                            
+Beef Combo (Rare Brisket) Satay                            
+Rare Beef Satay PHO                            
+Brisket Satay PHO                            
+Five Spice Chicken Satay PHO                            
+Prawn Satay PHO
+Pork Satay PHO                            
+Pork Chop Satay PHO                            
+Fried Chicken Wings Lunch                            
+Imperial Rolls Lunch                            
+Cabbage Salad with Chicken Lunch                            
+Traditional Banh Mi                            
+BBQ Pork Banh Mi                            
+BBQ Beef Banh Mi                            
+-Spice Chicken Banh Mi                            
+Vegetarian Banh Mi                            
+Classic Taro Tea                            
+Fusion Green Tea                            
+House Milk Tea                            
+Green Milk Tea                            
+Curry chicken Ramen                            
+Curry Mixed Veggie Ramen                            
+Satay Rare Beef Ramen                            
+Satay Brisket Ramen                            
+Satay Beef Combo Ramen Beef and Brisket                            
+Satay Five Spice Chicken Ramen                            
+Satay Prawns Ramen                            
+Satay Pork Ramen                            
+Satay Pork Chop Ramen                            
+Satay Mixed Veggie Ramen                            

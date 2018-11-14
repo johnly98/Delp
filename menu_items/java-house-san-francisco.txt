@@ -1,0 +1,34 @@
+Eggs and Toast                            
+Eggs and Toast with Home Fries                            
+Eggs and Toast with Ham                            
+Eggs and Toast with Bacon                            
+Eggs and Toast with Sausage                            
+Eggs with Meat and 3 Hot Cakes                            
+Eggs and Toast with Meat and Home Fries                            
+Cheese Omelete                            
+Ham Cheese Omelete                            
+Greek Omelete                            
+Veggie Omelete                            
+Full Stack                            
+Salad Sandwich Lunch                            
+Shrimp and Crab Sandwich Lunch
+BLT Sandwich Lunch                            
+Tuna Salad with Lettuce and Tomato Lunch                            
+Egg Salad with Lettuce and Tomato Lunch                            
+Beef Patty with Lettuce and Tomato Lunch                            
+oz. Cheeseburger Lunch                            
+oz. Hamburger Lunch                            
+Bacon Cheeseburger Lunch                            
+Giant Burger with Egg and Bacon Lunch                            
+Veggie Burger Lunch                            
+Salmon Burger Lunch                            
+Hot Dog Lunch                            
+Chili Dog Lunch                            
+Double Dog Lunch                            
+Double Chili Dog Lunch                            
+Chicken Breast Sandwich Lunch                            
+Gyro Sandwich Lunch                            
+Italian Sausage Sandwich Lunch
+Polish Sausage Sandwich Lunch                            
+Pastrami on French Lunch
+Chili Burger Lunch                            

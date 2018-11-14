@@ -1,0 +1,110 @@
+Bruschetta Con Pomodoro                            
+Mozzarella Alla Caprese
+Carpaccio Con Capperi E Parmigiano                            
+Calamaretti Fritti                            
+Bresaola Con Rucola
+Melanzane Alla Parmigiana                            
+Carciofo Ripieno Freddo                            
+Insalata Pane E Vino
+Insalata Di Spinaci                            
+Guazzetto Di Pesce
+Antipasto Della Casa
+Fettuccine Al Formaggi
+Capellini Al Pomodoro Fresco
+Penne Alla Puttanesca
+Pappardelle Alla Contadina
+Tagliatelle Verdi Alla Bolognese
+Linguine Ai Frutti Di Mare
+Pennette Alla Boscaiola                            
+Rigatoni Con Salsiccia E Carciofini                            
+Fusilli Con Melanzane E Scamorza                            
+Pollo Marinato Allo Griglia
+Salsiccia Con Polenta E Peperonata                            
+Bistecca Alla Florentina                            
+Lombata Di Vitello Al Rosmarino                            
+Costolette Di Agnello                            
+Scaloppine Di Vitello Ai Funghi                            
+Verdure                            
+Napoletana
+Giardiniera
+Capricciosa
+Prosciutto Cotto E Funghi
+Quattro Stagioni
+Tirolese
+Quattro Formaggi
+Siciliana
+Boscaiola
+Diavola                            
+Alla Salsiccia                            
+Calzone Con Prosciutto E Funghi
+Mela Caramellata
+Fior Di Latte E Salsa Di Caramello                            
+Affogato Al Caffe                            
+Bacche Di Bosco                            
+Cantucci Con Vin Santo                            
+Crostata Del Giorno                            
+Gelati Misti
+Profiteroles
+Torta Di Formaggio                            
+Arneis Cascina Val Del Prete "Luet" Piemonte '10                            
+Bianco Del Collio (Chard-Sauv-Pinot G. -Tocai) Zuani " San Floriano Del Collio" Friuli '12
+Fiano Di Avellino Pietracupa, Campania '12                            
+Pinot Grigio St. Michael Eppan, Trentino '13                            
+Pinot Grigio St. Michael Eppan, Trentino                            
+Pinot Grigio "Aristos" Cantina Valle Isarco " Sudtirol" '12                            
+Ribolla & Friulano "Zamo Bianco" Le Vigne Di Zamo, Friuli '10                            
+Sauvignon Gumphof, "Sdtirol" Bressanone, Alto Adige, '12                            
+Soave Classico Pieropan Veneto '13                            
+Verdicchio Dei Castelli Di Jesi Classico Superiore Marotti Campi Marche '12                            
+Vermentino Di Gallura Canayli Sardegna '12                            
+Vernaccia Di San Gimignano "Terre Di Tufi" Teruzzi & Puthod, Toscana '11                            
+Chardonnay Sonoma Cutrer Russian River '12                            
+Chardonnay Cakebread Cellars Napa Valley '12                            
+Chardonnay Newton "Unfiltered" Napa Valley '11                            
+Sauvignon Honig, Napa Valley '11                            
+Sauvignon Blanc Duckhorn Vineyards Napa Valley '13                            
+Amarone Della Valpolicella "Capitel Dei Roari" Luigi Righetti, Veneto '10                            
+Amarone Della Valpolicella Cesari , Veneto '08                            
+Amarone Classico Venturini, Veneto '08                            
+Barbaresco Produttori Del Barbaresco, Piemonte '08
+Barbaresco "Sori Paitin" Paitin, Piemonte '10                            
+Barbera Colli Tortonesi Ricci Piemonte '10                            
+Barbera Lusenti "Martin" Val Ziano, Ziano, Piacentino '11                            
+Barbera D'alba Cascina Val Del Prete "Serra De'gatti" Alba , Piemonte '12                            
+Barbera D'alba Cascina Ca' Rossa "Mulassa" Le Langhe, Piemonte '10                            
+Barolo Giacomo Fenocchio, "Bussia", Piemonte '09                            
+Barolo Rinaldi Francesco "Canubbio" Piemonte '07                            
+Barolo Rinaldi Giuseppe "Brunate" Le Coste, Barolo, Piemonte '06                            
+Brunello Di Montalcino Col D'orcia Montalcino '07                            
+Brunello Di Montalcino Caprili Montalcino '08                            
+Brunello Di Montalcino Antinori "Pian Delle Vigne" , Montalcino '08                            
+Brunello Di Montalcino Riserva Tenuta Il Poggione Franceschi, Montalcino '07                            
+Chianti Classico Fattoria Felsina Berardenga '11                            
+Chianti Classico Riserva Conti Serristori, "Macchiavelli" Toscana '07                            
+Chianti Classico Riserva San Vincenti "Gaiole in Chianti" '07
+Dolcetto D'alba Francesco Rinaldi Piemonte '12                            
+Merlot Cabernet Sauvignon "Rosso Riserva" Vignalta Colli Euganei Veneto '08                            
+Merlot Cabernet Franc "Gemola" Vignalta Colli Euganei Veneto '09                            
+Montepulciano D'abbruzzo Collefrisio "Zero" '11
+Nebbiolo Roero D. O. C. Cascina Ca' Rossa "Vigna Audinaggio" Alba, Piemonte '10                            
+Nebbiolo Roero D. O. C. Cascina Val Del Prete Priocca, Alba '07                            
+Pinot Nero St. Michael Eppan "Sdtirol" Alto Adige '11                            
+Rosso Di Montalcino Caprili Montalcino '11                            
+Sagrantino Di Montefalco Azienda Agricola Scacciadiavoli, Montefalco, Umbria '06                            
+Sangiovese-Montepulciano (Rosso Piceno Superiore) Poderi S. Lazzaro, Offida, March'10                            
+Sangiovese Cabernet Ornellaia "Le Volte" Toscana Rosso '12                            
+Sassicaia Tenuta San Guido "Bolgheri" Toscana '09                            
+Solaia (Cab-Sauv. -Cab. Franc Sangiovese) Antinori, Toscana '04                            
+Tignanello (Sangiovese, Cab-Sauv. -Syrah) Antinori, Toscana '10                            
+Valpolicella Classico, Ripasso, Venturini "Semonte Alto" San Floriano, Verona'10                            
+Cabernet Sauvignon Clos Du Val, Napa Valley '11                            
+Cabernet Sauvignon Chateau Montelena Napa Valley '10/'11                            
+Cabernet Sauvignon Jordan Vineyards "Alexander Valley" '09                            
+Cabernet Sauvignon Duckhorn Vineyards Napa Valley '10                            
+Merlot Clos Pegase "Mitsuko's" Napa Valley" '08                            
+Merlot Duckhorn Vineyards "Napa Valley" '11                            
+Pinot Noir Tolosa Edna Ranch, Edna Valley '12                            
+Pinot Noir Barnett Vineyards, Donnelly Creek, "Anderson Valley" '12
+Pinot Noir Emeritus, Russian River, Sonoma '11                            
+Pinot Noir Foxen Vineyard "Santa Maria " '12                            
+Zinfandel Seghesio Vineyard "Sonoma" '12                            

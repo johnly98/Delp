@@ -1,0 +1,53 @@
+Baba Ghanouj
+Borek
+Greek Shrimp
+Hummus Billham                            
+Gyro Pita                            
+Chicken Pita
+Falafel Pita                            
+Gyro Plate                            
+Chicken Plate
+Falafel Plate                            
+Salmon Dinner Entree                            
+Grilled Shrimp Kebab Dinner Entree                            
+Rack of Lamb Dinner Entree
+Stuffed Eggplant Dinner Entree                            
+Layaly Mixed Grill For 1 Dinner Entree
+Couscous Dinner Entree                            
+Lamb Kebab Dinner Entree                            
+Beef Kebab Dinner Entree                            
+Chicken Kebab Dinner Entree
+Kofte Kebab Dinner Entree                            
+Braised Lamb Shank Dinner Entree
+Side of Jasmine Rice                            
+Side of Couscous                            
+Side of Fries
+Side of Feta and Olives
+Side of Pita                            
+Side of Grilled Vegetables
+Kofte Wrap
+Steak Wrap
+Salmon Wrap
+Eggplant Wrap                            
+Lamb Kebab Lunch                            
+Beef Kebab Lunch                            
+Chicken Kebab Lunch                            
+Kofte Kebab Lunch                            
+Mix Vegetable Kebab Lunch                            
+Grilled Shrimp Lunch Entree                            
+Salmon Lunch Entree                            
+Sauteed Chicken Lunch Entree                            
+Stuffed Eggplant Lunch Entree                            
+Pistachio Salad
+Stuffed Falafel Salad
+Dajaj Tajine
+Tantouni Tajine
+Dhanie Tajine                            
+Bazinjan Tajine
+Falafel Wrap Lunch                            
+Kofte Wrap Lunch                            
+Chicken Wrap Lunch                            
+Eggplant Wrap Lunch                            
+Steak Wrap Lunch                            
+Salmon Wrap Lunch                            
+Mixed Pickles                            

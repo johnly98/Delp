@@ -1,0 +1,78 @@
+Fajita Quesadilla
+Nachos Rancheros
+Chimichanguitas
+Combo Appetizer                            
+Asada Fries
+Pollo En Crema
+Enchiladas En Mole                            
+Veggie Fajitas
+Veggie Chimichangas
+Veggie Fajita Quesadilla
+El Cancun
+Tacos de Pescado                            
+Tacos de Camarones                            
+Fajitas Originales                            
+Surf and Turf
+Fajitas Supremas                            
+Enchilada Combo
+Enchilada En Mole Combo                            
+Enchilada Verde Combo                            
+Hard Shell Taco Combo                            
+Tostada Combo                            
+Avocado Tostada Combo                            
+Burrito de Carne Combo                            
+Chile Relleno Combo
+Chimichanga Combo                            
+Fish Taco Combo
+Ceviche Tostada Combo                            
+Shrimp Taco Combo                            
+Tamal Combo                            
+Enchiladas Combo                            
+Tacos Combo                            
+Enchilada y Tamale Combo                            
+Enchilada y Taco Combo                            
+Enchilada y Chile Relleno Combo                            
+Enchiladas Verdes Combo
+Enchilada y Tostada Combo                            
+Enchilada y Avocado Tostada Combo
+Burritos de Carne Combo                            
+Enchiladas Divorciados Combo                            
+Huevos Rancheros Combo                            
+Chorizo con Huevo Combo                            
+Chimichangas Combo                            
+Enchilada, Chile Relleno and Taco Combo                            
+Enchilada, Chile Relleno and Tamale Combo                            
+Enchilada, Tamale and Tostada Combo                            
+Enchilada and 2 Tacos Combo                            
+Enchilada, Tamale and Taco Combo                            
+Celia's Super Special                            
+Perfecto Special
+Expresso Burrito
+California Burrito
+Burrito de Pescado                            
+Burrito de Camarones                            
+Garden Ensalada                            
+Tostada Ensalada                            
+Ensalada de Pollo Asado                            
+Sopa de Tortilla                            
+Deluxe Hamburger                            
+Guacamole Chicken Burger                            
+Mexican Rice
+Tortillas                            
+Jalapenos                            
+Pico de Gallo
+Chili Beans                            
+Rice and Bean Plate
+Enchilada Combo a La Carte                            
+Enchilada en Mole Combo a La Carte                            
+Enchilada Verde Combo a La Carte                            
+Hard Shell Taco Combo a La Carte                            
+Tostada Combo a La Carte                            
+Avocado Tostada Combo a La Carte                            
+Burrito de Carne Combo a La Carte                            
+Chile Relleno Combo a La Carte                            
+Chimichanga Combo a La Carte                            
+Fish Taco Combo a La Carte                            
+Ceviche Tostada Combo a La Carte                            
+Shrimp Taco Combo a La Carte                            
+Tamal Combo a La Carte                            

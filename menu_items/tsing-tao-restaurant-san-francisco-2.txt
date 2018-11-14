@@ -1,0 +1,185 @@
+Snow Pea Prawns                            
+Prawns with Mix Vegetables                            
+Prawns with Scrambled Egg                            
+Prawns with House Special Eggplant                            
+Chili Pepper Prawns
+Prawns with String Beans                            
+Ginger Rock Cod
+Hot Braised Fish Fillets                            
+Prawns with Szechuan Sauce                            
+Fish Fillets with Chinese Green                            
+Fish Fillets with Asparagus                            
+Salt and Pepper Fish Fillets                            
+Fish Fillets with Garlic Sauce                            
+Kung Pao Squid
+Sauteed String Beans with Garlic                            
+Pan Fried String Bean with Chili Sauce
+Chinese Green with Oyster Sauce                            
+Sauteed Broccoli with Garlic                            
+Broccoli with Garlic Sauce
+Sauteed Spinach with Garlic                            
+Kung Pao Bean Curd
+Hot Sauce Bean Curd                            
+Mixed Vegetable Deluxe with Bean Curd                            
+Sauteed Asparagus with Garlic                            
+Asparagus with Garlic Sauce                            
+Hunan Bean Curd                            
+Mushroom with Chinese Green                            
+Sauteed Tender Green with Garlic
+Salt and Pepper Bean Curd                            
+Chinese Broccoli with Garlic                            
+General Tao's Bean Curd                            
+Pork with House Special Eggplant
+Salt and Pepper Pork Chops                            
+Scrambled Egg with BBQ Pork                            
+Pork with Bitter Melon in Black Bean Sauce                            
+String Bean with Chili Sauce                            
+BBQ Pork Mu-Shu                            
+Prawns Mu-Shu                            
+Beef Mu-Shu                            
+Combination Mu-Shu                            
+BBQ Pork Egg Fu Young                            
+Prawns Egg Fu Young                            
+Beef with Mixed Vegetables
+Sliced Beef with Oyster Sauce                            
+Beef with Asparagus                            
+Dragon Beef                            
+Szechwan Beef                            
+Beef with House Special Eggplant                            
+Beef with Scrambled Egg                            
+Sauteed Beef in Spicy Garlic Sauce                            
+Beef with Satay Sauce Spinach                            
+Beef Short Ribs in House Special Soy Sauce                            
+Beef Short Rib with Black Pepper Sauce                            
+Beef with Bean Sprout                            
+Green Pepper Beef                            
+Vegetarian Hot and Sour Soup                            
+Seaweed Egg Flower Soup with Pork
+Egg Drop Soup with Spinach
+West-Lake Beef Soup                            
+Mix Vegetable Mushroom Soup                            
+Chicken Rice Soup                            
+Won Ton Egg Drop Soup                            
+Strawberry Ice Cream                            
+L1. Vegetable Deluxe Lunch Special.
+L3. Eggplant with Spicy Garlic Sauce Lunch Special                            
+L4. Kung Pao Tofu Lunch Special                            
+L5. Hot Sauce Tofu with Pork Lunch Special                            
+L6. Hunan Tofu Lunch Special                            
+L7. Oyster Sauce with Chicken Green Lunch Special
+L7. Oyster Sauce with Broccoli Lunch Special                            
+L8. Chicken with String Bean Lunch Special                            
+L8. Pork with String Bean Lunch Special                            
+L9. Chicken with Bitter Melon Lunch Special                            
+L9. Pork with Bitter Melon Lunch Special                            
+L10. Sweet and Sour Chicken Lunch Special                            
+L10. Sweet and Sour Pork Lunch Special                            
+L11. Salt and Pepper Pork Chop Lunch Special                            
+L12. Twice Cooked Pork Lunch Special                            
+L13. BBQ Spareribs Lunch Special                            
+L14. Pork with Mix Vegetable Lunch Special                            
+L14. Chicken with Mix Vegetable Lunch Special                            
+L15. Scrambled Egg with Chicken Lunch Special                            
+L15. Scrambled Egg with Pork Lunch Special                            
+L16. Curry Chicken Lunch Special                            
+L17. Broccoli Chicken Lunch Special                            
+L18. Tofu Chicken Lunch Special                            
+L19. Mandarin Sauce Chicken Lunch Special                            
+L20. Black Bean Sauce Chicken Lunch Special                            
+L21. Tomato Chicken Lunch Special                            
+L22. Mongolian Chicken Lunch Special                            
+L23. Green Pepper Chicken Lunch Special                            
+L24. Kung Pao Chicken Lunch Special                            
+L25. Salt and Pepper Chicken Wings Lunch Special                            
+L26. Lemon Chicken Lunch Special                            
+L27. Sesame Chicken Lunch Special                            
+L28. General Tao's Chicken Lunch Special                            
+L29. Orange Flavor Chicken Lunch Special                            
+L30. Tofu Beef Lunch Special
+L30. Tofu Prawns Lunch Special                            
+L31. Tomato Beef Lunch Special                            
+L31. Tomato Prawns Lunch Special                            
+L32. Green Pepper Beef Lunch Special                            
+L32. Green Pepper Prawns Lunch Special                            
+L33. Broccoli Beef Lunch Special                            
+L33. Broccoli Prawns Lunch Special                            
+L34. Mongolian Beef Lunch Special                            
+L34. Mongolian Pranws Lunch Special                            
+L35. Beef with Black Bean Sauce Lunch Special                            
+L35. Prawn with Black Bean Sauce Lunch Special                            
+L36. Beef with String Bean Lunch Special
+L36. Prawns with String Bean Lunch Special                            
+L37. Scramble Egg with Beef Lunch Special                            
+L37. Scramble Egg with Prawns Lunch Special                            
+L38. Szechuan Beef Lunch Special                            
+L38. Szechuan Prawns Lunch Special                            
+L39. Sweet and Sour Prawns Lunch Special                            
+L40. Beef with Spicy Garlic Sauce Lunch Special                            
+L40. Prawns with Spicy Garlic Sauce Lunch Special                            
+L41. Mandarin Sauce Beef Lunch Special                            
+L41. Mandarin Sauce Prawns Lunch Special                            
+L2. Vegetable and Bean Curd Lunch Special                            
+Shrimp Dumplings                            
+Shumai                            
+Pork Spring Rolls                            
+Veggie Spring Rolls                            
+Fried Crab Cheese Puff
+Appetizer Combination                            
+Dumpling with Szechuan Sauce                            
+Shrimp Spring Rolls                            
+Onion Ring                            
+Chicken Nugget                            
+Teriyaki Chicken Sticks                            
+b BBQ pork                            
+c fried sweet potato                            
+Mixed Veggies and Egg Fried Rice                            
+House Satay Fried Rice                            
+Fu Jian Fried Rice                            
+Steamed Jasmine White Rice                            
+Steamed CAL Brown Rice                            
+BBQ Pork Crispy Noodle                            
+Chicken Crispy Noodle                            
+Beef Crispy Noodle                            
+Prawn Crispy Noodle                            
+Tomato with Beef Crispy Noodle                            
+Black Pepper with Beef Crispy Noodle                            
+Seafood Crispy Noodle                            
+Vegetable Crispy Noodle                            
+Tomato Beef Chow Mein                            
+Prawns Chow Fun                            
+Combination Special Chow Fun                            
+Singapore Curry Sauce Chow Fun                            
+Tomato Beef Chow Fun                            
+Bell Pepper with Beef Chow Fun                            
+Chicken Chow Mai Fun                            
+BBQ Pork Mai Fun                            
+Beef Chow Mai Fun                            
+Prawns Chow Mai Fun                            
+Vegetable Chow Mai Fun                            
+Combination Special Chow Mai Fun                            
+Seafood Chow Mai Fun                            
+Singapore Curry Sauce Chow Mai Fun                            
+Tomato Beef Chow Mai Fun                            
+Bell Pepper with Beef Chow Mai Fun                            
+Chicken with Bean Sprouts                            
+Chicken with Double Mushrooms                            
+Diced Chicken with Cashew Nuts                            
+Chicken with String Bean                            
+Chicken with House Special Eggplant                            
+Chicken with Scrambled Egg                            
+Chicken with Spicy Garlic Sauce                            
+Szechwan Chicken                            
+Honey Spicy Chicken Wings                            
+Buffalo Chicken Wings                            
+General Tao's Chicken                            
+Orange Flavor Chicken                            
+Moo Goo Gai Pan                            
+H1. Steamed Mixed Vegetables                            
+H2. Steamed Broccoli                            
+H3. Steamed String Beans                            
+H4. Steamed Chicken with Broccoli                            
+H6. Steamed Chicken with Bean Curd                            
+H7. Steamed Mixed Vegetables with Beef                            
+H9. Steamed Prawns with Snow Peas
+H5. Steamed Chicken with Mixed Vegetables                            
+H8. Steamed Prawns with String Beans                            

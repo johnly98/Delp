@@ -1,0 +1,162 @@
+Vegetable Egg Roll
+Green Onion Pancake
+Fried Wonton Skin
+Pot Sticker                            
+Crab Rangoon                            
+Steamed Pork Wonton                            
+Spicy Pickled Cabbage                            
+Fried Chicken Wings
+Fried Prawn                            
+BBQ Spare Ribs                            
+Combination Plate For 2                            
+Wonton Soup                            
+Seaweed Soup                            
+Egg Flower Soup
+Chicken with Corn Soup                            
+Spinach Mushroom Tofu Soup                            
+Seafood Soup                            
+Sizzling Rice Soup with Chicken
+Wor Wonton Soup
+Combo Noodle Soup
+Vegetable Salad                            
+Chicken Salad                            
+Prawn Salad                            
+A. Sun Flower Chicken Special
+B. Minced Chicken in Lettuce Cups Special                            
+C. Mongolian Lamb Special                            
+D. Sizzling Basil Beef Special
+E. Salt and Pepper Chicken                            
+F. Buddha's Delight Clay Pot Special                            
+G. Yum Yum Hunan Pork Special
+H. Drunken Beef Special
+I. Spicy Mandarin Eggplant Special
+J. Pork Stuffed Eggplant and Tofu Special
+K. Seafood with Sizzling Rice Special                            
+L. Yum Yum Delicatessen Special
+M. Five Spice Sesame Scallops Special                            
+N. Prawn and Scallops with Mushrooms Special                            
+O. Mandarin Prawn Special                            
+P. Mango Broccoli Prawn Special
+Q. Garlic Fish Special                            
+R. Salt and Pepper Rock Cod Fillet Special                            
+S. Combo Egg Fu Young Special                            
+T. Yum Yum Combo Clay Pot Special
+U. Sizzling Szechuan Salmon Special                            
+X. Lover's Prawn Special
+Y. Yum Yum Flounder Special                            
+W. Sizzling Szechuan Eel Special                            
+V. Peking Duck Special                            
+Shrimp Dumpling                            
+Shrimp Toast                            
+Pork Su Mi                            
+BBQ Pork Bun                            
+Dim Sum Combination Plate                            
+Szechuan Beef                            
+Mongolian Beef                            
+Mushroom Beef                            
+Broccoli Beef                            
+Orange Beef                            
+Sesame Beef                            
+Mu Shu Pork
+Sweet and Sour Pork                            
+Royal Pork                            
+Garlic Pork                            
+Tofu BBQ Pork                            
+Spicy Crispy Salty Spare Ribs
+Peking Style Pork Spare Ribs                            
+Basil Chicken                            
+Garlic Chicken                            
+Kung Pao Chicken                            
+Lemon Chicken                            
+Curry Chicken                            
+String Bean Chicken                            
+Shanghai Chicken                            
+Five Flavor Chicken
+Orange Chicken                            
+Sesame Chicken
+Salt and Pepper Chicken Wings                            
+A. General Tsao Chicken
+Kung Pao Meatless Chicken
+Lemon Meatless Chicken
+General Tso's Meatless Chicken
+Orange Meatless Chicken
+Sesame Meatless Chicken
+Mandarin Meatless Chicken
+Vegetable Delight                            
+Ma Po Bean Cake                            
+Szechuan String Bean
+Kung Pao Tofu
+Szechuan Broccoli                            
+Garlic Eggplant                            
+Basil Tofu                            
+Bok Choy with Mushroom
+Sizzling Garlic Tofu
+Mushroom Tofu                            
+Yum Yum Eggplant                            
+Hunan Fish                            
+Prawn Lobster Sauce                            
+Prawn String Bean                            
+Kung Pao Prawn                            
+Prawn with Vegetable                            
+Prawn with Black Bean Sauce                            
+Walnut Prawn                            
+Dry Garlic Prawn                            
+Dry Garlic Calamari
+Kung Pao Calamari                            
+Garlic Scallops with Broccoli
+String Bean Salmon
+Fried Rice                            
+Kung Pao Fried Rice
+Chow Mein                            
+Chow Fun                            
+Hong Kong Style Crispy Noodle
+Singapore Style Noodle with Curry
+Prawn Fried Rice
+Seafood Chow Mein                            
+Seafood Chow Fun
+Combo Hong Kong Style Noodle                            
+Steamed Rice                            
+Sesame Chicken Lunch Special
+Kung Pao Chicken Lunch Special
+Garlic Chicken Lunch Special
+Sweet and Sour Chicken Lunch Special
+Lemon Chicken Lunch Special                            
+Cashew Chicken Lunch Special                            
+String Bean Chicken Lunch Special
+Curry Chicken Lunch Special                            
+Mongolian Beef Lunch Special
+Basil Beef Lunch Special                            
+String Bean Beef Lunch Special                            
+Mushroom Beef Lunch Special                            
+Orange Beef Lunch Special                            
+Sesame Beef Lunch Special                            
+Beef with Tofu Lunch Special
+Hunan Beef Lunch Special                            
+Ma-Po Tofu Lunch Special
+Kung Pao Vegetable and Tofu Lunch Special                            
+Basil Tofu Lunch Special
+Sauteed String Bean Lunch Special
+Vegetable Delight Lunch Special                            
+Garlic Eggplant Lunch Special                            
+Royal Pork Lunch Special                            
+Garlic Pork Lunch Special                            
+Sweet and Sour Pork Lunch Special                            
+Sweet and Sour Fish Lunch Special                            
+Hunan Fish Lunch Special                            
+Garlic Scallop with Broccoli Lunch Special                            
+String Bean Prawn Lunch Special                            
+Prawn with Scrambled Egg Lunch Special                            
+Mandarin Eggplant with Chicken and Prawn Lunch Special                            
+Prawn Lobster Sauce Lunch Special                            
+Prawn with Black Bean Sauce Lunch Special                            
+Prawn with Broccoli Lunch Special                            
+Prawn in Hot Garlic Sauce Lunch Special                            
+Kung Pao Prawn Lunch Special                            
+Kung Pao Calamari Lunch Special                            
+Hunan Prawn Lunch Special                            
+Hunan Chicken Lunch Special                            
+Mango Chicken Lunch Special                            
+Hunan Smoked Pork Lunch Special                            
+Drunken Salmon Lunch Special                            
+Tofu BBQ Pork Lunch Special                            
+Cheesecake                            

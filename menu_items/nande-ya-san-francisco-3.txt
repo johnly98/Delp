@@ -1,0 +1,60 @@
+Soda Water                            
+Ramune                            
+Cold Tofu
+Croquette
+Egg Rolls                            
+Takoyaki
+Gyoza
+Chicken Wings                            
+Karaage
+Veggie Tempura
+Crispy Fish and Chips                            
+Tonkotsu Ramen
+Miso Ramen
+Shoyu Ramen
+Tomato Ramen                            
+Seafood Ramen
+Beef Curry Udon
+Beef Curry Soba                            
+Ebi Fry Curry                            
+Katsu Curry
+Beef Curry Rice                            
+Tempura Noodle                            
+Kake Noodle                            
+San Sai Noodle                            
+Tori Noodle                            
+Wakame Noodle                            
+Tori Toji Noodle                            
+Niku Noodle                            
+Kitsune Noodle                            
+Tanin Noodle                            
+Nande-ya Special Noodle
+Zaru Soba
+Zaru Cha Soba                            
+Zaru Udon
+Tem Zaru Soba                            
+Katsu Don
+Niku Don                            
+Tempura Don                            
+Veggie Tempura Don                            
+Tanin Rice Don                            
+Salmon (2pc)                            
+Hamachi (2pc)                            
+Shrimp (2pc)                            
+Tuna (2pc)                            
+Tamago (2pc)                            
+Tobiko (2pc)                            
+Ikura (2pc)                            
+Salmon Handroll                            
+Hamachi Handroll                            
+Tuna Handroll                            
+Ebi Tempura Roll                            
+Veggie Roll                            
+Mt Fuji Roll
+Crazy Monkey Roll                            
+Nande-Ya Roll                            
+Cucumber Roll                            
+Salmon Roll
+Tuna Roll
+Hamachi Roll                            
+Veggie Pickled                            

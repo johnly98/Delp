@@ -1,0 +1,77 @@
+Taquitos Rancheros                            
+Nachos Mexicanos
+Ceviche de Camaron                            
+Empanadas de Queso                            
+De la Casa Salad                            
+Mexicana Salad                            
+Especial Salad                            
+Chile con Carne Soup                            
+Pozole Rojo Soup                            
+Regular Vegetariano Burrito                            
+Regular Garden Veggie Burrito
+Regular Pollo Burrito                            
+Regular Chile Colorado Burrito                            
+Regular Chile Verde Burrito                            
+Regular Al Pastor Burrito                            
+Regular Carnitas Burrito
+Regular Fajitas Burrito                            
+Regular Chorizo Burrito                            
+Regular Chile Relleno Burrito                            
+Regular Camaron Burrito                            
+Grande Vegetariano Burrito
+Grande Garden Veggie Burrito                            
+Grande Pollo Burrito                            
+Grande Chile Colorado Burrito                            
+Grande Chile Verde Burrito                            
+Grande Al Pastor Burrito                            
+Grande Carnitas Burrito
+Grande Fajitas Burritos                            
+Grande Chorizo Burrito                            
+Grande Chile Relleno Burrito                            
+Grande Camaron Burrito                            
+Vegetariano Tamale                            
+Chile Colorado Tamale
+Dulce Tamale                            
+Chile Verde Tamale                            
+Mex Taco                            
+California Taco
+Vegetariano Taco
+Al Pastor Taco
+Cochinita Pibil Taco                            
+Fajitas Arrachera Asada Taco                            
+Camaron Taco
+Vegetariana Torta                            
+Pollo Torta                            
+Huevo con Chorizo Torta                            
+Carnitas Torta
+Cochinita Torta
+Fajitas Arrachera Asada Torta                            
+Res Torta                            
+Enchilada a la Carte                            
+Flauta a la Carte                            
+Chimichanga a la Carte                            
+Chalupa a la Carte                            
+Tostada a la Carte                            
+Chile Relleno a la Carte                            
+Chile Colorado Combo Platter                            
+Chile Verde Combo Platter                            
+Carnitas Combo Platter                            
+Fajitas Arrachera Asada Combo Platter                            
+Side of Pinto Beans                            
+Side of Mexican Rice                            
+Side of Lettuce                            
+Side of Salsa                            
+Side of Jalapenos                            
+Side of Cheese                            
+Side of Black Beans                            
+Side of Guacamole
+Small Corn Tortillas                            
+Side of Chips                            
+Side of Sour Cream                            
+Flour Tortillas                            
+Side of Shredded Beef                            
+Side of Shredded Chicken                            
+Imported Jumex                            
+Sidral                            
+Crystal Geyser                            
+Topo Chipo                            

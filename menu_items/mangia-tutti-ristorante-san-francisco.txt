@@ -1,0 +1,109 @@
+Maker's Manhattan                            
+Il Milano Martini                            
+Green Whisper Martini                            
+Calendola Martini                            
+L'Oca-Motion Martini                            
+The Arsenale Cocktail                            
+Orange Zest Martini                            
+Basil-Lemon Drop Martini                            
+Pomegranate Martini                            
+The Antioxidant Martini                            
+Rennie's "Old Tom"                            
+Tutti's "Hot Toddy"
+Last Name, "Pomona Queen" Pale Ale Upland, CA                            
+Last Name, "Runway" I.P.A. Upland, CA                            
+Claremont Craft, "Jacaranda" Rye I.P.A. Claremont, CA                            
+Claremont Craft, "Willow" Blonde Ale Claremont, CA                            
+Hangar 24, "Orangewheat" White Ale Redlands, CA                            
+Prosecco, Zonin N.V. Veneto 187ml. Split                            
+Brut, Korbel N.V. Sonoma 187ml. Split                            
+Rosé, Frescobaldi "Alie" 2014 Toscana                            
+Moscato d'Asti, Il Conte N.V. Piemonte                            
+Riesling, Dr. Loosen "Dr. L" 2014 Germany                            
+Cortese di Gavi, Luca Bosio 2015 Piemonte                            
+Pinot Grigio, Benvolio 2014 Friuli                            
+Sauvignon Blanc, Chimney Creek 2014 New Zealand                            
+Chardonnay, Cedar Brook 2014 CA                            
+Chardonnay, La Follette 2014 North Coast                            
+Chardonnay, Rombauer 2014 Sonoma                            
+Montepulciano, Quattro Mani 2014 Abruzzo                            
+Barbera d'Asti, Poderi Elia 2013 Piemonte                            
+Chianti Classico, "Riserva" Arceno 2012 Toscana                            
+Super Tuscan, Piancornello 2014 Toscana                            
+Nebbiolo, Vietti "Perbacco" 2013 Piemonte                            
+Venetian Blend, Pasqua "Passimenti" 2013 Veneto                            
+Pinot Noir, Balletto 2014 Russian River                            
+Pinot Noir, Foley 2013 Santa Rita Hills                            
+Merlot, Matanzas Creek 2014 Napa                            
+Cabernet Sauvignon, Cedar Brook 2014 CA                            
+Cabernet Sauvignon, Napa Cellars 2014 Napa                            
+Meritage Blend, Coho "Headwaters" 2012 Napa                            
+Red Blend, Ancient Peaks "Renegade" 2014 P. Robles                            
+Zinfandel, 1000 Stories "Bourbon Barrel Aged" CA 2014                            
+Peroni, Lager Italy                            
+Birra Moretti, Lager Italy                            
+Moretti La Rossa, Double Malt Italy                            
+Lost Coast Brewery, "Downtown Brown" Ale Eureka, California                            
+Hangar 24, "Amarillo" Pale Ale Redlands, California                            
+Heineken Light, Lager Holland                            
+Stella Artois, Pilsner Belgium                            
+Ommagang, "Hennepin" Saison Farmhouse Ale NY                            
+Duvell, Golden Ale Belgium                            
+Beck's N.A., Non-Alcoholic Germany                            
+Fiori di Zucca                            
+Gamberi e Polenta                            
+Polipo alla Griglia                            
+Tonno Crudo                            
+Prosciutto e Burrata                            
+Salumi Misto                            
+Zuppa di Minestrone                            
+Zuppa del Giorno                            
+Insalata Tutti Mangia                            
+Insalata Caesare                            
+Insalata Casa Cuneo                            
+Insalata Cavoletti*                            
+Insalata Invernale                            
+Tagliatelle
+Mafaldine                            
+Panzerotti                            
+Tagliolini                            
+Linguini Fini                            
+Salmone Arrosto*                            
+Branzino Acqua Pazza                            
+Pesce Misto                            
+Capesante                            
+Pollo Arrosto                            
+Osso Buco                            
+Bistecca alla Grigliata*                            
+Vitello alla Lucca                            
+Long Bone Pork Chop                            
+Australian Lamb Chops*                            
+Sterling Filet Mignon                            
+Meyer Natural Ribeye                            
+Niman Ranch Rib Chop                            
+U.S.D.A. Prime New York Strip                            
+Maine Lobster Tails                            
+Shrimp Scampi
+Bone Marrow                            
+Seasonal Vegetable Medley                            
+Sautéed Forest Mushrooms, Sherry Wine                            
+Wilted Spinach, E.V.O.O. Garlic Chips                            
+Sautéed Kale (Cavolo Nero)                            
+Sautéed Shaved Brussel Sprouts*                            
+Julienne Fries, Parmesan, Garlic, Parsley                            
+Roasted Yukon Gold Potatoes                            
+Roasted Garlic Whipped Potatoes                            
+Parmesan Creamed Corn                            
+Creamed Spinach, Fontina, Reggiano                            
+Truffle Gemelli Mac & Cheese
+Baked Potato, Sea Salt & Olive Oil Rubbed                            
+Prima Cena Special                            
+Chopped Caesar                            
+Zuppa di Stagione o Zuppa del Giorno                            
+Tagliatelle con Polpettini                            
+Scaloppine di Pollo                            
+Bistecca e Uovo                            
+Vitello alla Piccata                            
+Tonno                            
+Salmone alla Griglia                            
+Filetto Scottato                            

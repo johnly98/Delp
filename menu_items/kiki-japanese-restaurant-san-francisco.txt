@@ -1,0 +1,98 @@
+Guava Juice                            
+Orange Passion
+Lady Gaga
+Piece Ebi Fry                            
+Shrimp and Vegetable Tempura
+Piece Tuna Sashimi                            
+Piece Salmon Sashimi                            
+Yellowtail Sashimi
+Item Combination Dinner                            
+Spicy Miso Udon                            
+Curry Udon
+Wakame Udon
+Lady Gaga Lunch                            
+Edamame Appetizer Lunch                            
+Piece Gyoza Appetizer Lunch                            
+Vegetable Tempura Apptizer Lunch                            
+Fried Tofu Appetizer Lunch
+Chicken Kara-Age Appetizer Lunch                            
+Piece Ebi Fry Appetizer Lunch                            
+Soft Shell Crab Appetizer Lunch
+Shrimp and Vegetable Tempura Appetizer Lunch                            
+Fire Cracker Lunch                            
+Beef Teriyaki Appetizer Lunch                            
+Chicken Teriyaki Appetizer Lunch
+Piece Tuna Sashimi Appetizer Lunch                            
+Piece Salmon Sashimi Appetizer Lunch
+Assorted Sashimi Appetizer Lunch
+Yellowtail Sashimi Appetizer                            
+Lunch Rice                            
+Combination Lunch                            
+Plain Udon Lunch                            
+Spicy Miso Udon Lunch                            
+Curry Udon Lunch                            
+Wakame Udon Lunch                            
+Lunch Vegetable Tempura                            
+Lunch Shrimp & Veggie Tempura                            
+Lunch Chicken Karaage                            
+Lunch Tonkatsu                            
+Lunch Chicken Teriyaki                            
+Lunch Beef Teriyaki                            
+Lunch Salmon Teriyaki                            
+Lunch Saba Teriyaki Entree                            
+Lunch Chicken Katsu                            
+Lunch Sushi A                            
+Lunch Sushi B                            
+Lunch Sushi C                            
+Lunch Tuna Sashimi                            
+Lunch Salmon Sashimi                            
+Lunch Yellowtail Sashimi                            
+Lunch Assorted Sashimi                            
+Shrimp & Veggie Tempura                            
+Ebi Fry                            
+Salmon Shio-Yaki
+Saba Shio-Yaki                            
+Dinner Sushi A                            
+Dinner Sushi B                            
+Dinner Sushi C                            
+Dinner Tuna Sashimi                            
+Dinner Salmon Sashimi
+Dinner Yellowtail Sashimi                            
+Dinner Assorted Sashimi                            
+Albacore Nigiri
+Crab Salad Nigiri                            
+Tamago Nigiri
+Asparagus Nigiri                            
+Seaweed Salad Nigiri                            
+Tofu Nigiri                            
+Broccoli Nigiri                            
+Sweet Potato Nigiri
+Pumpkin Nigiri                            
+Shrimp Nigiri                            
+Spicy Tako Nigiri
+Spicy Tuna Nigiri                            
+Tobiko Nigiri
+Tuna Nigiri
+Garlic Albacore Nigiri
+Yellowtail Nigiri
+Unagi Nigiri                            
+Ikura Nigiri
+Crab Salad Roll                            
+Albacore Roll                            
+Tamago Roll                            
+Green Beans Roll                            
+Eggplant Roll                            
+Asparagus Roll                            
+Pumpkin Roll
+Seaweed Salad Roll                            
+Tobiko Roll                            
+Spicy Tako Roll                            
+Negihama Roll
+Unakyu Roll                            
+Kiki Roll
+Rock N Roll
+Hawaii Roll
+Spicy Chicken Roll
+Irish Roll
+Pink Dragon Roll
+Crunchy Snow Ball

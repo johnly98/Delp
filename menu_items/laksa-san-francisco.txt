@@ -1,0 +1,44 @@
+Grilled Asparagus                            
+Beef Combo Pho
+Brisket Pho
+Spicy Chicken Pho
+Veggie Combo Pho
+Charbroiled Pork Garlic Noodles                            
+Charbrolied Pork Chops Garlic Noodles
+Charbroiled Beef Garlic Noodles
+Charbroiled Shrimp Garlic Noodles
+Curry Chicken Garlic Noodles                            
+Imperial Rolls Garlic Noodles                            
+Imperial Rolls and Chicken Garlic Noodles                            
+Imperial Rolls and Pork Garlic Noodles
+Imperial Rolls and Pork Chop Garlic Noodles                            
+Imperial Rolls and Beef Garlic Noodles                            
+Imperial Rolls and Shrimps Garlic Noodles                            
+Imperial Rolls and Veggie Garlic Noodles                            
+Spice Chicken Vermicelli
+Charbroiled Pork Vermicelli                            
+Charbrolied Pork Chops Vermicelli                            
+Charbroiled Shrimp Vermicelli                            
+Imperial Rolls and Chicken Vermicelli                            
+Imperial Rolls and Pork Vermicelli                            
+Imperial Rolls and Pork Chop Vermicelli                            
+Imperial Rolls and Beef Vermicelli                            
+Imperial Rolls and Shrimps Vermicelli                            
+Imperial Rolls and Veggie Vermicelli                            
+Spice Chicken Rice Plate
+Charbroiled Pork Rice Plate                            
+Charbroiled Beef Rice Plate
+Charbroiled Shrimp Rice Plate                            
+Curry Chicken Rice Plate                            
+Seasoned Veggie Rice Plate                            
+Imperial Rolls and Chicken Rice Plate                            
+Imperial Rolls and Pork Rice Plate                            
+Imperial Rolls and Pork Chop Rice Plate                            
+Imperial Rolls and Beef Rice Plate                            
+Imperial Rolls and Shrimp Rice Plate
+Imperial Rolls and Curry Chicken Rice Plate                            
+Imperial Rolls and Veggie Rice Plate                            
+Color Bean Drink                            
+Red Bean Drink                            
+Plum Soda
+Bottled Soft Drink                            

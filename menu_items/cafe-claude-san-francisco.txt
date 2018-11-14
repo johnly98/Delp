@@ -1,0 +1,107 @@
+Quiche Lorraine
+Steak Tartare
+Escargots en Croute
+Brandade de Morue                            
+Foie Gras au Torchon
+Assiette de Charcuterie                            
+Assiette de Pâté                            
+Fromage
+Soupe du Jour
+Soupe a L'oignon
+Frisée aux Lardons
+Salade Maison
+Salade de Chèvre
+Niçoise
+Moules Provençale                            
+Casserole de Champignon
+Coq au Vin
+Confit de Canard
+Poulet Rôti
+Truite Amandine
+Espadon
+Steak Frites
+Pommes Frites
+Haricots Verts
+Lentilles                            
+Épinard
+Tarte Tatin
+Moelleux au Chocolat
+Crème Brulée
+Mousse au Chocolat                            
+Crème Glacée                            
+Equinox                            
+Renaissance
+Sparkles in the Sky
+Solace
+Sazerac
+Old Cuban                            
+La Rose Noire
+Non-Alcoholic, Erdinger, Germany                            
+Golden Ale, La Fin de Monde, Quebec                            
+Pilsner, Bavik, Super Pils, Belgium                            
+IPA Mission, San Diego, California                            
+Saison Farmhouse Ale, Brasserie Dupont, Belgium                            
+French Golden Ale 3 Monts, 750 ml, France                            
+Chardonnay 2015 Meurgey-Croses, Macon-Uchizy, Bourgogne                            
+Chardonnay 2016 White Hart, Arroyo Seco, Central Coast                            
+Chenin Blanc 2017 Margins, Clarksburg                            
+Clairette / Roussane 2014 Jean-Luc Colombo Les Abeilles, Rhone                            
+Picpoul 2016 Gerard Bertrand, Languedoc                            
+Sauvignon Blanc 2017 Patient Cottat, Anciennes Vignes, Sancerre
+Melon de Bourgogne 2013 Chateau de Chasseloir, Muscadet                            
+Grenache / Syrah Rosé 2017 Domaine Lavau, Tavel, Rhône
+Cinsault Rosé 2017 Cibonne, Côtes de Provence
+Brut NV Gloria Ferrer, Sonoma                            
+Brut NV Taittinger, Reims, Champagne                            
+Brut NV Charles de Cazanove, Tête de Cuvée, Champagne                            
+Rosé Crémant NV Bailly-Lapierre, Bourgogne
+Crémant de Savoie NV Eugene Carrel, Savoie                            
+Crémant, Langlois, Loire                            
+Chardonnay Brut NV Henriot, Champagne                            
+Brut Rosé NV Drappier, Champagne                            
+Brut 2007 Perrier-Jouët, "Belle Epoque", Champagne                            
+Chardonnay 2012 Domaine Faiveley, Montagny, Bourgogne                            
+Chardonnay 2014 Macrostie, Wildcat Mountain, Sonoma Coast                            
+Chardonnay 2015 Domaine Bernard Millot, Meursault                            
+Chardonnay 2015 Jean-Marc Brocard, 1er Crû 'Vaulorent', Chablis
+Chardonnay 2013 Francois Carillon Puligny-Montrachet 1er cru
+Chardonnay 2014 Domaine De L'Arlot Nuits Saint Georges                            
+Chenin Blanc 2013 Foureau, Vouvray Sec, Loire                            
+Grenache Blend 2015 Vieux Lazaret, Châteauneuf-du-Pape                            
+Pinot Gris 2014 Hugel, Alsace                            
+Riesling 2014 Hubert Meyer Wizenberg Grand Cru, Alsace                            
+Sauvignon Blanc 2017 Château La Rame, Bordeaux                            
+Sauvignon Blanc 2016 Margerum, Sybarite, Santa Barbara                            
+Sauvignon Blanc 2014 Pascal Jolivet, Les Terres Blanches, Pouilly-Fumé                            
+Semillion 2016 L'Ecole, Columbia Valley, Washington                            
+Viognier 2016 Font Sarade, Vin de Pays, Vaucluse, Rhône                            
+Roussane 2014 Muddy Arch, Landa Vineyard, Sonoma                            
+Cabernet Franc 2012 Couly Dutheil Clos de l'Echo, Chinon                            
+Cabernet Sauvignon 2016 Obsidian Ridge, Red Hills Lake County                            
+Grenache Blend 2016 Clef des Murailles, Vacqueyras, Rhône                            
+Malbec 2014 Château du Cayrou, Cahors                            
+Merlot Blend 2014 Les Cadrans de Lassègue, Saint-Emilion                            
+Gamay / Pinot Noir 2014 Thibault Liger-Belair, Bourgogne                            
+Domaine de la Solitude Châteauneuf du Pape                            
+Cabernet Sauvignon 2015 Domaine des Acoles, "Le Cab", Rhône                            
+Cabernet Sauvignon 2015 Mauritson, Sonoma County                            
+Cabernet Sauvignon 2014 Château Paveil de Luze, Margaux                            
+Cabernet Sauvignon 2015 Frog's Leap, Rutherford, Napa Valley                            
+Cabernet Franc 2013 Clau de Nell, Anjou, Loire                            
+Carignane Blend 2015 Domaine Puig Parahy, Côtes du Roussillon                            
+Gamay 2015 Château de Poncié, Fleurie, Beaujolais                            
+Grenache Blend 2013 Domaine de la Janasse, Côtes-du-Rhône Villages                            
+Grenache Blend 2014 Domaine du Gour Chaule, Gigondas                            
+Grenache Blend 2014 Domaine de Beaurenard, Châteauneuf-du-Pape                            
+Merlot 2013 Matanzas Creek, Sonoma County                            
+Merlot Blend 2011 Château Lassègue, St. Emilion Grand Cru                            
+Mourvedre 2012 Hecht & Bannier, Bandol                            
+Pinot Noir 2015 Rogstad, Tidrik, Anderson Valley                            
+Pinot Noir 2015 Domaine Drouhin, Dundee Hills, Oregon                            
+Pinot Noir 2016 Domaine Masse, Givry 1er Cru "la brulée", Bourgogne                            
+Pinot Noir 2013 Domaine Prieur Brunet Santenay-Maladiere, Bourgogne                            
+Pinot Noir 2015 Jospeh Drouhin, Pommard, Bourgogne                            
+Pinot Noir 2015 Michel Gros, Nuits-St-Georges, Bourgogne
+Tannat Blend 2013 Chateau Peyros, Madiran
+Syrah 2014 Bernard Levet, La Journaries, Côte-Rôtie                            
+Zinfandel 2016 Ridge, Geyserville, Sonoma County                            

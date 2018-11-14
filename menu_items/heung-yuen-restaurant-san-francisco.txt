@@ -1,0 +1,200 @@
+Piece Pot Stickers                            
+Piece Spring Egg Rolls                            
+Fried Won Ton                            
+Piece Fried Prawns                            
+Fried Squid                            
+Fried Oysters                            
+Sizzling Rice Seafood Soup
+Mixed Seafood with Bean Cake Soup                            
+Clam and Wine Soup                            
+Hot & Sour Seafood Soup                            
+West-Lake Style Beef Soup                            
+Hot & Sour Soup                            
+Seaweed Soup                            
+Chicken with Corn Soup                            
+Egg Flower Soup
+Beef Wonton Soup
+Beef Noodle Soup                            
+Chicken Wonton Soup                            
+Chicken Noodle Soup                            
+BBQ Pork Wonton Soup                            
+BBQ Pork Noodle Soup                            
+Shrimp Wonton Soup
+Shrimp Noodle Soup                            
+Chef's Wor Wonton Soup                            
+Chef's Wor Noodle Soup                            
+Shrimp Wor Wonton Soup                            
+Shrimp Wor Noodle Soup                            
+Beef Rice Noodle Soup                            
+Fish Ball Rice Noodle Soup                            
+Braised Noodle with Beef                            
+Braised Noodle with Beef Stew                            
+Braised Noodle with Seafood                            
+Korean Chicken                            
+Boneless Korean Chicken
+Salt Baked Chicken                            
+Fried Chicken                            
+Sesame Chicken                            
+Chicken in Lemon Sauce                            
+Szechuan Chicken                            
+Orange Chicken                            
+Cashew Nut Chicken                            
+Fresh Mushrooms with Chicken                            
+Spicy Chicken with Basil                            
+Almond Chicken                            
+Chicken with Broccoli                            
+Zucchini with Chicken                            
+Green Beans with Chicken                            
+Chicken Chop Suey                            
+Pineapple Chicken                            
+Sizzling Rice Egg Flower Soup                            
+Mixed Vegetables Fried Rice                            
+Mixed Vegetables Chow Mein                            
+Mixed Vegetables Chow Fun                            
+Salt Baked Tofu                            
+Kung Pao Tofu
+Curry Tofu                            
+Sauteed Mixed Vegetables                            
+Mushrooms, Zucchini, and Tofu with Black Bean Sauce                            
+Sauteed Garlic with Green Beans                            
+Bean Cake with Double Mushrooms                            
+Tofu & Green Beans with Black Bean Sauce                            
+Broccoli with Oyster Sauce
+Eggplant with Garlic Spicy Sauce
+Egg Foo Young
+Chef's Special Beef Steak Cubes                            
+Black Pepper Beef                            
+Korean Beef                            
+Mongolian Beef                            
+Zucchini with Beef                            
+Beef with Mixed Vegetables                            
+Fresh Mushrooms with Beef                            
+White Mushrooms with Beef                            
+Black Mushrooms with Beef                            
+Green Beans with Beef
+Beef with Oyster Sauce                            
+Beef with Scrambled Eggs
+Mango Beef                            
+Szechuan Beef                            
+Sauteed Beef with Broccoli                            
+Asparagus Beef with Black Bean Sauce
+Mongolian Lamb                            
+Lamb with Ginger and Onions                            
+Sweet & Sour Pork
+Mu Shu Pork                            
+Pork Chop Suey                            
+Spicy Bean Cake with Minced Pork                            
+Pork Chop in Lemon Sauce                            
+Salt Baked Pork Chop
+BBQ Pork with Bean Cake                            
+Mandarin Spareribs                            
+Stir Fry Jumbo Prawns with Fresh Basil                            
+Sauteed Clams with Black Bean Sauce                            
+Korean Shrimp
+Salt Baked Prawns                            
+Salt Baked Scallops                            
+Mixed Seafood with Mixed Vegetables
+Sauteed Shrimp with Lobster Sauce                            
+Stir Fry Fresh Shrimp                            
+Szechuan Shrimp                            
+Sauteed Shrimp with Mixed vegetables                            
+Shrimp Chop Suey                            
+Sauteed Shrimp with Cashew Nut                            
+Kung Pao Shrimp                            
+Shrimp with Black Bean Sauce
+Shrimp with 2 Kinds of Mushrooms                            
+Walnut Prawns                            
+Sauteed Shrimp with Broccoli                            
+Mango Shrimp                            
+Fresh Mushrooms with Shrimp                            
+Sauteed Shrimp with Snow Peas                            
+Zucchini with Shrimp                            
+Green Beans with Shrimp                            
+Shrimp with Scrambled Egg                            
+Sweet & Sour Shrimp                            
+Scallops with Mixed Vegetables                            
+Kung Pao Scallops                            
+Fresh Mushrooms with Scallops                            
+Stir Fry Shrimp with Scallops                            
+Salmon Fish with Black Bean Sauce                            
+Chef's Special Fillet of Fish                            
+Fish Filet with Corn                            
+Fish Filet with Broccoli                            
+Salt Baked Fish Filet                            
+Fish Filet with Mixed Vegetables                            
+Fish Filet with Black Bean Sauce                            
+Sweet & Sour Fish Filet                            
+Fried Whole Fish with Black Bean Sauce                            
+Fried Whole Fish with Oyster Sauce
+Fried Whole Fish with Sweet and Sour Sauce                            
+Chef's Special Chow Mein
+Mixed Seafood Chow Mein                            
+Chicken Chow Mein with Bean Sprouts                            
+Shrimp Chow Mein with Bean Sprouts
+BBQ Pork Chow Mein with Bean Sprouts
+Beef Chow Mein with Bean Sprouts                            
+Tomato Beef Chow Mein
+Pepper Beef Chow Mein                            
+Chef's Special Chow Fun                            
+Mixed Seafood Chow Fun                            
+Beef Chow Fun with Bean Sprouts                            
+Pepper Beef Chow Fun                            
+Shrimp Chow Fun with Bean Sprouts
+Chicken Chow Fun with Bean Sprouts
+Singapore Style Chow Mi Fun                            
+Chef's Special Pan Fried Noodle                            
+Mixed Seafood Pan Fried Noodle
+Chicken Pan Fried Noodle                            
+Shrimp Pan Fried Noodle                            
+BBQ Pork Pan Fried Noodle                            
+Beef Pan Fried Noodle
+Chef's Special Fried Rice
+Beef Fried Rice
+BBQ Pork Fried Rice
+Prawns Fried Rice                            
+Salt Fish with Chicken Fried Rice                            
+Mixed Seafood Fried Rice                            
+Salmon Fish Fried Rice
+Beef with Bean Cake Over Rice                            
+Tomato Beef Over Rice                            
+Beef with Chinese Greens Over Rice                            
+Beef with Scrambled Egg Over Rice
+Beef with Oyster Sauce Over Rice                            
+Szechuan Chicken Over Rice                            
+Szechuan Beef Over Rice                            
+Mongolian Beef Over Rice                            
+Beef with Zucchini Over Rice                            
+Beef with Green Beans Over Rice                            
+Beef with Broccoli Over Rice                            
+Beef with Fresh Mushrooms Over Rice                            
+Beef Stew with Chinese Green Over Rice                            
+Beef with Mixed Vegetables Over Rice                            
+Curry Beef Over Rice                            
+Chicken with Chinese Green Over Rice                            
+Curry Chicken Over Rice
+Chicken with Zucchini Over Rice                            
+Chicken with Green Beans Over Rice
+Chicken with Fresh Mushrooms Over Rice                            
+Chicken with Oyster Sauce Over Rice                            
+Spareribs with Black Bean Sauce Over Rice                            
+Pork Chop with Onion Over Rice                            
+Shrimp with Chinese Greens Over Rice
+Shrimp with Zucchini Over Rice                            
+Shrimp with Green Beans Over Rice                            
+Shrimp with Fresh Mushrooms Over Rice                            
+Shrimp with Scrambled Egg Over Rice                            
+Shrimp with Mixed Vegetables Over Rice                            
+Szechuan Shrimp Over Rice                            
+Rock Cod with Broccoli Over Rice                            
+Chicken Chow Mein and BBQ Pork Rice Combo Plate A                            
+Vegetarian Dish Combo Plate B                            
+Protein Dish Combo Plate C                            
+Seafood Dish Combo Plate D                            
+White Rice
+Oyster with Ginger and Onions                            
+Chicken with Sausage in Original Gravy                            
+Shrimp with Bean Cake and Vegetables                            
+Bean Cake with Mixed Meats and Vegetables                            
+Spareribs with Black Bean Sauce
+Deep Fried Fish Filet in Special Sauce                            
+Beef Stew with Vegetables                            

@@ -1,0 +1,58 @@
+Salt Lassi
+Zeera Lassi                            
+Zafrani Lassi
+Indian Chai Tea                            
+Herbal Ice Tea                            
+Kachumber Salad
+Vege Pakora
+Chicken Lachha                            
+Lajawab Jhingay                            
+Achaar                            
+Assorted Vegetable Pakora                            
+Mehfil-E-Mix Mixed Vegetables
+Kashmiri Aloo Gobhi                            
+Aloo Bengan
+Mattar Mushroom                            
+Punjabi Channa Paneer
+Avival                            
+Mehfil-E-Curry                            
+Chicken-Do-Piyaza                            
+Murag Makhini                            
+Korma-E-chicken
+Achaari Chicken
+Kukkar Methtwal                            
+Murag Saagwala                            
+Chicken Chettiar                            
+Khopra Murag                            
+Kadahi Chicken                            
+Kachri Murag
+Lamb-Do-Piyaza                            
+Korma-E-Gosht                            
+Gosht Rumwala                            
+Saag Wala Gosht                            
+Methi Wala Gosht                            
+Kaali Mtrachi Ka Gosht
+Achaari Gosht                            
+Malai Gosht
+Gosht Jaipuri                            
+Tandoori Prawns
+Mehfil-E-Kamal                            
+Sheesh Kabob                            
+Prawns Curry                            
+Prawns Saag Wala                            
+Prawns-Do-Piyaza                            
+Prawns Narialwala                            
+Kadahi Prawns                            
+Fish Achaari
+Vege Biryani                            
+Mehfil-E-Naan                            
+Plain Butter Naan                            
+Methi Naan                            
+Amritsari Naan
+Aloo Kulcha
+Gobhi Kulcha                            
+Paneeri Kulcha                            
+Chapati                            
+Tandoori Parantha                            
+Gulab Jamun                            
+Rabri

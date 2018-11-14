@@ -1,0 +1,163 @@
+Barbecued Spareribs                            
+A. Barbecued Pork                            
+A. Vegetarian Pot Stickers                            
+Fried Wontons                            
+Spicy Salty Squid                            
+Combination Plate                            
+Egg Drop Soup
+Vegetable with Bean Curd Soup                            
+Sizzling Rice Soup with Chicken                            
+A. Sizzling Rice Soup with Shrimp                            
+Delights of 3 Soup
+House Special Soup                            
+Young Chow War Wonton Soup                            
+Shrimp with Broccoli                            
+Hung Shao Style Shrimp                            
+Shrimp with Pea Pods                            
+Coral and Jade                            
+Yu Hsiang Shrimp in Garlic Sauce                            
+Szechuan Shrimp with Peanuts
+Shrimp with Lobster Sauce
+Lake Tung Ting Shrimp
+Shrimp with Assorted Vegetables                            
+Dragon and Phoenix                            
+Shrimp with Black Bean Sauce                            
+Sizzling Shrimp with Vegetables                            
+Shrimp with Cashew Nuts                            
+Scallops with Black Bean Sauce                            
+Scallops with Vegetables in Oyster Sauce                            
+Yu Hsiang Scallops                            
+Szechuan Spicy Fish                            
+Yu Hsiang Fish                            
+Kung Pao Squid                            
+Green Bean with Shrimp                            
+Eggplant with Shrimp                            
+Yu Hsiang Eggplant in Garlic Sauce                            
+Vegetarian's Delight                            
+Tangy and Spicy Green Beans                            
+Broccoli with Oyster Sauce                            
+Pea Pods with Black Mushrooms and Bamboo Shoots                            
+Family Style Bean Curd
+Szechuan Style Bean Curd
+Yu Hsiang Style Bean Curd                            
+Yu Hsiang Broccoli with Straw Mushrooms in Garlic Sauce                            
+Vegetarian Chow Mein
+Roast Pork Chow Mein
+House Special Pan-Fried Noodles                            
+A. Vegetarian Pan Fried Noodles                            
+Sesame Noodles                            
+Peking Sauce Noodles                            
+Chicken Chow Fun
+Singapore Style Fried Rice Stick Noodles                            
+Shanghai Flavor Rice Cake                            
+Vegetarian Fried Rice
+Boiled Rice for 1                            
+A. Brown Rice for 1                            
+Chinese Chicken Salad                            
+Chinese Shrimp Salad                            
+Steamed Vegetarian Delight
+Steamed Chicken with Assorted Vegetables                            
+Steamed Shrimp with Assorted Vegetables                            
+A. Dinner for 2                            
+B. Dinner for 3                            
+C. Dinner for 4                            
+Moo Shi Pork                            
+Moo Shi Chicken                            
+Moo Shi Beef                            
+Moo Shi Shrimp                            
+Vegetable Moo Shi                            
+C1. Mandarin Spicy Chicken
+C2. General Gau's Chicken                            
+C3. Orange Flavored Chicken
+C4. Hunan Crispy Beef
+C5. Szechuan Orange Beef                            
+C6. Mandarin Crispy Shrimp                            
+C7. 3 Delights in the Nest                            
+C8. House Special Sea Food Delight                            
+C9. Peking 5 Flavored Shrimp                            
+C10. Sesame Beef                            
+C12. Sizzling Oriental Style Steak                            
+C14. Mandarin Crispy Chicken                            
+C15. Kan Shao Style Shrimp                            
+C16. Kan Shao Style Scallops                            
+C17. Ginger Scallion Shrimp                            
+C18. Honey Glazed Walnut Prawns                            
+C19. Butterfly Prawns in Special Garlic Sauce                            
+C20. Pepper Salty Pork chop                            
+D1. Peking Duck                            
+D2. Hunan Plum Flavored Duck                            
+D3. Roast Duck Cantonese Style                            
+Chicken Wing with Garlic Sauce                            
+Bon-Bon Chicken                            
+Sliced Chicken with Broccoli                            
+Chicken with Pea Pods                            
+Szechuan Spicy Chicken with Peanuts                            
+Chicken with Cashew Nuts                            
+Sliced Chicken with Mushrooms and Vegetables                            
+Yu Hsiang Chicken with Garlic Sauce                            
+Sizzling Sliced Chicken with Vegetables                            
+Strangely Flavored Chicken
+Delight of 3
+Green Bean with Chicken                            
+Eggplant Chicken                            
+A. Mongolian Beef                            
+Szechuan Spicy Beef                            
+Kan Shao Shredded Beef                            
+Beef with Pea Pods                            
+Beef with Green Bean                            
+Beef with Green Peppers                            
+Beef with Scallions                            
+Beef with Mushrooms in Oyster Sauce                            
+Beef with Bamboo Shoots and Black Mushrooms                            
+A. Spareribs with Black Bean Sauce                            
+Pork with Scallions                            
+Sliced Pork with Broccoli                            
+Yu Hsiang Pork in Garlic Sauce                            
+Hunan Sliced Pork
+Chung King Twice Cooked Pork                            
+L1. General Chicken with Rice Lunch Special                            
+L2. Sweet and Sour Chicken with Rice Lunch Special                            
+L3. Szechuan Chicken with Peanuts with Rice Lunch Special                            
+L4. Yu Hsiang Chicken in Garlic Sauce with Rice Lunch Special                            
+L5. Sliced Chicken with Assorted Vegetables with Rice Lunch Special                            
+L6. Chicken with Black Bean Sauce with Rice Lunch Special                            
+L7. Almond Chicken with Rice Lunch Special                            
+L8. Curry Chicken with Rice Lunch Special                            
+L9. Sweet and Sour Pork with Rice Lunch Special                            
+L10. Chung King Twice Cooked Pork with Rice Lunch Special                            
+L11. Yu Hsiang Pork in Garlic Sauce with Rice Lunch Special                            
+L12. Shredded Pork with Eggplant in Garlic Sauce with Rice Lunch Special                            
+L15. Black Bean Sauce Spareribs with Rice Lunch Special                            
+L16. Beef Stew with Rice Lunch Special                            
+L17. Beef Scrambled Egg with Rice Lunch Special                            
+L18. Mongolian Beef with Rice Lunch Special                            
+L19. Tomato Beef with Rice Lunch Special                            
+L20. Bean Curd Beef with Rice Lunch Special                            
+L21. Ginger Beef with Rice Lunch Special                            
+L22. Beef with Oyster Sauce with Rice Lunch Special
+L23. Tender Green Beef with Rice Lunch Special                            
+L24. Kan Shao Shredded Beef with Rice Lunch Special                            
+L25. Szechuan Spicy Beef with Rice Lunch Special                            
+L26. Broccoli Beef with Rice Lunch Special                            
+L27. Shrimps with Scrambled Egg with Rice Lunch Special                            
+L28. Shrimps with Cashew Nuts with Rice Lunch Special                            
+L29. Shrimps with Lobster Sauce with Rice Lunch Special                            
+L30. Yu Hsiang Shrimp with Rice Lunch Special                            
+L31. Szechuan Shrimps with Rice Lunch Special                            
+L32. Kung Pao Squid with Rice Lunch Special                            
+L33. Shrimps with Black Bean Sauce with Rice Lunch Special                            
+L34. Szechuan Spicy Fish with Rice Lunch Special                            
+L35. Hung Shao Style Shrimps with Rice Lunch Special                            
+L36. Shrimps with Broccoli with Rice Lunch Special                            
+L37. Szechuan Bean Curd with Broccoli with Rice Lunch Special                            
+L38. Tangy Spicy Green Bean with Rice Lunch Special                            
+L39. Vegetarian Delight with Rice Lunch Special                            
+L40. Yu Hsiang Eggplant with Rice Lunch Special                            
+Snapple Juice                            
+Pepsi                            
+Diet Pepsi                            
+up                            
+Diet 7 up                            
+Mountain Dew                            
+Sunkist                            
+Canada Dry                            

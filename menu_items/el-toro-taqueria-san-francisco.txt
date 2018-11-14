@@ -1,0 +1,193 @@
+Watermelon Agua Fresca                            
+Cantaloupe Agua Fresca
+Strawberry Agua Fresca
+Lemon-Lime Agua Fresca
+Horchata
+Tamarind Agua Frescas
+Guava                            
+Canned Soda                            
+Jarritos
+Calistoga                            
+Mexican Coke
+Snapple                            
+Orangina                            
+Fiesta Platter (serves 2-4 )                            
+Guacamole and Chips                            
+Famosa Salsa and Chips
+House Crafted Killer Refried Beans with Melted Cheese                            
+Chicken Nachos
+Chicken Quesadilla
+Avocado Caesar Salad                            
+Chicken Caesar Salad
+Chicken and Avocado Caesar Salad
+Grilled Prawn Caesar Salad                            
+Chicken and Prawn Salad                            
+Nachos
+Super Meat Nachos                            
+Steak and Nachos                            
+Super Steak and Nachos                            
+Super Nachos with Meat                            
+Prawns Nachos                            
+Super Prawns Nachos                            
+Steak and Prawns Nachos                            
+Super Steak and Prawns Nachos                            
+Chicken and Prawns Nachos                            
+Super Chicken and Prawns Nachos                            
+Vegetarian Nachos
+Super Vegetarian Nachos
+Meat Nachos                            
+Taco
+Taco Dinner ( 1 taco )                            
+Taco Deluxe                            
+Taco Deluxe Dinner ( One Taco )                            
+Taco Especial                            
+Taco Especial Dinner ( One Taco )                            
+Super Taco
+Super Taco Dinner ( 1Taco )                            
+Tacos Deal                            
+Tacos Dinner Deal                            
+Super Tacos Deal                            
+Tacos Plate                            
+Rice, Beans and Salsa Taco                            
+Super Rice, Beans and Salsa Taco                            
+Rice, Beans and Salsa Taco Dinner                            
+Tofu Taco
+Super Tofu Taco                            
+Tofu Taco Dinner                            
+Vegetable Taco                            
+Super Vegetable Taco                            
+Vegetable Taco Dinner                            
+Super Vegetarian Taco
+Super Vegetarian Taco Dinner                            
+Prawn Taco
+Super Prawn Taco
+Dinner Prawn Taco                            
+Fish Guachinango Taco                            
+Super Fish Guachinango Taco                            
+Fish Guachinango Taco Dinner                            
+Grilled Salmon Taco
+Super Grilled Salmon Taco                            
+Grilled Salmon Taco Dinner                            
+Regular Burrito
+Deluxe Burrito
+Especial Burrito
+Super Burrito
+Baby Burrito
+Super Baby Burrito                            
+Combo Burrito Two Meats                            
+Super Combo Burrito                            
+Pura Carne All Meat Burrito                            
+Super Pura Carne Burrito
+Prawns Burrito                            
+Super Prawns Burrito                            
+Red Snapper Burrito                            
+Super Red Snapper Burrito                            
+Steak and Prawns Burrito
+Super Steak and Prawns Burrito                            
+Grilled Salmon Burrito                            
+Super Grilled Salmon Burrito                            
+A. Beans and Rice Burrito
+B. Beans, Rice and Cheese Burrito                            
+C. Beans, Rice, Lettuce, Tomato and Salsa Burrito                            
+D. Beans, Rice, Avocado, Lettuce, Tomato and Salsa Burrito                            
+E. Super Vegetarian Burrito
+F. Chile Relleno Burrito                            
+F. Super Chile Relleno Burrito                            
+G. Tofu Ranchero Burrito                            
+G. Super Tofu Ranchero Burrito                            
+H. Grilled Vegetables Burrito                            
+H. Super Grilled Vegetables Burrito                            
+K. Beans, Cheese and Salsa Burrito
+Carne Asada Dinner Meal                            
+Pollo Asado Dinner Meal                            
+Carnitas Dinner Meal                            
+Al Pastor Dinner Meal                            
+Tofu Ranchero Dinner Meal                            
+Grilled Vegetables Dinner Meal                            
+Meat Quesadilla Dinner Meal                            
+Baby Burrito Dinner Meal                            
+Taco Dinner Meal                            
+Chile Verde Dinner Meal                            
+Spicy Chicken Dinner Meal                            
+Chorizo Dinner Meal                            
+Lengua Dinner Meal                            
+Garlic Prawns Dinner                            
+Hot and Spicy Prawns Dinner                            
+Chipotle Prawns Dinner                            
+Fajita Prawns Dinner                            
+Huachinango Snapper Dinner                            
+Salmon Dinner                            
+Prawns Cocktail                            
+Garlic Prawns Tostada                            
+Corn Quesadilla
+Super Corn Quesadilla                            
+Corn Quesadilla Dinner                            
+Flour Quesadilla
+Super Flour Quesadilla                            
+Flour Quesadilla Dinner                            
+Quesadilla Suiza
+Super Quesadilla Suiza                            
+Quesadilla Suiza Dinner                            
+Super Quesadilla
+Super Quesadilla Dinner                            
+Garlic Mushroom Quesadilla
+Super Garlic Mushroom Quesadilla                            
+Garlic Mushroom Quesadilla Dinner                            
+Garden Vegetables Quesadilla                            
+Super Garden Vegetables Quesadilla                            
+Garden Vegetables Quesadilla Dinner                            
+Prawn Quesadilla                            
+Super Prawn Quesadilla                            
+Prawn Quesadilla Dinner                            
+Steak and Prawn Quesadilla                            
+Super Steak and Prawn Quesadilla
+Steak and Prawn Quesadilla Dinner                            
+Steak and Garlic Prawn Quesadilla                            
+Super Chicken and Garlic Prawn Quesadilla                            
+Chicken Avocado Quesadilla                            
+Torta Mexican Sandwich                            
+Torta Ahogada Sandwich                            
+Chile Relleno Mexican Specialty                            
+Enchiladas Mexican Specialty                            
+Flautas Mexican Specialty                            
+Tamales Mexican Specialty                            
+Tostada Salad Mexican Specialty                            
+Beef Fajitas Mexican Specialty                            
+Chicken Fajitas Mexican Specialty                            
+Enchilada, Flauta and Chile Relleno Combo Dinner                            
+Tamale, Flauta and Garlic Prawns Combo Dinner                            
+Corn Quesadilla, Prawns and Steak Taco Combo Dinner                            
+Asada Steak and Garlic Prawns Combo Dinner                            
+Carne Asada, Chicken Asada and Prawns Combo Dinner
+Spicy Chicken, Garlic Prawns and Garlic Prawns Enchilada Combo Dinner                            
+Quesadilla Suiza, Garlic Prawns and Parrilla Mushroom Combo Dinner                            
+Garlic Prawns, Steak Taco, Enchilada and Cebollitas Asadas Combo Dinner                            
+Asada Steak, Garlic Prawns and Grilled Salmon Combo Dinner                            
+Mexican Rice
+Beans
+Salsa
+Cheese
+Guacamole
+Sour Cream
+Meat
+Tofu
+Grilled Vegetables                            
+Mushrooms
+Lettuce
+Tomato
+Jalapenos
+Cebollitas Asadas a Puro Fuego                            
+Tamale
+Enchilada
+Flautas
+House Made Corn Chips Bags                            
+Churro
+Alfajor
+Flan
+Regular Burrita Bowl
+Family & Group Meal #1. One Meat Rice Beans 2 Salsas Guacamole Chips & Tortillas                            
+Family & Group Meal # 2 (2 Meats ) Serves 3-4                            
+Family & Group Meal # 3 ( Three Meats ) Serves 3-4                            
+Fresh Orange Juice                            
+Fresh Carrot Juice                            
+Fresh Carrot and Orange                            

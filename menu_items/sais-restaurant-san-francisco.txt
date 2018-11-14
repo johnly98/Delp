@@ -1,0 +1,136 @@
+Bi Cuon                            
+Bo Cuon                            
+Ga Cuon                            
+Chien Ca Vien                            
+Nep Chien                            
+Tom Chien Don                            
+Banh Xeo                            
+Goi Muc                            
+Goi Sua Tom                            
+Goi Bo Nuong                            
+Goi Heo Nuong                            
+Hu Tieu Tom Cua                            
+Pho Bo                            
+Pho Ca and Bo Vien                            
+Bun Cary Ga
+Sup Mien Ga                            
+Bun Cary De                            
+Bun Ko Kho                            
+Canh Chua Ga                            
+F. Canh Chua Ca                            
+S. Canh Chua Tom                            
+Ga Ngu Vi Huong                            
+Cary Com                            
+Ga Nuong Xa Ot                            
+Ga Xao Nam                            
+Ga Xao Rau Cai                            
+Ga Xao Cary                            
+Ga Xao Hot Dieu                            
+Ga Xao Mang Tay                            
+Ga Xao Dau Que                            
+Ga Xao Ca Tim                            
+Ga Chua Ngot                            
+Bo Nuong Xa                            
+Bo Xao Sa Te                            
+Bo Xao Gung                            
+Bo Xau Rau Cai                            
+Bo Kho                            
+Bo Xau Ca Tim                            
+Bo Xau Dau Hu Ca Chua                            
+Bo Loc Lac                            
+Bo Xau Dau Que                            
+Bo Xau Mang Tay                            
+Bo Xau Cai Trang                            
+Bo Xau Bong Cai                            
+CCF. Ca Xao Cary                            
+SSF. Chua Ngot                            
+Chien Muoi Tieu                            
+Tom Chua Ngot                            
+Tom Muc Xao Lang                            
+Tom Xao Dau Que                            
+Tom Xao Mang Tay                            
+Tom Xao Rau Cai                            
+Tom Xau Nam                            
+Tom Xau Ca Tim                            
+Tom Xau Bong Cai                            
+Tom Xau Xa Ot                            
+Tom Xao Hot Dieu                            
+Muc Xau Rau Thom                            
+Muc Xau Xa Ot                            
+BCS. Tom Xau Cai Trang                            
+Com Heo Nuong                            
+Com Suon Nuong                            
+Heo Xao Rau                            
+Heo Xao Ca Tim                            
+Heo Xau Lang                            
+Heo Xau Nam Dong Co                            
+Cary De                            
+N. Imperial Rolls                            
+Imperial Rolls and Pork
+C. Imperial Rolls and Chicken                            
+B. Imperial Rolls with Beef
+Grill Prawns                            
+N. BBQ Pork                            
+N. BBQ Beef                            
+N. Grilled Chicken                            
+N. 5 Spices Roast Chicken
+V80. Vegetarian Mixed Vegetables                            
+CN. 23 1/2 Mi Don
+JC. Joel's Classic with Chicken                            
+V14CN. Vegetarian Mi Don                            
+JS. Joel's Classic with Prawns                            
+Ga Kho To Xa Ot                            
+SPC. Tom Heo Kho To                            
+Ca Kho To                            
+Com Chien Hai San                            
+Com Chien Ga                            
+Com Chien Bo                            
+Com Chien Heo                            
+Mi Xao Thap Cam                            
+Mi Xao Tom                            
+V1. Canh Chua Chay                            
+V3. Goi Cuon Chay                            
+V5. Goi Chay                            
+V6. Dau Hu Xao Lang                            
+V7. Dau Ve Xao Tau Xi                            
+V8. Mang Tay Xao Tau Xi                            
+V9. Dau Hu Xao Ba Nam                            
+V10. Ca Tim Xao Dau Toi                            
+V11. Dau Hu Xao Chua Ngot                            
+V12. Dau Hu Xao Xa Ot                            
+V13. Dau Hu Xao Gia                            
+V14. Rau Xao Thap Cam                            
+V15. Rau Thap Cam Cary                            
+V16. Mien Xao Chay                            
+V17. Com Chen Chay                            
+V18. Mi Xao Chay                            
+V19. Bun Xao Chay                            
+V20. Bong Cai Xao Nam                            
+SP9. Curry Fish Noodle Soup
+SP1. Curry Beef Stew
+SP2. Rice in Claypot with Shrimp and Chicken
+SP3C. Fresh Mango Chicken                            
+SP3B. Fresh Mango Beef                            
+SP4. Bun Rieu                            
+GBC. Garlic Basil Chicken
+GBB. Garlic Basil Beef                            
+GBP. Garlic Basil Pork                            
+SP6R. Grilled Pork Chop and Shrimp Over Rice Bowl                            
+SP6N. Grilled Pork Chop and Vermicelli Bowl                            
+SP7C. Sesame Chicken                            
+SP7S. Sesame Prawns                            
+SP8. Lemon Grass Beef Vermicelli Bowl
+VN. Vietnamese Ice Coffee                            
+TT. Thai Ice Tea                            
+LN. Lemonade                            
+S. Water. Sparkling Water (Glass Bottle)
+SOY. Soybean Milk                            
+Coca Cola Classic                            
+Coco. Coconut Soda                            
+Lagunitas Denogginizer Double IPA                            
+Tsingtao                            
+Ballast Point Sculpin IPA                            
+Blue Moon Belgium White                            
+C1. Combination 1                            
+C2. Combination 2                            
+C3. Combination 3                            

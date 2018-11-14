@@ -1,0 +1,63 @@
+Reg. Shrimp Quesadilla                            
+Super Shrimp Quesadilla
+Super Quesadilla Suiza
+Reg. Suiza                            
+Flour Quesadilla                            
+Corn  Quesadilla                            
+Chorizo
+Asada
+Carnitas
+Pollo Asado
+Pollo Cocido
+Tripas
+Pastor
+Chile Verde
+Camaron
+Lengua
+Cabeza
+Mex. Sausage                            
+Steak
+Deep Fried Pork
+Grilled Chicken
+Boil Chicken                            
+Beef Tripes                            
+Marinated Pork
+Green Sausage                            
+Beef Tongue
+Beef Head
+Taco Regular                            
+Super Taco
+Shrimp Taco
+Super Shrimp Taco
+Torta (sandwich)
+Nachos
+Super Machos                            
+Tostada
+Reg. Burrito                            
+Super Burrito
+Burrito Ranchero
+Wet Burrito
+Vegetarian Burrito
+Reg. Shrimp Burrito                            
+Sup. Shrimp Burrito                            
+Reg. Burrito Mixto                            
+Sup. Burrito Mixto                            
+Breakfast Burrito
+Sup. Breakfast Burrito                            
+Carne Asada
+Alambres
+Enchiladas
+Shrimp Enchiladas
+Camarones (diabla Y Plancha)                            
+Fried Fish (tilapia)                            
+Fajitas                            
+Shrimp Fajitas                            
+Cocktel De Cam                            
+Tostada De Cev                            
+Jugo De Naranja                            
+Jugo De Zanahoria                            
+Horchata, Melon, Fresa                            
+Soda Mex.                            
+Reg. Soda                            
+Cerveza Domestica                            
+Cerveza Mexicana                            

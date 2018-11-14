@@ -1,0 +1,130 @@
+Kern's Apple Juice                            
+Senioral                            
+Cola Champagne                            
+Crispy Fried Wonton                            
+Fried Crab Cheese Puffs                            
+Minced Chicken with Lettuce Wrap                            
+Appetizer Combo Plate                            
+Beef with Ginger and Green Onions                            
+Beef with Green Beans                            
+Chicken with 2 Kinds of Mushrooms                            
+Happy Chicken                            
+Salt and Pepper Chicken                            
+Singapore Fried Vermicelli Noodle                            
+Spicy Pork Sauce Lo Mein                            
+Spicy Thai Style Vermicelli                            
+Spicy BBQ Pork and Beef Chow Mein
+Curry Chicken Fried Rice                            
+Regular Pork Fried Rice                            
+Salted Fish and Chicken Fried Rice
+Snow Peas with Black Mushroom and Water Chestnuts                            
+Broccoli with Garlic Sauce                            
+Fried Tofu with Green Beans                            
+Dry Braised Green Beans                            
+Snow Peas with 2 Kinds of Mushrooms                            
+Vegetable Sizzling Rice Soup                            
+Chicken Sizzling Rice Soup                            
+Shredded Pork with String Beans                            
+Pork Egg Foo Yung                            
+Vegetable Egg Foo Yung                            
+General Sho's Tofu                            
+Kung Pao Vegetable with Tofu                            
+Mango Tofu                            
+Sweet and Sour Tofu                            
+Spicy Basil Tofu                            
+Fish Fillet Porridge                            
+Preserved Egg and Pork Porridge                            
+Prawns with Asparagus in Black Bean Sauce                            
+Stir-Fried Cashew Nut Shrimp                            
+Stir-Fried Cashew Nut Chicken                            
+Chong Qing Spicy Chicken                            
+Dry Braised String Beans with Prawns                            
+Mango Beef                            
+General Sho's Chicken                            
+Deep Fried Spicy Chicken with Salt and Pepper                            
+Beef Stew with Cabbage                            
+Onion Pork Chops                            
+Chicken Wings with Garlic Sauce                            
+Crispy Half Duck                            
+Crispy Whole Duck                            
+Peking Roast Duck Half                            
+Peking Roast Duck Whole                            
+Crispy Half Chicken                            
+Crispy Whole Chicken                            
+Beef Mu Shu                            
+Pork Mu Shu                            
+Vegetable Mu Shu                            
+Shrimp Mu Shu                            
+House Rice Lunch Special                            
+Sweet and Sour Tofu Lunch Special                            
+Kung Pao Mixed Vegetable with Tofu Lunch Special                            
+Garlic Mixed Vegetables with Chicken Lunch Special                            
+Crispy Chicken Leg Lunch Special                            
+Beef with Snow Peas Lunch Special                            
+Beef Stew with Tofu Lunch Special                            
+Beef with Ginger and Onion Lunch Special
+Black Bean Sauce with Beef Lunch Special                            
+Black Bean Sauce with Chicken Lunch Special                            
+General Shao's Beef Lunch Special                            
+General Shao's Chicken Lunch Special                            
+BBQ Pork Lunch Special                            
+BBQ Spareribs Lunch Special                            
+Garlic Sauce with Pork Lunch Special                            
+Pork Chops with Onion Lunch Special                            
+Pork Chops with Peking Sauce Lunch Special                            
+Salt and Pepper Pork Chops Lunch Special                            
+Asparagus with Prawns Lunch Special                            
+General Shaos Prawns Lunch Special                            
+Scrambled Egg Lunch Special                            
+Prawns with Snow Peas Lunch Special                            
+Calamari with Black Bean Sauce Lunch Special                            
+Curry Calamari Lunch Special                            
+Black Bean Sauce with Fish Lunch Special                            
+Tender Green Fish with Black Bean Sauce Lunch Special                            
+Crispy Duck Lunch Special                            
+Orange Peel Chicken Lunch Special                            
+Steamed BBQ Pork Buns                            
+Steamed Vegetable Meatbuns                            
+Mixed Vegetable Salad                            
+Shrimp Wonton Noodle Soup
+Beef Stew Wonton with Noodles Soup                            
+Roast Duck with Wonton Noodles Soup                            
+Sliced Pork with Preserved Vegetables Noddle Soup                            
+Mongolian Tofu Combination for One                            
+Kung Pao Vegetable with Tofu Combination for One                            
+Ma Po Tofu Combination for One                            
+Sweet and Sour Tofu Combination for One                            
+General Shao's Tofu Combination for One                            
+Garlic Sauce with Eggplant Combination for One                            
+Lemon Chicken Combination for One                            
+Kung Pao Chicken Combination for One                            
+Mongolian Beef Combination for One                            
+Beef with Broccoli Combination for One                            
+Garlic and Mixed Vegetable with Chicken Combination for One                            
+Shredded Pork with Garlic Sauce Combination for One                            
+General Shao's Chicken Combination for One                            
+Salt and Pepper Pork Chops Combination for One                            
+Peking Style Pork Chops Combination for One                            
+Sesame Chicken Combination for One                            
+String Beans with Prawns Combination for One                            
+Fish with Black Bean Sauce Combination for One                            
+Fish with Tender Greens Combination for One                            
+Kung Pao Prawns Combination for One                            
+Prawns with Snow Peas Combination for One                            
+Mixed Veggie with Imitation Beef                            
+Mixed Veggie with Imitation Chicken                            
+Orange Imitation Chicken                            
+Curry Imitation Beef                            
+General Shao's Imitation Chicken                            
+General Shao's Imitation Beef                            
+Double Mushroom with Imitation Bee                            
+Double Mushroom with Imitation Chicken                            
+Sweet and Sour Imitation Chicken                            
+Cashew Imitation Chicken                            
+Sauteed Seafood Combo                            
+Calamari with Black Bean Sauce                            
+Prawns with Fish and Greens                            
+General Shao's Shrimps                            
+Sweet & Sour Fish                            
+Fish Filet with Tender Greens                            
+Rad Hot Fish Fillets in a Spicy Broth                            

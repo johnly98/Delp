@@ -1,0 +1,57 @@
+Anti-Pasto Salad                            
+Hot Sandwich with Fries and Cheese                            
+Philly Sandwich                            
+Chicken Pesto Sandwich with Fries                            
+Hamburger with Fries                            
+add cheese                            
+Small Milan Calzone                            
+Small Vegetarian Calzone
+Small Meat-lovers Calzone                            
+Small Pesto Calzone                            
+Medium Milan Calzone                            
+Large Milan Calzone                            
+Extra Large Milan Calzone                            
+Medium Vegetarian Calzone                            
+Large Vegetarian Calzone                            
+Extra Large Vegetarian Calzone                            
+Medium Meat-lovers Calzone                            
+Large Meat-lovers Calzone
+Extra Large Meat-lovers Calzone                            
+Medium Pesto Calzone                            
+Large Pesto Calzone                            
+Extra Large Pesto Calzone                            
+Milan Calzone
+Vegetarian Calzone
+Meat Lovers Calzone                            
+Pesto Calzone
+Milan Special Pizza
+San Francisco Pizza                            
+Margarita Pizza                            
+Seafood Pizza                            
+Green Pizza                            
+Vienna Pizza                            
+Paris Special Pizza                            
+Pesto Pizza                            
+Mission Special Pizza with BBQ Chicken                            
+Monaco Pizza                            
+Mission Special Pizza with Buffalo Chicken                            
+Pieces Spicy Buffalo Wings                            
+Pieces Jalapeno Poppers                            
+Pieces Mozzarella Sticks                            
+Breadsticks
+Pieces Deep Fried Mild Plain Wings                            
+Ben & Jerry's Pint                            
+Oreo Cookie Ice Cream Sandwich                            
+Reese's Peanut Butter Cup Ice Cream                            
+Klondike Original                            
+Small 12" Cheese Pizza                            
+Medium 14" Cheese Pizza                            
+Large 16" Cheese Pizza                            
+X-Large 18" Cheese Pizza                            
+Pizza Deal Special                            
+Topping Meal Special                            
+Super Deal Special
+Baked Macaroni Cheese                            
+Baked Meat Lasagna                            
+Baked Vegetarian Lasagna                            
+Pepperoni & Sausage

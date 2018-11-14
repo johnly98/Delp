@@ -1,0 +1,49 @@
+oz. Bottled Soda                            
+oz. Mexican Coke                            
+oz. Jarritos                            
+Enchiladas Plato Special                            
+Cheese Quesadilla                            
+Flour Quesadilla with Meat                            
+Jumbo Quesadilla
+Corn Quesadilla with Meat                            
+Pollo Asada Taco                            
+Pollos con Rajas Taco                            
+El Pastor Taco
+Lengua Taco                            
+Chile Verde Taco                            
+Chile Colorado Taco                            
+Pollo Colorado Taco                            
+Pescado Colorado Taco                            
+Vegetarian Rajas Taco                            
+Vegetarian Tofu Taco                            
+Rice and Bean Taco
+Carne Asada Burrito
+Pollo Asada Burrito                            
+Lengua Burrito
+Chorizo Burrito
+El Pastor Burrito
+Chile Verde Burrito
+Chile Colorado Burrito
+Pollo Colorado Burrito                            
+Pescado Colorado Burrito                            
+Vegetarian Rajas Burrito                            
+Vegetarian Tofu Burrito                            
+Carne Asada Tostada                            
+Vegetarian Tostada
+Tofu Tostada                            
+Pollo Asada Plate                            
+Pollo con Rajas Plate                            
+Carnitas Plate
+Chile Verde Plate                            
+El Pastor Plate                            
+Pescado Colorado Plate                            
+Pollo Colorado Plate                            
+Chile Colorado Specialty Plate                            
+Lengua Plate                            
+Chorizo Plate                            
+Vegetarian Rajas Plate                            
+Vegetarian Tofu Plate                            
+Rice and Beans Plate                            
+Nacho Con Todo                            
+Nacho Regular                            
+Tortilla Chips and Salsa                            

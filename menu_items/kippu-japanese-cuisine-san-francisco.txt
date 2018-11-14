@@ -1,0 +1,266 @@
+Tofu Salad                            
+Salmon Skin Salad                            
+Chicken Karaage                            
+Agedashi Tofu                            
+Yakitori                            
+Beef Teriyaki                            
+Chicken Teriyaki                            
+Croquette                            
+Spicy Edamame                            
+Edamame                            
+Fresh Oysters                            
+Green Salad                            
+Cucumber Salad                            
+Wakame Salad                            
+Sunomono Salad                            
+Poki Sashimi Salad                            
+Oyster Shooter                            
+Pieces Gyoza                            
+Pieces Takoyaki                            
+Pieces Kaki Fried                            
+Soft Shell Crab
+Veggie Spring Roll
+Pieces Veggie Tempura                            
+Pieces Shrimp Tempura                            
+Mixed Tempura                            
+Hiyayakko                            
+Hamachi Kama                            
+Salmon Teriyaki                            
+Shrimp Tempura                            
+Vegetable Tempura                            
+Katsu Plate                            
+Saba Shioyaki                            
+Ha-Dup-Bop                            
+Sukiyaki                            
+Spicy Chicken                            
+Salmon Shioyaki                            
+Vegetarian Bento                            
+A. 6 Pieces Sashimi, 3 Pieces Nigiri, California Roll &Wakame                            
+B. 6 Pieces Sashimi, 3 pieces Nigiri, Tekka Roll, Wakame                            
+C. 6 Pieces Sashimi, 3 Pieces Nigiri, Spicy Tuna Roll, Wakame                            
+Chicken Teriyaki and Tempura and Gyoza Dinner                            
+Chicken and Tempura and California Roll Dinner
+Chicken Teriyaki and Tempura and Sashimi Dinner                            
+Beef Teriyaki and Tempura and Gyoza Dinner                            
+Beef Teriyaki and Tempura and California Roll Dinner                            
+Beef Teriyaki and Tempura and Sashimi Dinner                            
+Salmon Teriyaki and Tempura and Gyoza Dinner                            
+Salmon Teriyaki and Tempura and California Roll Dinner                            
+Salmon Teriyaki and Tempura and Sashimi Dinner                            
+Oyako Don                            
+Katsu Don                            
+Niku don                            
+Ten Don                            
+Vegetable Don                            
+Seafood Udon                            
+Nabeyaki Udon                            
+Beef Udon                            
+Chicken Udon                            
+Tempura Udon                            
+Vegetable Udon                            
+Zaru Soba                            
+Ten Zaru Soba                            
+BBQ Albacore
+Monkey Brain
+Melting Albacore                            
+The Bomb                            
+Peppercorn Tuna                            
+Pepper Fin
+Volcano Scallop                            
+Sashimi Cocktail
+Holy Molly                            
+Pieces Sashimi Sampler                            
+Ankimo
+Honey Salmon
+Salad                            
+Rice                            
+Miso Soup                            
+Brown Rice                            
+Green Tea Ice Cream
+Mochi Ice Cream
+Tempura Ice Cream
+Soft Drinks                            
+Iced Tea                            
+Ai Roll
+Bay Scallop Roll
+Caterpillar Roll                            
+Cherry Blossom Roll
+Crazy Roll
+Crunch Roll
+BMW Roll                            
+Double Salmon Roll
+Delicious Roll
+Double Hamachi Roll                            
+Dragon Roll
+Mammoth Roll
+Flaming Dragon Roll
+Forrest Gump Roll
+Golden Gate Roll
+Incredible Roll
+Lion King Roll
+Java Roll
+King's Roll
+Love Roll
+M. A. M. A Roll                            
+Nice Roll                            
+ers Roll                            
+Orange Blossom Roll
+Rainbow Roll
+Rock and Roll
+Spicy Country Roll
+Salmon Lover Roll
+Shrek Roll                            
+Kippu Roll
+Super California Roll                            
+Smoky Roll                            
+Spider Roll
+Post Roll
+Unagi Lover Roll
+Fish Lover Roll                            
+Carmen Roll
+Charisma Roll                            
+Ferrari Roll
+Fire Cracker Roll                            
+Mendocino Roll
+Ninja Roll                            
+Lobster Crossing Roll                            
+Spicy Killer Roll
+Spicy Juno Roll
+Spicy Spider Roll
+Victoria's Secret Roll
+Sex and The City Roll
+Salmon Ceviche Roll
+Green Island Roll                            
+Candy Cane Roll
+Four Season Roll                            
+Double Albacore Roll                            
+Banzai Roll
+Super Deluxe Roll                            
+Titanic Roll                            
+Xxx Roll                            
+King Kong Roll
+Roll                            
+Crispy Roll
+Washington Roll
+Mexican Roll
+Dynamite Roll
+Lobster Crunch Roll                            
+Go Go Roll
+Lucky 8 Roll                            
+Y2k Roll                            
+Mountain Roll
+Hollywood Roll                            
+Valentine Roll                            
+Giant Roll
+Pink Lady Roll                            
+Spicy Tuna Roll                            
+Spicy Hamachi Roll                            
+Spicy Scallop Roll                            
+California Hand Roll                            
+Spicy Salmon Roll                            
+Salmon Skin Roll                            
+Unagi Roll                            
+California Roll                            
+Sake Roll                            
+Negi Hama Roll                            
+Ichiban Roll                            
+Poky Roll                            
+Tekka Roll                            
+New York Roll                            
+Spicy Sake Roll                            
+Alaska Roll Roll                            
+Una Q Roll
+Tempura roll                            
+Philadelphia Roll                            
+Futo Maki Roll                            
+Yamagobo Roll                            
+Avocado Roll                            
+Veggie Tempura Roll                            
+Natto Roll                            
+Rice Roll                            
+Asparagus                            
+Oshinko Roll                            
+Kappa Roll                            
+Veggie Lover                            
+Avo-Cu Roll                            
+Shitake Roll                            
+Kanpyo Roll                            
+Hamachi
+Hotate                            
+Maguro                            
+Sake
+Albacore
+Ebi                            
+Hirame
+Unagi
+Tamago
+Inari
+Tobiko
+Ikura                            
+Kanikama                            
+Hokki-Gai                            
+Ika                            
+Amaebi                            
+Tako
+Suzuki                            
+Saba
+Escolar
+Masako                            
+Golden Eye                            
+Daily Special A                            
+Daily Special B                            
+Sushi Combination A                            
+Sushi Combination B                            
+Sushi Combination C                            
+Pieces Sushi and 7 Pieces Sashimi                            
+Assorted Sashimi A                            
+Assorted Sashimi B                            
+Assorted Sashimi C                            
+Pieces Assorted Sashimi E                            
+Pieces Assorted Sashimi F                            
+Chirashi
+Tekka Don                            
+Poki Don                            
+Unagi Don                            
+Chicken Teriyaki and Tempura Lunch                            
+Chicken Teriyaki and California Roll Lunch
+Chicken Teriyaki and Sashimi Lunch                            
+Chicken Teriyaki and Tekka Roll Lunch                            
+Chicken Teriyaki and Gyoza Lunch
+Beef Teriyaki and Tempura Lunch                            
+Beef Teriyaki and California Roll Lunch
+Beef Teriyaki and Sashimi Lunch
+Beef Teriyaki and Tekka Roll Lunch                            
+Salmon Teriyaki and Tempura Lunch                            
+Salmon Teriyaki and California Roll Lunch
+Salmon Teriyaki and Sashimi Lunch                            
+California Roll and Tempura Lunch
+Sashimi and Tempura Lunch                            
+Fish and Tempura Roll Lunch
+Sashimi and California Roll Lunch
+Tonkatsu and California Roll Lunch                            
+Chicken Teriyaki Lunch
+Beef Teriyaki Lunch
+Salmon Teriyaki Lunch                            
+Mixed Tempura Lunch                            
+Shrimp Tempura Lunch                            
+Vegetable Tempura Lunch                            
+Katsu Plate Lunch                            
+Saba Shioyaki Lunch                            
+Hae-Dup-Bop Lunch                            
+Yose Nabe Lunch                            
+Sukiyaki Lunch                            
+Spicy Chicken Lunch
+Salmon Shioyaki Lunch                            
+Oyako Don Lunch                            
+Katsu Don Lunch                            
+Gyu Don Lunch                            
+Ten Don Lunch                            
+Vegetable Don Lunch                            
+Nabeyaki Udon Lunch                            
+Beef Udon Lunch                            
+Chicken Udon Lunch                            
+Tempura Udon Lunch                            
+Vegetable Udon Lunch                            
+Zaru Soba Lunch                            
+Ten Zaru Soba Lunch                            

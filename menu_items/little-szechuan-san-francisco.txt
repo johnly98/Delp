@@ -1,0 +1,299 @@
+Fresh Juice
+Jasmine Green Tea                            
+Honey Lemon Black Tea                            
+Honey Lemon Green Tea
+Lychee Green Tea                            
+Passion Fruit Green Tea                            
+Strawberry Green Tea                            
+Peach Black Tea
+Grapefruit Black Tea                            
+Mango Black Tea                            
+Whole Lime Black Tea                            
+Whole Lime Green Tea                            
+Super Fruit Tea                            
+Taro Smoothie                            
+Strawberry Smoothie                            
+Mango Smoothie
+Passion Fruit Smoothie                            
+Lychee Smoothie                            
+Peach Smoothie                            
+Honeydew Smoothie                            
+Mocha Smoothie                            
+Pineapple Smoothie                            
+Hongkong Style Milk Tea
+Coffee Milk Tea                            
+Jasmine Milk Tea                            
+Thai Milk Tea                            
+Coconut Milk Tea                            
+Honeydew Milk Tea                            
+Peach Milk Tea                            
+Caramel Milk Tea                            
+Strawberry Milk Tea                            
+Lychee Milk Tea                            
+Ice Coffee Milk Tea                            
+Sea Salt Crema Black Tea                            
+Sea Salt Crema Green Tea                            
+Sea Salt Crema Coffee                            
+Matcha Milk Tea                            
+Matcha Green Tea Crema                            
+Strawberry Green Tea Crema                            
+Tiramisu Crema Milk Tea                            
+Tiramisu Crema Green Milk Tea                            
+Brown Sugar Milk Tea with Boba                            
+Soybean Milk                            
+Herbal Tea                            
+Beijing Yogurt
+Fresh Coconut Water                            
+Voss Bottled Water Voss                            
+Blood Orange San Pellegrino Sparkling Water                            
+A1. Green Onion Pancakes
+A2. Six Pieces Fried Crab Rangoon                            
+A3. Five Spices Beef Roll
+A4. Six Pieces Vegetarian Steamed Dumplings                            
+A5. Six Pieces Pot Stickers                            
+A6. Six Pieces Vegetarian Pot Stickers                            
+A7. Six Pieces Shanghai Steamed Dumplings                            
+A8. Three Pieces Egg Rolls                            
+A9. Eight Pieces Beijing Chive and Pork Dumplings                            
+A10. Eight Pieces Triple Delight Dumplings                            
+A11. Eight Pieces Pork with Vegetable Dumplings                            
+A12. Eight Pieces Spicy Dumplings                            
+A13. Eight Pieces Spicy Wontons                            
+A14. Five Pieces Deep Fried Prawns                            
+A15. Salt and Pepper Calamari
+A16. Salt and Pepper Tofu                            
+A17. Chicken Lettuce Wrap
+A18. Three Pieces Buddha Vegetarian Steamed Buns                            
+A19. Roast Duck                            
+A20. Bobby Spicy Shumai                            
+A21. House BBQ Pork                            
+A22. Sticky Rice Wrapped with Lotus Leaves
+A23. Shrimp Dumplings                            
+A24. Steamed Cha Shui Buns                            
+A25. Pork and Corn Dumplings                            
+Steamed Mandarin Pork Bun                            
+C1. Wor Wonton Soup
+C2. Seafood Sizzling Rice Soup
+C3. Vegetarian Hot and Sour Tofu Soup
+C4. Tomato Egg Flower Soup                            
+C5. Vegetarian Tofu Soup                            
+C6. Seafood with Tofu Soup
+C7. Chicken with Cream Corn Soup                            
+C8. Westlake Beef Soup
+C9. Sake Clam with Shell Soup                            
+S1. Mixed Vegetables Salad                            
+S2. Tofu Salad                            
+S3. Chicken Salad                            
+S4. BBQ Pork Salad                            
+S5. Beef Salad                            
+S6. Shrimp Salad                            
+S7. Fish Salad                            
+S8. Calamari Salad                            
+L1. Mixed Vegetable Egg Foo Young
+L2. Chicken Egg Foo Young
+L3. Beef Egg Foo Young
+L4. Prawn Egg Foo Young                            
+L5. BBQ Pork Egg Foo Young                            
+M1. Pork Sparerib with Sour Pickle Noodle Soup                            
+M2. Tan Tan Noodles
+M3. Hot and Sour Bean Jello in Soup                            
+M4. Shredded Pork with Mushrooms Noodle Soup                            
+M5. Spicy Beef Noodle Soup
+M6. Beef Chow Fun
+M7. Vegetable Fried Rice
+M8. Vegetable Chow Mein
+M9. Seafood Pan Fried Noodles
+M10. Beef Kimchi Fried Rice
+M11. Seafood Kimchi Fried Rice
+M12. Seafood Kimchi Chow Mein                            
+M13. Seafood with Pineapple Fried Rice                            
+M14. Hong Kong Style Fried Rice
+M15. Singapore Style Rice Noodles
+M16. House Combo Fried Rice
+M17. House Combo Chow Mein
+M18. Prawns Fried Rice
+M19. Prawns Chow Mein
+M20. Chicken Fried Rice
+M21. Chicken Chow Mein
+M22. Beef Fried Rice
+M23. Beef Chow Mein
+M24. BBQ Pork Fried Rice
+M25. BBQ Pork Chow Mein
+M26. Imperial Fried Rice
+M27. Steamed Rice                            
+M28. Brown Rice                            
+Chinese Sausage Fried Rice                            
+Chinese Sausage Chow Mein                            
+Spicy Szechuan Mala Rice Noodle Soup                            
+Shredded Pork w/Sour Pickle Rice Noodle Soup
+J1. Fried Chicken Wings with Spicy Chef Sauce
+J2. Braised Crispy Chicken with Red Chili Oil
+J3. Kung Pao Chicken                            
+J4. Chicken with Spicy Chef Sauce                            
+J5. Cashew Nut Chicken                            
+J6. Sesame Chicken                            
+J7. Lemon Chicken                            
+J8. Orange Chicken                            
+J9. Sweet and Sour Chicken                            
+J10. General Tso's Chicken                            
+J11. Mu Shu Chicken
+J12. Chicken with Mixed Vegetables                            
+J13. Honey Walnut Chicken
+J14. Salt and Pepper Chicken Wings
+J15. Half Peking Duck                            
+K1. Eggplant with Garlic Sauce
+K2. Mapo Tofu                            
+K3. Braised Tofu with Mushrooms
+K4. Kung Pao Tofu                            
+K5. Stir Fried Vegetables Delight                            
+K6. Potato Strips with Jalapeno                            
+K7. Stir Fried Bok Choy with Garlic                            
+K8. Braised String Bean
+K9. Stir Fried Napa Cabbage with Chilli Peppers
+K10. Stir Fried Broccoli with Garlic                            
+K11. Pea Sprouts with Garlic
+K12. Mu-Shu Mixed Vegetables
+K13. Stir Fried Spinach with Garlic                            
+K14. Chinese Water Cress with Garlic                            
+R1. Beef Cube with Egg Tofu in Honey Sauce                            
+R2. Mongolian Beef                            
+R3. Cumin Beef                            
+R4. Orange Beef                            
+R5. Szechuan Beef                            
+R6. Broccoli Beef                            
+R7. Beef Broiled with Flaming Chili Oil                            
+R8. Mu-Shu Beef                            
+R9. Braised Crispy Beef with Red Chili Oil
+R10. Spicy Beef with Chili Oil                            
+R11. Spicy Lamb with Chili Oil                            
+R12. Mongolian Lamb                            
+R13. Cumin Lamb                            
+R14. Szechuan Lamb                            
+R15. Lamb Boiled with Flaming Chili Oil
+R16. Beef Cube with Chef's Special Sauce                            
+Jalapeo Beef                            
+F1. Szechuan Spicy Spareribs
+F2. Shredded Pork with Jalapeno                            
+F3. Sliced Pork with Flaming Chili Oil                            
+F4. Mu-Shu Pork
+F5. Spicy Twice Cooked Pork                            
+F6. Shredded Pork with Dry Bean Curd                            
+F7. Sweet and Sour Pork                            
+F8. Spicy Pork Intestine                            
+F9. Shredded Pork with Garlic Sauce                            
+F10. Dry Spicy Pork Spareribs
+F11. Sweet and Sour Spareribs
+F12. Pork Kidney Boiled with Flaming Chili Oil                            
+F13. Dry Spicy Pork Kidney                            
+F14. Pork Intestine with Sour Pickle                            
+F15. Hot and Spicy Assorted Intestine Combo
+F16. Dong Po Marinated Pork
+F17. Pork Intestine with Flaming Chili Oil                            
+F18. Chef Special Coffee Spareribs                            
+G1. Kung Pao Prawns                            
+G2. Honey Walnuts Prawns                            
+G3. Prawns with Lobster Sauce                            
+G4. Spicy Salt and Pepper Prawns with Shell                            
+G5. Moo Shu Prawns                            
+G6. Dry Spicy Prawns with Shell                            
+G7. Dry Spicy Calamari                            
+G8. Fish Fillet with Silky Tofu                            
+G9. Fish Fillet Boiled with Flaming Chili Oil                            
+G10. Salt and Pepper Fish Fillet                            
+G11. Kung Pao Fish Fillet                            
+G12. Fish Fillet with Spicy Chef Sauce
+G13. Sweet and Sour Fish Fillet                            
+G16. Fish Fillet with Mixed Vegetables                            
+G17. Fish Fillet with Sour Pickle                            
+G20. Clams with Flaming Chili Oil
+G21. Clams with Bell Pepper and Black Bean Sauce                            
+G22. Honey Walnut Calamari
+H1. Spicy Seafood Combo Casserole Platter                            
+H2. Pork Intestine in Flaming Pot Platter                            
+H3. Lamb with Sour Pickle Clay Pot Platter                            
+H4. Vegetables Tofu Clay Pot Platter                            
+H5. Cabbage in Flaming Pot Platter                            
+H6. Sliced Potato with Pork in Flaming Pot                            
+H7. Szechuan Tofu in Sizzling Platter
+H8. Spicy Chicken Wing in Flaming Pot
+H9. Seafood Tofu Clay Pot                            
+H10. Braised Egg Tofu with Enoki Mushrooms Clay Pot                            
+H11. Chicken with Black Bean Sauce in Sizzling Platter
+H12. Prawns with Black Bean Sauce in Sizzling Platter                            
+H13. Calamari with Black Bean Sauce in Sizzling Platter                            
+H14. Calamari in Flaming Pot                            
+H15. Black Pepper Beef in Sizzling Platter
+Dry Spicy Assorted Intestine Combo                            
+B1. Spicy Chili Combination of Beef and Intestine Plate
+B2. Enoki Mushroom Salad                            
+B3. Spicy Beef Tendon Plate
+B4. Spicy Pickled Cabbage Plate                            
+B5. Sliced Pork with Spicy Garlic Sauce Plate
+B6. Pork Intestine in Red Chili Oil Plate                            
+B7. Bean Jello in Red Chili Sauce Plate
+B8. Szechuan Style Chicken Plate
+B9. Cucumber Salad Plate                            
+B10. Lotus with Honey Plate                            
+B11. Shaoxing Drunken Chicken Plate                            
+B12. Szechuan Style Cold Noodle Plate
+B13. Beef Tripe with Red Chili Oil Plate                            
+D1. Curry Chicken with Coconut Red Chili Oil                            
+D2. Curry Beef with Coconut Red Chili Oil                            
+D3. Curry Lamb with Coconut Red Chili Oil                            
+D4. Curry Sparerib with Coconut Red Chili Oil                            
+D5. Curry Fish Fillet with Coconut Red Chili Oil                            
+D6. Curry Calamari with Coconut Red Chili Oil                            
+D7. Curry Prawn with Coconut Red Chili Oil                            
+D8. Curry Combo with Coconut Red Chili Oil                            
+D9. Curry Fried Rice with Coconut Red Chili Oil                            
+D10. Curry Mixed Vegetables with Coconut Red Chili Oil                            
+Q1. Mongolian Beef Lunch Special                            
+Q2. Orange Beef Lunch Special                            
+Q3. Broccoli Beef Lunch Special                            
+Q4. Szechuan Beef Lunch Special                            
+Q5. Vegetable Beef Lunch Special                            
+Q6. Tomato Beef Lunch Special                            
+Q7. Kung Pao Lunch Special                            
+Q8. Beef with String Beans Lunch Special                            
+Q9. Beef with Boiled Flaming Chili Oil Lunch Special                            
+Q10. Cashew Nut Chicken Lunch Special                            
+Q11. Curry Chicken Lunch Special                            
+Q12. Broccoli Chicken Lunch Special                            
+Q13. Sweet and Sour Chicken Lunch Special                            
+Q14. Chicken with Mixed Vegetables Lunch Special                            
+Q15. Kung Pao Chicken Lunch Special                            
+Q16. General Tso's Chicken Lunch Special                            
+Q17. Sesame Chicken Lunch Special
+Q18. Mongolian Chicken Lunch Special                            
+Q19. Orange Chicken Lunch Special                            
+Q20. Cumin Lamb Lunch Special                            
+Q21. Mongolian Lamb Lunch Special                            
+Q22. Szechuan Lamb Lunch Special                            
+Q23. Kung Pao Prawns Lunch Special                            
+Q24. Sweet and Sour Prawns Lunch Special                            
+Q25. Prawns with Mixed Vegetables Lunch Special                            
+Q26. Fish Fillet with Chili Sauce Lunch Special
+Q27. Kung Pao Fish Fillet Lunch Special                            
+Q28. Salt and Pepper Fish Fillet Lunch Special                            
+Q29. Shredded Pork with Garlic Sauce Lunch Special                            
+Q30. Spicy Twice Cooked Pork Lunch Special                            
+Q31. Sweet and Sour Pork Lunch Special                            
+Q32. Shredded Pork with Bell Pepper Lunch Special                            
+Q33. Szechuan Eggplant Lunch Special                            
+Q34. Mapo Tofu Lunch Special                            
+Q35. Mixed Vegetables Lunch Special                            
+Q36. Kung Pao Tofu Lunch Special                            
+Q37. Braised Tofu with Mushroom Lunch Special
+Q38. Stir Fried String Beans Lunch Special
+Q39. Fish Fillet Boiled with Flaming Chili Oil Lunch Special                            
+House Special Honey Toast
+Sugar Egg Puff
+Sesame Rice Dumpling
+Pumpkin Rice Cake                            
+Sweet Sesame Balls                            
+Sweet Custard Buns                            
+Red Bean Paste Bun                            
+Piece French Macaroons                            
+Signature Mille Crepe                            
+Green Tea Mille Crepe                            
+Herber Jelly w/ Taro Ball                            

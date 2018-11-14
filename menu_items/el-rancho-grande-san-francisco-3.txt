@@ -1,0 +1,29 @@
+Shrimp Taco Salad
+Chicken Tropical Salad                            
+AVO Burger                            
+El Rancho Burger                            
+Chimichanga - Deep Fried Burrito                            
+Simple Vegetarian Burrito
+Super Vegetarian Burrito                            
+Grilled Vegetables Vegetarian Burrito                            
+Spring Vegetarian Burrito                            
+Tostada                            
+El Rancho Nachos                            
+Fish Bowl                            
+California Bowl                            
+Prawn Bowl                            
+Steak and Prawn Bowl                            
+Regular Vegetarian Bowl                            
+Simple Vegetarian Bowl                            
+Super Vegetarian Bowl                            
+Grilled Vegetables Vegetarian Bowl                            
+Huevos con Chorizo Breakfast Burrito                            
+Chilaquiles con Huevo Breakfast Burrito                            
+Huevos con Jamon Breakfast Burrito                            
+Huevos a La Mexicana Breakfast Burrito                            
+Huevos Rancheros Breakfast Burrito                            
+Huevos con Chorizo Breakfast Plate                            
+Chilaquiles con Huevo Breakfast Plate                            
+Huevos con Jamon Breakfast Plate                            
+Huevos a La Mexicana Breakfast Plate                            
+Huevos Rancheros Breakfast Plate                            

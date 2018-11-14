@@ -1,0 +1,242 @@
+Tofu Triangles
+Egg Rolls
+Keaw Wan Roti
+Gui Chai
+Lemongrass Chicken
+Moo Dad Deaw
+Nuer Dad Deaw                            
+Giew Tod
+Gai Satay
+Plamuk Tod
+Hoi Jor                            
+iThai Rice Soup                            
+Tom Yum Seafood Soup
+Po-Taak
+Tom Klong Talay                            
+Yen Ta Fo Hot Pot
+Tom Zapp Nuer Puy                            
+Tom Zapp Kra-Dook Moo Orn                            
+iThai Salad                            
+Som Tum Pu
+Nuer Nam Tok
+Larb Ped
+Yum Woon Sen
+Goong Pla                            
+Yum Pla Dook Foo
+Yum Kor Moo Yang
+Yum Moo Yor                            
+Yum Mama                            
+Goong Chae Nam Pla                            
+Sur Rong Hai
+Kor Moo Yang                            
+Goong Pao                            
+Kaprow Gai
+Ma Kuer Gai                            
+Himaparn Gai                            
+Pad Phed Moo                            
+Kana Moo Grob                            
+Prik Khing Moo Grob
+Kaprow Moo Grob
+Praram Nuer                            
+Kra Tiam Nuer
+Pak Ruam                            
+Preaw Wan
+Creamy Crab Curry
+Pla Pad Kun Chai                            
+Pla-Duk Pad Phed
+Hoy Lai Prik Pao                            
+Talay Pad Cha                            
+Goong Ob Woon-Sen
+Choo Chee Salmon
+Goong Ma Kham
+Kang Karee Gai
+Kang Phed Nuer                            
+Kang Keaw Wan Gai
+Pak Rad Kang                            
+Pa-Nang Moo                            
+Mussamun Nuer                            
+Kang Phed Ped Yang                            
+Pla Rad Kang
+Kang Keaw Wan Talay                            
+Kao Pad Gai Tod
+Kao Mun Gai
+Kao Ka Moo                            
+Kao Moo Dang
+iThai Fried Rice
+Kor Moo Yang Fried Rice                            
+Kao Pad Kark Moo
+American Fried Rice
+Kao Pad Talay                            
+Kao Pad Mun Goong                            
+Kao Pad Tom Yum                            
+Kao Pad Kraprow
+Kao Pad Kraprow Talay                            
+Kao Mok Gai
+Koa Na Gai                            
+Kao Na Ped Yang                            
+Hoy Todd                            
+Kanom Pak Kad
+Pad Thai Goong
+Pad See-Ew Moo
+Kua Gai                            
+Rad Na Moo                            
+Pad Kee Mao Nuer
+iThai Seafood Noodles
+Guay Tieaw Lord                            
+Thai Chicken Noodle Soup                            
+Thai Sukiyaki
+Seafood Tom Yum Noodle Soup
+Guay Tieaw Nuer Noodle Soup                            
+Guay Tieaw Ped                            
+Guay Tieaw Yen Ta-Foo                            
+Khao Soi
+Ba Mee Giew Nam Pu Moo Dang                            
+Ba Mee Jub Kung                            
+Ba Mee Ped                            
+Guay Jub                            
+Tom Yum Goong Mae Nam Chef's Special                            
+Goong Mae Nam Ob Woon-Sen Chef's Special                            
+Choo-Chee Goong Pao Chef's Special                            
+Goong Mae Nam Rad Kra Tiam Chef's Special                            
+Pu Nim Pad Pong Kari Chef's Special
+Pu Nim Pad Prik Thai Dum Chef's Special                            
+Karprow Nuer Special Chef's Special                            
+Nuer Pad Prik Thai Dum Chef's Special                            
+iThai Beef Special Chef's Special                            
+Pla Muk Nung Manow Chef's Special                            
+Salmon Ginger                            
+Crispy Salmon and Rice                            
+Salmon Basil                            
+Garlic Noodle
+Ginger Garlic Rice
+Vermicelli Noodle                            
+Shrimp Chip
+Ice Cream
+Sweet Roti                            
+Roti with Ice Cream                            
+Mango with Sticky Rice
+Sticky Rice with Ice Cream                            
+Party Tofu Triangles                            
+Party Fresh Rolls                            
+Party Egg Rolls                            
+Party Keaw Wan Roti                            
+Party Gui Chai                            
+Party Lemongrass Chicken                            
+Party Moo Dad Deaw                            
+Party Nuer Dad Deaw                            
+Party Giew Tod                            
+Party Tod Mun                            
+Party Gai Satay                            
+Party Plamuk Tod                            
+Party Hoi Jor                            
+Party Shrimp tempura                            
+Party Larb Salad                            
+Party iThai Salad                            
+Party Som Tum Salad
+Party Som Tum Pu Salad
+Party Nuer Nam Tok Salad                            
+Party Larb Ped Salad                            
+Party Yum Woon Sen Salad                            
+Party Goong Pla Salad                            
+Party Yum Pla Muk Salad                            
+Party Yum Pla Dook Foo Salad                            
+Party Yum Kor Moo Yang Salad                            
+Party Yum Talay Salad                            
+Party Yum Moo Yor Salad                            
+Party Yum Mama Salad                            
+Party Goong Chae Nam Pla Salad                            
+Party Gai Yang                            
+Party Sur Rong Hai                            
+Party Kor Moo Yang                            
+Party Moo Yang                            
+Party Goong Pao                            
+Party Pla Muk Yang                            
+Party Kaprow Gai                            
+Party Ma Keur Gai                            
+Party Himaparn Gai                            
+Party Pad Phed Moo                            
+Party Kana Moo Grob                            
+Party Prik Khing Moo Grob                            
+Party Kaprow Moo Grob                            
+Party Praram Nuer                            
+Party Kra Tiam Nuer                            
+Party Pak Ruam                            
+Party Preaw Wan                            
+Party Creamy Crab Curry                            
+Party Pla Rad Prik                            
+Party Pla-duk Pad Phed                            
+Party Pla Pad Kun Chai                            
+Party Hoy Lai Prik Pao                            
+Party Talay Pad Cha                            
+Party Goong Ob Woon-Sen                            
+Party Choo-Chee Salmon                            
+Party Goong Ma Kham                            
+Party Kang Karee Gai                            
+Party Kang Phed Nuer                            
+Party Kang Keaw Wan Gai                            
+Party Pak Rad Kang                            
+Party Pa-Nang Moo                            
+Party Mussamun Nuer                            
+Party Pumpkin Curry                            
+Party Kang Phed Ped Yang                            
+Party Pla Rad Kang                            
+Party Kang Keaw Wan Talay                            
+Party Kao Mun Gai Tod                            
+Party Kao Pad Gai Tod                            
+Party Kao Mun Gai                            
+Party Kao Ka Moo                            
+Party Kao Moo Dang                            
+Party iThai Fried Rice                            
+Party Kao Pad Kark Moo                            
+Party Kor Moo Yang Fried Rice                            
+Party Green Curry Fried Rice                            
+Party Crab Fried Rice                            
+Party Pineapple Fried Rice                            
+Party Kao Pad Talay                            
+Party Kao Pad Mun Goong                            
+Party Kao Pad Tom Yum                            
+Party Kao Pad Kraprow                            
+Party Kao Pad Kraprow Talay                            
+Party Kao Mok Gai                            
+Party Kao Na Ped Yang                            
+Party Pad Thai Goong                            
+Party Pad See-ew Moo                            
+Party Kua Gai                            
+Party Pad Kee Mao Nuer                            
+Party iThai Seafood Noodles                            
+Party Guay Tieaw Lord                            
+Party Thai Sukiyaki                            
+Party Ba Mee Jub Kung                            
+Party Ba Mee Ped                            
+Party Ice Cream                            
+Party Fried Banana with Ice Cream                            
+Party Mango with Sticky Rice                            
+Party Sweet Roti                            
+Party Roti with Ice Cream                            
+Party Sticky Rice with Ice Cream                            
+Party Jasmine Rice                            
+Party Sticky Rice                            
+Party Peanut Sauce                            
+Party Steamed Noodle                            
+Party Steamed Vegetable                            
+Party Fried Egg                            
+Party Vermicelli Noodle                            
+Party Brown Rice                            
+Party Ginger Garlic Rice                            
+Party Cucumber Salad                            
+Party Roti                            
+Party Garlic Noodle                            
+Party Curry Sauce                            
+Party Shrimp Chip                            
+Party Goong Mae Nam Ob Woon-Sen                            
+Party Choo-Chee Goong Pao                            
+Party Goong Mae Nam Rad Kra Tiam                            
+Party Pu Nim Pad Pong Kari                            
+Party Pu Nim Pad Prik Thai Dum                            
+Party Karprow Nuer Special                            
+Party Nuer Pad Prik Thai Dum                            
+Party iThai Beef Special                            
+Regular Iced Tea
+Ice Green Tea                            
+Sparkling Water
+Thai Energy Drink                            

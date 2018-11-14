@@ -1,0 +1,225 @@
+Asari Soup                            
+Nameko Soup
+Spinach Goma Ae Salad                            
+Green Salad small                            
+Shiitake Mushroom Salad                            
+Seafood Sunomono Salad                            
+Green salad Large                            
+Bamboo Roll
+Blue Sea Roll                            
+Butterfly Roll                            
+Dream Roll
+Fire Roll
+Harmony Roll
+Miami Roll                            
+Negi-hama Roll
+Negi-toro Roll                            
+Poki Roll
+Popeye Roll
+Rock and Roll                            
+Tanuki Roll
+Tekka Roll
+Tokyo Roll
+Tropical Roll
+Unakyu Roll
+er Roll                            
+Swamp Roll                            
+Blue Sea
+Sake and avocado roll
+Avocado and Cucumber Roll                            
+Ume Shiso Roll
+Vegetable Tempura Roll
+Vibe Roll                            
+Veggie swamp                            
+Fried Chicken Teriyaki
+Grilled Chicken Teriyaki
+Piece Sashimi Dinner
+Sea Bass
+Seafood Tempura                            
+A. Sashimi and Beef Teriyaki Combo                            
+B. Sashimi and Tempura Combo                            
+C. Sashimi and Chicken teriyaki Combo                            
+D. Sashimi and Sukiyaki Combo                            
+E. Sashimi and Tonkatsu Combo                            
+F. Tempura and Beef Teriyaki Combo                            
+G. Tempura and Sukiyaki Combo                            
+H. Tempura and Chicken Teriyaki Combo                            
+I. Tempura and Tonkatsu Combo                            
+Niku Udon                            
+Okame Udon
+Tanin Udon                            
+Vegetables Tempura Udon                            
+Katsu Donburi
+Oyako Donburi
+Teriyaki Donburi                            
+Vegetable Tempura Donburi                            
+Tenzaru Soba
+Vegetable Tempura Soba                            
+Hamachi Sashimi 7pc                            
+Maguro Sashimi 7 pc                            
+Pieces Shake Sashimi                            
+Shiromaguro Sashimi 7 pc                            
+Sashimi Combo 20pc                            
+Aji Sushi                            
+Anago Sushi                            
+Hamachi Sushi
+Hamachi Toro Sushi                            
+Hirame Sushi                            
+Kaibashira Sushi                            
+Kaki Sushi                            
+Katsuo Sushi                            
+Shake Sushi                            
+Shiromaguro Sushi                            
+Tai Sushi                            
+Unagi Sushi
+Nigiri Combo Sushi                            
+Chirasi Sushi                            
+Inari Sushi
+Kabocha Sushi                            
+Nasu Sushi                            
+Shiitake Sushi                            
+Veggie Combo Sushi                            
+Nasu sushi                            
+Agedashi Plate                            
+Ankimo Plate                            
+Buta Kakuni Plate                            
+Calamari Plate                            
+Chicken Karage Plate                            
+Ebi Fry Plate 4pc                            
+Gyoza Plate                            
+Hamachi Kama Plate medium                            
+Ika Sugata Plate                            
+Kaki Fry Plate                            
+Katsuo Tataki Plate                            
+Sea Bass Plate                            
+Shiromaguro Tataki Plate                            
+Soft Shell Crab Plate                            
+Teba-shio Plate                            
+Tempura Plate                            
+Vegetable Tempura Plate                            
+Yakitori Plate                            
+Asari Soup Lunch                            
+Nameko Soup Lunch                            
+Agedashi Plate Lunch                            
+Calamari Plate Lunch                            
+Ebi Fry Plate Lunch                            
+Gyoza Plate Lunch                            
+Hamachi Kama Plate Lunch                            
+Kaki Fry Plate Lunch                            
+Grills Black Cod Lunch                            
+Shiromaguro Tataki Plate Lunch                            
+Soft Shell Crab Plate Lunch                            
+Tempura Plate Lunch                            
+Vegetable Tempura Plate Lunch                            
+Yakitori Plate Lunch                            
+Chicken Karaage Plate Lunch                            
+Hamachi Sashimi Lunch                            
+Maguro Sashimi Lunch                            
+Shake Sashimi Lunch                            
+Shiromaguro Sashimi Lunch                            
+Sashimi Combo Lunch                            
+Aji Sushi Lunch                            
+Anago Sushi Lunch                            
+Ebi Sushi Lunch                            
+Hamachi Sushi Lunch                            
+Hamachi Toro Sushi Lunch                            
+Hirame Sushi Lunch                            
+Ika Sushi Lunch                            
+Ikura Sushi Lunch                            
+Kaibashira Sushi Lunch                            
+Kaki Sushi Lunch                            
+Kani Sushi Lunch                            
+Katsuo Sushi Lunch                            
+Maguro Sushi Lunch                            
+Saba Sushi Lunch                            
+Shake Sushi Lunch                            
+Shiromaguro Sushi Lunch                            
+Tai Sushi Lunch                            
+Tako Sushi Lunch                            
+Tamago Sushi Lunch                            
+Tobiko Sushi Lunch                            
+Unagi Sushi Lunch                            
+Nigiri Combo Lunch                            
+Chirasi Sushi Lunch                            
+Inari Sushi Lunch                            
+Kabocha Sushi Lunch                            
+Nasu Sushi Lunch                            
+Shiitake Sushi Lunch                            
+Veggie Combo Sushi Lunch                            
+Avocado Roll Lunch                            
+Avocado and Cucumber Roll Lunch                            
+Kappa Roll Lunch                            
+Natto Roll Lunch                            
+Oshinko Roll Lunch                            
+Ume Shiso Roll Lunch                            
+Vegetable Tempura Roll Lunch                            
+Vibe Roll Lunch                            
+Alaska Sushi Roll Lunch                            
+Bamboo Sushi Roll Lunch                            
+Blue Sea Sushi Roll Lunch                            
+Butterfly Sushi Roll Lunch                            
+California Sushi Roll Lunch                            
+Dragon Sushi Roll Lunch                            
+Dream Sushi Roll Lunch                            
+Fire Sushi Roll Lunch                            
+Futomaki Sushi Roll Lunch                            
+Harmony Sushi Roll Lunch                            
+Kamikaze Sushi Roll Lunch                            
+Miami Sushi Roll Lunch                            
+Negi-Hama Sushi Roll Lunch                            
+Negi-Toro Sushi Roll Lunch                            
+Northern Sushi Roll Lunch                            
+Popeye Sushi Roll Lunch                            
+Rainbow Sushi Roll Lunch                            
+Rock and Roll Sushi Lunch                            
+Salmon Skin Sushi Roll Lunch                            
+Spider Sushi Roll Lunch                            
+Tanuki Sushi Roll Lunch                            
+Tekka Sushi Roll Lunch                            
+Tokyo Sushi Roll Lunch                            
+Tropical Sushi Roll Lunch                            
+Unakyu Sushi Roll Lunch                            
+Swamp Sushi Roll Lunch                            
+er Sushi Roll Lunch                            
+Caterpillar                            
+Fried onion garlic roll
+Sabagiri Sushi Roll Lunch                            
+Sake and avocadoroll with tobiko                            
+Beef Teriyaki Lunch                            
+Sashimi Lunch                            
+Unaju Lunch                            
+A. Sashimi and Beef Teriyaki Combo Lunch                            
+B. Sashimi and Tempura Combo Lunch                            
+C. Sashimi and Chicken Teriyaki Combo Lunch                            
+D. Sashimi and Sukiyaki Combo Lunch                            
+E. Sashimi and Tonkatsu Combo Lunch                            
+F. Tempura and Beef Teriyaki Combo Lunch                            
+G. Tempura and Sukiyaki Combo Lunch                            
+H. Tempura and Chicken Teriyaki Combo Lunch                            
+I. Tempura and Tonkatsu Combo Lunch                            
+Niku Udon Lunch                            
+Okame Udon Lunch                            
+Tanin Udon Lunch                            
+Vegetable Tempura Udon Lunch                            
+Tempura Soba Lunch                            
+Tenzaru Soba Lunch                            
+Katsu Donburi Lunch                            
+Oyako Donburi Lunch                            
+Teriyaki Donburi Lunch                            
+Tempura Donburi Lunch                            
+Vegetable Tempura Donburi Lunch                            
+Spinach Goma Ae Salad Lunch                            
+Green Salad Lunch small                            
+Noodle Salad Lunch                            
+Oshitashi Salad Lunch                            
+Seafood Salad Lunch                            
+Seaweed Salad Lunch                            
+Shiitake Mushroom Salad Lunch                            
+Sunomono Salad Lunch                            
+Seafood Sunomono Salad Lunch                            
+Crab Salad Lunch                            
+Lunch Box 1                            
+Lunch Box 2                            
+Lunch Box 3                            
+Lunch Box 4                            
+Lunch Box 5                            

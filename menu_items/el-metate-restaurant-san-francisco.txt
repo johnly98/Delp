@@ -1,0 +1,57 @@
+Al Pastor Burrito
+Bistec a la Mexicana Burrito                            
+Chicken Milanesa Burrito                            
+Grilled Chicken Burrito
+Pollo in Chile Rojo Burrito
+Vegetables Burrito
+Bistec a la Mexicana Taco
+Chicken Milanesa Taco
+Pollo in Chile Rojo Taco
+Chile Verde Taco
+Chile Colorado Tacos                            
+Vegetables Taco                            
+Al Pastor Quesadilla                            
+Bistec a la Mexicana Quesadilla                            
+Carnitas Quesadilla
+Chicken Milanesa Quesadilla                            
+Grilled Steak Quesadilla                            
+Pollo in Chile Rojo Quesadilla                            
+Chile Verde Quesadilla                            
+Chile Colorado Quesadilla                            
+Shrimp Quesadilla
+Vegetables Quesadilla                            
+Al Pastor Torta
+Bistec a la Mexicana Torta
+Chicken Milanesa Torta
+Grilled Chicken Torta                            
+Grilled Steak Torta                            
+Pollo in Chile Rojo Torta                            
+Chile Verde Torta                            
+Chile Colorado Torta                            
+Fish Torta
+Shrimp Torta                            
+Vegetables Torta                            
+Chicken Tortilla Soup
+Al Pastor Nachos                            
+Bistec a la Mexicana Nachos                            
+Carnitas Nachos
+Chicken Milanesa Nachos                            
+Grilled Chicken Nachos                            
+Grilled Steak Nachos                            
+Pollo in Chile Rojo Nachos                            
+Chile Verde Nachos
+Chile Colorado Nachos                            
+Shrimp Nachos                            
+Vegetables Nachos                            
+Shrimp Taco Plate
+Panchis Fish Taco                            
+Platillo del Mar
+Chile Relleno Plate
+Chicken Enchiladas Plate                            
+Steak Enchiladas Plate                            
+Cheese Enchiladas Plate                            
+Chicken Tamales Plate                            
+Pork Tamales Plate
+Chicken Flautas Plate                            
+Chicken Milanesa Plate
+House Soup                            

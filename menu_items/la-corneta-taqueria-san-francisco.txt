@@ -1,0 +1,93 @@
+Canned Soft Drinks                            
+Mexican Coke
+Jarritos                            
+Sangria
+Calistoga                            
+Bottled Apple Juice                            
+Aguas Frescas
+Fresh Squeezed Juices                            
+Domestic                            
+Imported/Premium                            
+Draft
+Steak Caesar Salad                            
+Chicken Corneta Salad                            
+Taco with Cheese                            
+Taco with Guacamole                            
+Prawn Taco
+Super Prawn Taco
+Super Fish Taco
+Rice and Beans Taco                            
+Super Vegetarian Taco                            
+Regular Crispy Taco                            
+Super Crispy Taco                            
+Regular Nachos
+Nachos with Meat                            
+Super Vegetarian                            
+Fish Nachos                            
+Prawn Nachos                            
+Super Fish Nachos                            
+Super Prawn Nachos                            
+Steak and Prawn Nachos                            
+Super Steak and Prawn Nachos
+Corn Quesadilla
+Prawn Quesadilla
+Super Prawn Quesadilla
+Fish Quesadilla
+Super Fish Quesadilla                            
+Steak and Prawn Quesadilla
+Super Steak and Prawn Quesadilla
+Regular Burrito
+Especial Burrito
+Baby Burrito
+Super Baby Burrito
+Regular Prawn Burrito                            
+Super Prawn Burrito
+Steak and Prawn Burrito
+Super Steak and Prawn Burrito                            
+Baby Prawn Burrito                            
+Super Baby Prawn Burrito                            
+Fish Burrito
+Super Fish Burrito
+Baby Fish Burrito
+Super Baby Fish Burrito
+Rice and Beans Burrito                            
+Regular Vegetarian Burrito                            
+Super Vegetarian Burrito
+Chile Relleno Burrito
+Super Chile Relleno Burrito                            
+Enchilada, Flauta and Chile Relleno                            
+Corn Quesadilla, Prawns and Taco                            
+Carne Asada and Prawns
+Carne Asada, Pollo and Prawns
+Spicy Chicken, Prawns and Enchilada                            
+Quesadilla Suiza, Prawns and Grilled Mushrooms                            
+Grilled Seasonal Vegetables and Mushrooms                            
+Grilled Salmon, Prawns and Steak                            
+Pieces Enchiladas                            
+Pieces Flautas                            
+Pieces Tamales                            
+Taco Dinner
+Carne Asada Dinner                            
+Garlic Prawns
+Spicy Prawns
+Grilled Tilapia                            
+Tostadas de Ceviche                            
+Regular Tostada                            
+Super Vegetarian Tostada                            
+Super Tostada
+Fish Tostada
+Prawn Tostada                            
+Super Fish Tostada
+Super Prawn Tostada                            
+Bag of Chips
+oz. Sour Cream                            
+oz. Guacamole                            
+Chile Relleno Each                            
+Enchiladas Each                            
+Tamales Each                            
+Flautas Each                            
+Cream Caramel                            
+Churros
+Alfajores
+Chocolate Flan
+Cream Caramel Flan                            

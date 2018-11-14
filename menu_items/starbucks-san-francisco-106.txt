@@ -1,0 +1,137 @@
+Cool Lime Starbucks Refreshers TM Beverage                            
+Valencia Orange Starbucks Refreshers TM Beverage                            
+Very Berry Hibiscus Starbucks Refreshers TM Beverage                            
+Evolution Fresh TM Defense Up                            
+Evolution Fresh TM Orange Juice                            
+Evolution Fresh TM Organic Ginger Limeade                            
+Evolution Fresh TM Sweet Greens and Lemon                            
+Iced Coffee
+Iced Coffee with Milk
+Iced Espresso Classics - Vanilla Latte                            
+Iced Espresso Classics - Caffe Mocha                            
+Iced Espresso Classics - Caramel Macchiato                            
+Starbucks Caramel Iced Coffee                            
+Starbucks Iced Coffee  Milk                            
+Starbucks Low Calorie Iced Coffee  Milk                            
+Starbucks Vanilla Iced Coffee                            
+Shaken Sweet Tea                            
+Shaken Sweet Tea Lemonade                            
+Tazo Bottled Berry Blossom White                            
+Tazo Bottled Black Mango                            
+Tazo Bottled Black with Lemon                            
+Tazo Bottled Brambleberry                            
+Tazo Bottled Giant Peach                            
+Tazo Bottled Iced Passion                            
+Tazo Bottled Lemon Ginger                            
+Tazo Bottled Organic Black Lemonade                            
+Tazo Bottled Organic Iced Black Tea                            
+Tazo Bottled Organic Iced Green Tea                            
+Tazo Bottled Plum Pomegranate                            
+Tazo Bottled Tazoberry                            
+Tazo Bottled White Cranberry                            
+Teavana Shaken Iced Black Tea                            
+Teavana Shaken Iced Black Tea Lemonade                            
+Teavana Shaken Iced Green Tea                            
+Teavana Shaken Iced Green Tea Lemonade                            
+Teavana Shaken Iced Passion Tango TM Tea                            
+Teavana Shaken Iced Passion Tango TM Tea Lemonade                            
+Teavana Shaken Iced Peach Green Tea                            
+Iced Espresso Classics - Skinny Caramel Macchiato                            
+Iced Espresso Classics - Skinny Vanilla Latte                            
+Starbucks Doubleshot Energy Coffee Drink                            
+Starbucks Doubleshot Energy Hazelnut Drink                            
+Starbucks Doubleshot Energy Mocha Drink                            
+Starbucks Doubleshot Energy Vanilla Drink                            
+Starbucks Doubleshot Energy Vanilla Light Drink                            
+Starbucks Doubleshot Energy White Chocolate Drink                            
+Starbucks Doubleshot Espresso Drink                            
+Starbucks Doubleshot Light Espresso Drink                            
+Starbucks Refreshers TM Raspberry Pomegranate                            
+Starbucks Bottled Caramel Frappuccino Coffee Drink                            
+Starbucks Bottled Coffee Frappuccino Coffee Drink                            
+Starbucks Bottled Mocha Frappuccino Coffee Drink                            
+Starbucks Bottled Mocha Light Frappuccino Coffee Drink                            
+Starbucks Bottled Vanilla Frappuccino Coffee Drink                            
+Starbucks Bottled Vanilla Light Frappuccino Coffee Drink                            
+Starbucks Doubleshot Protein Coffee                            
+Starbucks Doubleshot Protein Dark Chocolate                            
+Starbucks Doubleshot Protein Vanilla                            
+Starbucks Iced Coffee Caramel                            
+Starbucks Iced Coffee Light Sweetened                            
+Starbucks Iced Coffee Unsweetened                            
+Blonde Roast                            
+Caff Misto                            
+Clover Brewed Coffee
+Coffee Traveler                            
+Cold Brew Coffee                            
+Decaf Pike Place Roast                            
+Featured Dark Roast                            
+Pike Place Roast                            
+Hot Chocolate
+Peppermint Hot Chocolate                            
+Salted Caramel Hot Chocolate                            
+Caff Americano                            
+Caff Latte                            
+Caff Mocha                            
+Caramel Flan Latte                            
+Caramel Macchiato
+Cinnamon Dolce Latte                            
+Espresso Con Panna                            
+Espresso Macchiato                            
+Flat White                            
+Flavored Latte                            
+Iced Caff Americano                            
+Iced Caff Latte                            
+Iced Caff Mocha                            
+Iced Caramel Macchiato
+Iced Cinnamon Dolce Latte                            
+Iced Flat White                            
+Iced Flavored Latte                            
+Iced Skinny Flavored Latte                            
+Iced Skinny Mocha                            
+Iced Tiramisu Latte                            
+Iced Vanilla Latte                            
+Iced Vanilla Spice Latte                            
+Iced White Chocolate Mocha                            
+Skinny Flavored Latte                            
+Skinny Mocha                            
+Skinny Peppermint Mocha                            
+Tiramisu Latte                            
+Vanilla Latte
+Caff Vanilla Frappuccino Blended Coffee                            
+Caff Vanilla Light Frappuccino Blended Coffee                            
+Caramel Frappuccino Blended Coffee                            
+Caramel Light Frappuccino Blended Coffee                            
+Caramel Ribbon Crunch Crme Frappuccino Blended Crme                            
+Caramel Ribbon Crunch Frappuccino Blended Coffee                            
+Cinnamon Dolce Frappuccino Blended Coffee                            
+Cinnamon Dolce Light Frappuccino Blended Coffee                            
+Classic Chai Crme Frappuccino Blended Crme                            
+Coffee Frappuccino Blended Coffee                            
+Coffee Light Frappuccino Blended Coffee                            
+Double Chocolaty Chip Crme Frappuccino Blended Crme                            
+Espresso Frappuccino Blended Coffee                            
+Green Tea Crme Frappuccino Blended Crme                            
+Hazelnut Frappuccino Blended Coffee                            
+Java Chip Frappuccino Blended Coffee
+Java Chip Light Frappuccino Blended Coffee                            
+Mini S'mores Frappuccino Blended Coffee                            
+Mini S'mores Frappuccino Blended Crme                            
+Mocha Frappuccino Blended Coffee                            
+Mocha Light Frappuccino Blended Coffee                            
+S'mores Frappuccino Blended Coffee                            
+S'mores Frappuccino Blended Crme                            
+Strawberries & Crme Frappuccino Blended Crme                            
+Toffee Mocha Frappuccino Blended Coffee                            
+Toffee Mocha Light Frappuccino Blended Coffee                            
+Vanilla Bean Crme Frappuccino Blended Crme                            
+White Chocolate Mocha Frappuccino Blended Coffee                            
+Flavored Steamed Milk                            
+Chocolate Smoothie                            
+Evolution Fresh TM Mango Carrot Smoothie                            
+Evolution Fresh TM Strawberry Smoothie                            
+Evolution Fresh TM Sweet Greens Smoothie                            
+Orange Mango Smoothie                            
+Golden Ginger Ale Fizzio TM Handcrafted Soda                            
+Lemon Ale Fizzio TM Handcrafted Soda                            
+Spiced Root Beer FizzioTM Handcrafted Soda                            

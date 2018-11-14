@@ -1,0 +1,230 @@
+pieces Pot Stickers                            
+pieces Egg Rolls                            
+pieces Fried Wontons                            
+pieces Fried Prawns                            
+pieces Fried Chicken Wings
+pieces Salt and Pepper Chicken Wings                            
+pieces Crab Rangoons                            
+pieces Fried Lamb Skewers                            
+pieces Fried Beef Skewers                            
+Wang Wah Wor Wonton Soup
+Seafood Winter Melon Soup                            
+Spinach and Bean Curd Soup                            
+Westlake Beef Soup
+Fish Ball and Watercress Soup                            
+Seafood Hot and Sour Soup with Basil                            
+Lamb and Ginger Vegetable Soup                            
+Noodle
+Roast Duck Noodle Soup
+Shredded Pork with Preserved Vegetables Noodle Soup                            
+Roast Duck with Preserved Vegetables Noodle Soup                            
+Mongolian Beef Rice Noodles                            
+Prawns, Scallops and Squid Chow Mein                            
+Singapore Rice Noodles                            
+Sliced Chicken, Pork and Mushroom Fried Thin Rice Noodle                            
+Mixed Vegetables Chow Fun                            
+Salmon Fried Rice                            
+Barbecued Pork Fried Rice
+pieces Prawns Fried Rice                            
+Prawns Scallops and Squid Fried Rice                            
+Dried Chicken and Salty Fish Fried Rice                            
+Chicken Chow Mein and Chicken Fried Rice
+pieces Sweet and Sour Prawns                            
+Combination Jalapeno Fried Rice Spicy                            
+Pork and Yellow Chives with Bean Sprouts Chow Thin Noodle                            
+Prawns and Chicken Fried Rice                            
+Spareribs with Black Bean Sauce Chow Fun                            
+Beef, Chicken or BBQ Pork Fry Udon                            
+Seafood Stir-Fry Udon with XO Sauce Spicy                            
+Hunan Salmon Fillet                            
+pieces Prawns with Lobster Sauce                            
+pieces House of Prawns                            
+pieces Special Twin Prawns                            
+Scallop and Prawn with Garlic Spinach                            
+Prawns and Asparagus                            
+pieces Prawns with Scrambled Egg                            
+pieces Prawns with Mixed Vegetable                            
+Broccoli Prawns                            
+pieces Kung Pao Prawns                            
+House of Scallops                            
+Crispy Scallops with Spicy Szechuan Sauce                            
+Kung Pao Squids                            
+Ingredient Seafood                            
+Steamed Catfish with Black Bean Sauce                            
+Crispy Rock Cod                            
+Sauteed Filet of Sole with Chinese Bok Choy
+Sweet and Sour Sliced Rock Cod Fish                            
+Prawns with Crispy Walnut                            
+pieces Mu Shu Prawns                            
+pieces Crispy Prawns with Szechuan Spicy Sauce                            
+pieces Mongolian Prawns                            
+Salmon with Asparagus in Black Bean Sauce                            
+Basil Eggplant with Chicken and Prawns                            
+Scallops and Prawns with Basil Eggplant                            
+Boiled Cod Fillet in Hot Chili Oil                            
+Boiled Beef in Hot Chili Oil                            
+Spicy Honey Beef with Garlic                            
+Beef with Chinese Bok Choy                            
+Beef with Ginger and Green Onion                            
+Mixed Vegetable with Beef                            
+Beef Stew with Turnip
+Beef with Ginger and Pineapple                            
+Hunan Beef
+Beef with Chinese Tender Broccoli                            
+Twin Mushrooms with Beef                            
+Szechuan Spicy Sauce with Crispy Beef                            
+Beef with Asparagus and Black Bean Sauce                            
+Beef with Orange Peel                            
+Lamb with Ginger and Green Onion                            
+Basil Lamb                            
+Cumin Lamb                            
+Deep Fried Spicy Salted Ribs                            
+Spareribs with Black Bean Sauce
+Spareribs with Bitter Melon                            
+Szechuan Spicy Pork with Garlic Sauce                            
+Deep Fried Stuffed Bean Curd with Oyster Sauce                            
+Pork with Preserved Vegetable and Peas                            
+pieces Spicy Honey Chicken Wings                            
+Chicken with Snow Peas and Mushroom                            
+Twin Mushroom Chicken                            
+Chicken with Chinese Sausage and Black Mushroom                            
+Chicken with Black Bean Sauce and Asparagus                            
+Chicken with Bean Curd and Black Mushroom                            
+Orange Flavored Chicken                            
+Roast Duck with Vegetables
+Roast Duck with Pineapple                            
+Szechuan Spicy Chicken                            
+Assorted Dried Vegetables                            
+Sauteed Mustard Greens with Garlic Sauce                            
+Oil and Salt Tender Greens                            
+Black Mushroom and Chinese Bok Choy                            
+Ingredients Vegetables                            
+Kung Pao Bean Curd Spicy                            
+Ma Po Bean Curd                            
+Dry Braised Green String Beans                            
+Szechuan Spicy Eggplants                            
+Braised Eggplant with Basil
+Sauteed Spinach with Garlic Sauce                            
+General Tso's Tofu                            
+Sauteed Snow Pea Tips
+Mu Shu Vegetable with Bean Curd                            
+Szechuan Spicy Broccoli                            
+Stir Fried Potatoes with Chili Spicy Vegetarian                            
+XO Sauce String Beans                            
+Oyster Sauce with Asparagus and Black Mushrooms                            
+Special for 2 Persons                            
+Special for Four Persons                            
+Jalapeno Meatless Chicken                            
+Cumin Meatless Chicken                            
+General Tso's Meatless Chicken                            
+Orange Peel Meatless Chicken                            
+String Beans Meatless Chicken                            
+Mongolian Meatless Chicken                            
+Twice Cooked Meatless Chicken                            
+Garlic Meatless Chicken                            
+Basil Meatless Chicken                            
+Salt and Pepper Meatless Chicken                            
+pieces Salt and Pepper Chicken Wings and Shrimp Fried Rice                            
+pieces Orange Flavored Chicken and Prawns Fried Rice                            
+Mongolian Beef and Shrimp Fried Rice                            
+pieces Walnut Prawns and Chicken Fried Rice                            
+Sweet and Sour Chicken with Chicken Chow Mein and Chicken Fried Rice                            
+Chicken and Mixed Vegetable with Shrimp Fried Rice                            
+Pieces General Tso's Chicken with Broccoli Beef                            
+Pieces Vegetable Pot Stickers                            
+A. Special Combo                            
+B. Special Combo                            
+C. Special Combo                            
+D. Special Combo                            
+E. Special Combo                            
+F. Special Combo                            
+G. Special Combo                            
+H. Special Combo                            
+Bean Curd with Seafood Pot                            
+pieces Prawns with Bean Curd Broth Pot                            
+Beef Stew with Bean Curd Broth Pot                            
+Fried Stuffed Bean Cakes in Hot Pot                            
+Salted Fish with Chicken
+Fish Balls and Carrot in Hot Pot                            
+Beef Stew with Turnip in Hot Pot                            
+Barbecued Pork Egg Foo Young                            
+Prawns Egg Foo Young                            
+Mixed Vegetables Egg Foo Young                            
+Oyster Egg Foo Young                            
+House Special Pan-Fried Noodle
+pieces Shrimp with Vegetable Pan-Fried Noodles
+Beef with Vegetable Pan-Fried Noodle                            
+Shredded Pork with Bean Sprout Pan-Fried Noodle                            
+Shredded Pork with Preserved Vegetable Pan-Fried Noodle                            
+Prawns, Scallops and Squid Pan-Fried Noodle                            
+Chicken with Vegetable Pan-Fried Noodle
+Beef with Bitter Melon Over Rice Dinner                            
+Mongolian Beef Over Rice Dinner                            
+Beef with Oyster Sauce Over Rice Dinner                            
+Beef with Chinese Bok Choy Over Rice Dinner                            
+Beef with Black Bean Sauce Over Rice Dinner                            
+Tomato Beef Over Rice Dinner                            
+Beef with Bean Curd Over Rice Dinner                            
+Scrambled Egg with Beef Over Rice Dinner                            
+Hunan Beef Over Rice Dinner                            
+Beef Broccoli Over Rice Dinner                            
+Mixed Vegetables Over Rice Dinner                            
+Beef Stew Over Rice Dinner                            
+Beef with Eggplant Over Rice Dinner                            
+Sweet and Sour Pork Over Rice Dinner                            
+Double Mushrooms with Pork Over Rice Dinner                            
+Black Bean Sauce Spareribs Over Rice Dinner                            
+Cashew Nuts Chicken Over Rice Dinner                            
+Kung Pao Chicken Over Rice Dinner                            
+Roast Duck Over Rice Dinner                            
+Prawns with Lobster Sauce Over Rice Dinner                            
+Prawns with Mixed Vegetable Over Rice Dinner                            
+Sweet and Sour Prawns Over Rice Dinner                            
+Prawns, Scallops, Squid with Vegetable On Rice Dinner                            
+Prawns, Beef, Chicken, Fish with Vegetable On Rice Dinner                            
+Double Mushrooms with Chicken On Rice Dinner                            
+Beef with Mustard Green On Rice Dinner                            
+Spareribs with Bitter Melon On Rice Dinner                            
+Fillet of Sole with Vegetable On Rice Dinner                            
+Ginger and Green Onion Beef Over Rice Dinner                            
+Beef with String Beans On Rice Dinner                            
+Pork with Chinese Pickles and Bean Sprouts On Rice Dinner                            
+Chicken with Chinese Sausage and Black Mushrooms On Rice Dinner                            
+Pork with Preserved Vegetable and Peas On Rice Dinner                            
+Minced Beef and Egg Over Rice Dinner                            
+Fish Balls with Turnip On Rice Dinner                            
+Beef with Ginger and Pineapple Dinner                            
+Beef with Bitter Melon Over Rice Lunch                            
+Mongolian Beef Over Rice Lunch                            
+Beef with Oyster Sauce Over Rice Lunch                            
+Beef with Chinese Bok Choy Over Rice Lunch                            
+Beef with Black Bean Sauce Over Rice Lunch                            
+Tomato Beef Over Rice Lunch                            
+Scrambled Egg with Beef Over Rice Lunch                            
+Hunan Beef Over Rice Lunch                            
+Beef Broccoli Over Rice Lunch                            
+Mixed Vegetables Over Rice Lunch                            
+Beef Stew Over Rice Lunch                            
+Beef with Eggplant Over Rice Lunch                            
+Double Mushrooms with Pork Over Rice Lunch                            
+Black Bean Sauce Spareribs Over Rice Lunch                            
+Cashew Nuts Chicken Over Rice Lunch                            
+Kung Pao Chicken Over Rice Lunch                            
+Roast Duck Over Rice Lunch                            
+Prawns with Lobster Sauce Over Rice Lunch                            
+Prawns with Mixed Vegetable Over Rice Lunch                            
+Sweet and Sour Prawns Over Rice Lunch                            
+Prawns, Scallops, Squid with Vegetable On Rice Lunch                            
+Prawns, Beef, Chicken, Fish with Vegetable On Rice Lunch                            
+Double Mushrooms with Chicken On Rice Lunch                            
+Beef with Mustard Green On Rice Lunch                            
+Spareribs with Bitter Melon On Rice Lunch                            
+Fillet of Sole with Vegetable On Rice Lunch                            
+Ginger and Green Onion Beef Over Rice Lunch                            
+Beef with String Beans On Rice Lunch                            
+Pork with Chinese Pickles and Bean Sprouts On Rice Lunch                            
+Chicken with Chinese Sausage and Black Mushrooms On Rice Lunch                            
+Pork with Preserved Vegetable and Peas On Rice Lunch                            
+Minced Beef and Egg Over Rice Lunch                            
+Fish Balls with Turnip On Rice Lunch                            
+Beef with Ginger and Pineapple Lunch                            

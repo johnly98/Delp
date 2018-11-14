@@ -1,0 +1,113 @@
+Village Special Neapolitan Pizza                            
+Hawaiian Neapolitan Pizza                            
+Carnivore's Delight Neapolitan Pizza                            
+Chicken Supreme Neapolitan Pizza                            
+Bacon Neapolitan Pizza                            
+Original BBQ Chicken Neapolitan Pizza                            
+Italian Supreme Neapolitan Pizza                            
+Alfredo Special Neapolitan Pizza                            
+Clam and Garlic Neapolitan Pizza                            
+Chef's Special Neapolitan Pizza                            
+Margherita Neapolitan Pizza                            
+Veggie Neapolitan Pizza                            
+Greek Neapolitan Pizza                            
+Estafeta Neapolitan Pizza                            
+White Neapolitan Pizza                            
+Breakfast Neapolitan Pizza                            
+Pesto Special Neapolitan Pizza                            
+Meat Lasagna
+Veggie Lasagna                            
+Spaghetti with Marinara Sauce                            
+Spaghetti with Meatballs and Marinara Sauce                            
+Spaghetti with Chicken and Mushroom in Marinara Sauce
+Spaghetti with Bolognese Meat Sauce
+Cheese Ravioli with Marinara                            
+Meat Ravioli with Marinara                            
+Penne with Grilled Chicken and Spinach in Pesto Sauce                            
+Penne with Chicken                            
+Penne with Meatballs and Mozzarella Cheese                            
+Tortellini with Alfredo Sauce                            
+Spaghetti with Butter                            
+Fettuccine in Alfredo Sauce with Chicken                            
+Chef's Special Pasta
+Cheese Ravioli with Pesto                            
+Meat Ravioli with Pesto                            
+Plain Calzone                            
+Ham and Cheese Hero Sandwich                            
+Meatball Hero Sandwich                            
+Eggplant Hero Sandwich                            
+Chicken Sandwich
+Sausage Sandwich
+Salami Sandwich                            
+Chicken with Crispy Bacon Hero Sandwich                            
+Chicken Wings
+Baked Homemade Meatballs
+Eggplant Rollatini
+La Bruschetta                            
+Antipasto Salad
+House Garden                            
+Chicken Caesar Salad                            
+Mixed Salad                            
+Summer Salad
+Bowl of Soup with Garlic Roll
+Soup and Salad with Garlic Roll
+Mineral Water                            
+Nantucket Nectar                            
+Snapple                            
+Canned Soda
+Red Bull                            
+Sugar Free Red Bull                            
+-Liter Soda                            
+Village Special Sicilian Pizza
+Ham and Pineapple Sicilian Pizza                            
+Carnivore's Delight Sicilian Pizza                            
+Chicken Supreme Sicilian Pizza                            
+Bacon Sicilian Pizza                            
+Original BBQ Chicken Sicilian Pizza                            
+Italian Supreme Sicilian Pizza                            
+Alfredo Special Sicilian Pizza                            
+Clam and Garlic Sicilian Pizza                            
+Margherita Sicilian Pizza                            
+Veggie Sicilian Pizza                            
+Greek Sicilian Pizza                            
+Estafeta Sicilian Pizza                            
+White Sicilian Pizza                            
+Chef's Special Sicilian Pizza                            
+Pesto Special Sicilian Pizza                            
+Hawaiian Sicilian Pizza                            
+kuh                            
+Personal 9" Neapolitan Pizza                            
+" Neapolitan Pizza                            
+Sicilian Half Pizza
+Sicilian Whole Pizza                            
+Gluten-Free 12" Pizza                            
+Plain Neapolitan Slice                            
+-Topping Neapolitan Slice                            
+Veggie Neapolitan Slice                            
+Greek Neapolitan Slice                            
+Clam and Garlic Neapolitan Slice                            
+Pesto Neapolitan Slice                            
+Estafeta Neapolitan Slice                            
+Chef's Special Neapolitan Slice                            
+Carnivore's Delight Neapolitan Slice                            
+Italian Supreme Neapolitan Slice                            
+Ham and Pineapple Neapolitan Slice                            
+Margherita Neapolitan Slice                            
+Plain Sicilian Slice                            
+-Topping Sicilian Slice                            
+Vegetable Sicilian Slice                            
+Greek Sicilian Slice                            
+Clam and Garlic Sicilian Slice                            
+Pesto Sicilian Slice                            
+Estafeta Sicilian Slice                            
+Chef's Special Sicilian Slice                            
+Carnivore's Delight Sicilian Slice                            
+Italian Supreme Sicilian Slice                            
+Ham and Pineapple Sicilian Slice                            
+Margherita Sicilian Slice                            
+Combo Special Neapolitan Pizza Slice                            
+Combo Special Sicilian Pizza Slice                            
+Brownie
+Carrot Cake                            
+Dessert Pizza
+Brazilian Flan                            

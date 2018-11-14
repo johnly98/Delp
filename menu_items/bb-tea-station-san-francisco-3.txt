@@ -1,0 +1,124 @@
+F1. Bubble Green Tea
+F2. Bubble Black Tea                            
+A1. Peppermint Milk Tea                            
+A2. Honeydew Milk Tea
+A3. Green Apple Milk Tea                            
+A4. Honey Milk Tea
+A6. Pineapple Milk Tea
+A7. Mango Milk Tea
+A8. Papaya Milk Tea                            
+A9. Kumquat Milk Tea                            
+A10. Lychee Milk Tea
+A11. Raspberry Milk Tea
+A12. Pomegranate Milk Tea
+A13. Strawberry Milk Tea
+A14. Peach Milk Tea
+A15. Passion Milk Tea                            
+A16. Almond Milk Tea
+A17. Coconut Milk Tea
+A18. Matcha Milk Tea
+A19. Lavender Milk Tea
+A20. Taro Milk Tea
+A21. Carmel Milk Tea                            
+A22. Chocolate Milk Tea
+A26. Bubble Milk Tea
+B2. Honeydew Snow Ice
+B3. Green Apple Snow Ice                            
+B5. Lemon Snow Ice                            
+B6. Pineapple Snow Ice                            
+B7. Mango Snow Ice
+B8. Papaya Snow Ice                            
+B9. Kumquat Snow Ice                            
+B10. Lychee Snow Ice
+B11. Raspberry Snow Ice                            
+B12. Pomegranate Snow Ice
+B13. Strawberry Snow Ice                            
+B14. Peach Snow Ice                            
+B15. Passion Fruit Snow Ice                            
+B17. Coconut Snow Ice
+C2. Honeydew Yogurt
+C3. Green Apple Yogurt                            
+C5. Lemon Yogurt                            
+C6. Pineapple Yogurt                            
+C7. Mango Yogurt
+C8. Papaya Yogurt                            
+C9. Kumquat Yogurt                            
+C10. Lychee Yogurt
+C11. Raspberry Yogurt                            
+C12. Pomegranate Yogurt
+C13. Strawberry Yogurt                            
+C14. Peach Yogurt                            
+C15. Passion Fruit Yogurt
+C17. Coconut Yogurt                            
+D2. Honeydew Flavor Milk Drink                            
+D3. Green Apple Flavor Milk Drink
+D5. Lemon Flavor Milk Drink                            
+D6. Pineapple Flavor Milk Drink                            
+D7. Mango Flavor Milk Drink                            
+D8. Papaya Flavor Milk Drink                            
+D9. Kumquat Flavor Milk Drink
+D10. Lychee Flavor Milk Drink
+D11. Raspberry Flavor Milk Drink                            
+D12. Pomegranate Flavor Milk Drink                            
+D13. Strawberry Flavor Milk Drink
+D14. Peach Flavor Milk Drink                            
+D15. Passion Fruit Flavor Milk Drink
+D16. Almond Flavor Milk Drink                            
+D17. Coconut Flavor Milk Drink                            
+D18. Matcha Flavor Milk Drink                            
+D19. Taro Flavor Milk Drink
+D20. Lavender Flavor Milk Drink
+D21. Caramel Flavor Milk Drink                            
+D22. Chocolate Flavor Milk Drink                            
+E1. Peppermint Tea                            
+E2. Honeydew Tea                            
+E3. Apple Tea                            
+E4. Honey Tea                            
+E5. Lemon Tea                            
+E6. Pineapple Tea                            
+E7. Mango Tea                            
+E8. Papaya Tea                            
+E9. Kumquat Tea                            
+E10. Lychee Tea                            
+E11. Raspberry Tea                            
+E12. Pomegranate Tea                            
+E13. Strawberry Tea
+E14. Peach Tea                            
+E15. Passion Fruit Tea                            
+E16. Almond Tea                            
+E17. Coconut Tea                            
+E23. Ginger Tea                            
+E24. Plum Tea                            
+E25. Honey Jujube Tea                            
+G1. Iced Milk with Boba
+G2. Iced Milk with Green Tea Boba
+G3. Iced Milk with Black Tea Boba
+G4. Iced Milk with Pudding and Boba
+G5. Iced Milk with Caramel and Pudding and Boba                            
+G6. Iced Milk with Grass Jelly and Boba
+G7. Iced Milk with Caramel and Grass Jelly and Boba                            
+G8. Iced Milk with Chocolate, Pudding and Boba
+G9. Iced Milk with Red Bean and Boba                            
+G10. Iced Milk with Taro and Boba
+H1. Green Tea Lattea
+H2. Black Tea Lattea
+H3. Matcha Lattea
+H4. Lychee Lattea
+I1. Iced Mocha                            
+I2. Iced Chocolate Mocha                            
+I3. Iced Carmel Mocha                            
+I4. Iced Latte                            
+I5. Iced Chocolate Latte                            
+I6. Iced Carmel Latte                            
+J1. Black Tea                            
+J1. Green Tea                            
+J2. Plum Tea                            
+J3. Mango Tea                            
+J4. Passion Fruit Tea                            
+J6. Honey Jujube Tea                            
+J7. Mixed Fruit Tea                            
+J8. Honey Lemon Tea                            
+J9. Citron Tea                            
+K1. Edamame                            
+K3. Special Chicken Wings                            
+K4. Curry Fish Balls                            

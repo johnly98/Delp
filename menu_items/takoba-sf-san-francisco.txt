@@ -1,0 +1,67 @@
+Takoba Chirashi Bowl
+Sendai Miso Soup
+Pieces Seasonal Selection Nigiri                            
+Pieces Sake Nigiri                            
+Pieces Hamachi Nigiri                            
+Pieces Walu Nigiri                            
+Pieces Chef's Selection Nigiri                            
+Pieces Branzini Nigiri                            
+Pieces Walu Sashimi                            
+Pieces Unagi Sashimi                            
+Pieces Chef's Selection Sashimi                            
+Pieces Seasonal Selection Sashimi                            
+Pieces Branzini Sashimi                            
+Sake Hand Roll
+Hamachi Hand Roll
+Veggie Hand Roll                            
+Unagi Avocado Hand Roll                            
+Walu Hand Roll                            
+California Maki                            
+Spicy Tuna Maki
+Salmon Avocado Maki
+Negi Hama Maki                            
+Takuan Maki                            
+Takoba Roll
+Oban Roll
+John Colin's Roll
+Tuna Poke Roll
+The Minna Roll
+Midori Roll
+Green Takoba Roll
+Special Xtra Roll
+Niji Roll
+Piece Maguro Nigiri Lunch                            
+Piece Sake Nigiri Lunch                            
+Piece Hamachi Nigiri Lunch                            
+Piece Walu Nigiri Lunch                            
+Piece Chef's Selection Nigiri Lunch                            
+Piece Magura Sashimi Lunch                            
+Piece Sake Sashimi Lunch                            
+Piece Hamachi Sashimi Lunch                            
+Piece Walu Sashimi Lunch                            
+Piece Chef's Selection Sashimi Lunch                            
+Maguro Hand Roll Lunch                            
+Sake Hand Roll Lunch                            
+Hamachi Hand Roll Lunch                            
+Spicy Tuna Hand Roll Lunch                            
+California Hand Roll Lunch                            
+Unagi Hand Roll Lunch
+Walu Hand Roll Lunch                            
+Veggie Hand Roll Lunch                            
+Hand Rolls
+Hand Roll
+California Maki Lunch                            
+Spicy Tuna Maki Lunch                            
+Salmon Avocado Maki Lunch                            
+Negi Hama Maki Lunch                            
+Tekka Maki Lunch                            
+Spicy Shrimp Tempura Signature Roll Lunch
+Cento Bento Signature Roll Lunch
+Takoba Signature Roll Lunch                            
+John Colin's Signature Roll Lunch                            
+Midori Signature Roll Lunch                            
+Tuna Poke Signature Roll Lunch                            
+Green Takoba Signature Roll Lunch                            
+Chef's Selection Chirashi
+Takoba Chirashi
+Sake Chirashi

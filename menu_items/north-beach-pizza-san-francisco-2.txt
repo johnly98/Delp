@@ -1,0 +1,68 @@
+Cheese Pizza with One Topping                            
+Cheese Pizza with Two Toppings                            
+Cheese Pizza with Three Toppings
+Cheese Pizza with Four Toppings                            
+Aloha Special Pizza                            
+Golden Gate Special Pizza
+Coit Special Pizza
+Amigo Special Pizza                            
+North Beach Special Pizza
+Verdi's Special Pizza
+Cable Car Pizza
+New Mission Special Pizza
+White Sauce Chicken Pizza                            
+All Meat Special Pizza                            
+Tortellini                            
+Tortellini Romana                            
+A. Linguine with Sauce                            
+Baked Lasagna Meat                            
+Eggplant Entrees Parmigiana                            
+Linguine and Clams with Marinara Sauce                            
+Spaghetti Garlic                            
+Spaghetti Bolognese with Meatballs                            
+Ravioli with Marinara Cream Sauce                            
+Cheese Ravioli                            
+Penne with Mushrooms Marinada                            
+Pasta Primavera Alfredo Sauce                            
+Pasta with Marinara Chicken                            
+Gnocchi                            
+Vegetarian Lasagna                            
+Mineral Bottled Water                            
+Bottled Soda                            
+a. Two Liter Soda                            
+Chicken Breast Parmigiana                            
+Chicken Cacciatore                            
+Baked Chicken                            
+Fried Chicken                            
+Barbecued Pork Spareribs                            
+Barbecued Chicken                            
+BBQ Pork Spareribs                            
+BBQ Chicken                            
+Hamburger Sandwich with Cheese                            
+Meatball Parmigiana Sandwich with Cheese                            
+Italian Sausage Sandwich with Cheese                            
+Chicken Breast Parmigiana Sandwich with Cheese                            
+Pizza Sub                            
+Eggplant Sandwich                            
+Ham and Cheese Sandwich                            
+Tossed Green Salad                            
+Half Caesar Salad                            
+Big Salad                            
+Choose Big Salad                            
+Garlic Bread with Cheese                            
+Sauteed Vegetables                            
+Bread Sticks
+Meatballs
+Side of Ranch                            
+Minestrone Soup                            
+Margherita Special Thin Crust Pizza                            
+Lombard Special Thin Crust Pizza                            
+Presidio Veggie Thin Crust Pizza                            
+Union Square Special Thin Crust Pizza                            
+Market Street Special Thin Crust Pizza                            
+Medium 1-Topping Pizzas Special                            
+Large 1-Topping Pizza, 10 Wings and a 2-Liter Bottle of Soda special                            
+" Cheese Pizza Special                            
+Large Pepperoni Pizza Special                            
+Large Sausage Pizza Special                            
+Family Combo                            

@@ -1,0 +1,147 @@
+Steam Dumpling                            
+Vegetarian Pot Sticker
+Fried Wonton                            
+Deep Fried Prawns
+Hai Sun's Chicken Wings
+Salt and Pepper Fried Tofu                            
+BBQ Pork Buns
+Mu Shu Vegetable
+Mu Shu Chicken
+Mu Shu Shrimp                            
+Tomato Egg Flower Soup
+Seaweed Tofu Soup                            
+Chicken Sweet Corn Soup                            
+Sizzling Rice Soup                            
+West Lake Minced Beef Soup                            
+Hunan General Chicken                            
+Hot and Sour Chicken                            
+Chicken Broccoli                            
+Snow Peas Chicken                            
+Double Mushroom Chicken
+Chicken with Vegetable                            
+Chicken with Tofu                            
+Ginger Garlic Chicken                            
+Phoenix and Dragon                            
+Pineapple Chicken                            
+Fresh Asparagus Chicken with Black Bean Sauce                            
+House Beef                            
+Beef with Double Mushroom                            
+Oyster Sauce Beef                            
+Ginger Garlic Beef                            
+Chinese Tender Green Beef                            
+Beef with Tomato                            
+Beef with Vegetable                            
+Beef with Bean Cake                            
+Beef with Eggplant                            
+Pineapple Beef                            
+Szechuan Lamb                            
+Lamb with Ginger Garlic Sauce                            
+Beef Fresh Asparagus with Black Bean Sauce                            
+Hot Bean Cake Pork                            
+Five Happiness Pork                            
+Eggplant in Szechuan Sauce                            
+Seasonal Vegetable Delight                            
+Sauteed Chinese Tender Green                            
+Double Mushroom with Oyster Sauce                            
+Black Mushroom with Tofu over Tender Greens                            
+Kung Pao Tofu with Vegetable                            
+String Beans with Black Bean Sauce
+Braised Bean Cake                            
+Eggplant with Special Sauce                            
+Black Mushroom and Tender Greens                            
+Egg Fu Yung                            
+Stir Fried Four Kinds of Vegetables                            
+Black Mushroom Tofu with Broccoli                            
+Eggplant with Fried Tofu in House Sauce                            
+String Beans Fried Tofu with Garlic Sauce                            
+Asparagus with Bean Cake                            
+S1. Happy Family with Vegetables                            
+S2. Orange Flavor Beef                            
+S2. Orange Flavor Chicken                            
+S3. Chicken Wings in Special Garlic Sauce                            
+S4. Crispy Beef                            
+Salmon and Asparagus in Black Bean Sauce                            
+S6. Three Ingredients                            
+S7. Kung Pao Calamari                            
+S8. Chicken with Fresh String Beans                            
+S9. Prawns with Fresh String Beans                            
+S10. Beef with Black Pepper Sauce                            
+S11. Walnut Prawns                            
+S12. Dry Pan Fried String Beans with Pork                            
+S13. Jade Scallops                            
+S14. Bitter Melon Beef with Black Bean Sauce                            
+S14. Bitter Melon Chicken with Black Bean Sauce                            
+S15. Mango Chicken                            
+S16. Salt and Pepper Chicken Wings
+Cashew Scallop and Prawns
+Prawns with Tofu                            
+Prawns with Broccoli
+Prawns with Double Mushroom                            
+Prawns with Black Bean Sauce                            
+Prawns with Vegetables                            
+Sauteed Scallops with Ginger Garlic Sauce                            
+Kung Pao Scallops and Prawns
+Sauteed Scallops with Assorted Vegetables                            
+Scallops and Prawns in Curry Sauce                            
+Calamari with Hot Black Bean Sauce                            
+Fillet of Cod a la Szechuan                            
+Deluxe Mixed Seafood                            
+Fish Fillet with Tender Green                            
+Fish Fillet with Black Bean Sauce                            
+Fish Fillet with Fresh String Beans                            
+Fish Fillet and Black Sauce                            
+Fish Fillet with Curry Sauce                            
+Fish Fillet with Sweet Sour Sauce                            
+Salt and Pepper Fish Fillet
+Salt and Pepper Calamari                            
+Prawns Asparagus with Black Bean Sauce                            
+Hai Sun Special Chow Mein                            
+Tomato Chicken Chow Mein                            
+Curry Beef Chow Mein                            
+Mongolian Beef Chow Mein
+Special Sauce Noodles                            
+Beef with Black Bean Sauce Chow Fun                            
+Hai Sun Crispy Jim Mein                            
+Beef Crispy Jim Mein                            
+Chicken Crispy Jim Mein                            
+Pork Crispy Jim Mein                            
+Vegetables Jim Mein                            
+Shrimp Jim Mein                            
+Singapore Rice Noodles with Curry Sauce                            
+Combination Fried Rice                            
+Seafood Fried Rice with Pineapple                            
+Pack of Soda                            
+L1. Hai Sun Special Rice                            
+L2. Mongolian Beef or Chicken Over Rice                            
+L3. Sweet and Sour Chicken or Pork Over Rice                            
+L4. Beef or Chicken with Broccoli Over Rice                            
+L5. Chicken with Black Bean Sauce Over Rice                            
+L6. Almond or Cashew Chicken Over Rice                            
+L7. Curry Chicken or Beef Over Rice
+L8. Scrambled Egg Beef or BBQ Pork Over Rice                            
+L9. Double Mushroom Beef or Chicken Over Rice                            
+L10. Curry Fish Over Rice                            
+L11. Beef or Chicken with Tomato Over Rice                            
+L12. Spare Ribs with Black Bean Sauce Over Rice                            
+L13. Curry Shrimp Over Rice
+L14. Scrambled Egg Shrimp Over Rice
+L15. Shrimp with Chinese Tender Green Over rice                            
+L16. Kung Pao Prawn Over Rice                            
+L17. Hunan General Chicken Over Rice
+L18. Lemon Chicken Over Rice                            
+L19. Szechuan Chicken Over Rice                            
+L20. Szechuan Beef Over Rice                            
+L21. Hunan Beef Over Rice                            
+L22. Beef Fresh Asparagus with Black Bean Sauce Over Rice                            
+L23. Beef with Snow Peas Over Rice                            
+L24. Oyster Sauce Beef Over Rice                            
+L25. Ginger Garlic Beef Over Rice                            
+L26. Chinese Tender Green Beef Over Rice                            
+L27. BBQ Pork with Mixed Vegetable Over Rice                            
+L28. Eggplant and Pork With Special Sauce Over Rice                            
+L29. Assorted Vegetables Over Rice                            
+L30. Black Mushroom and Tender Greens Over Rice                            
+L31. Eggplant with Tofu Over Rice                            
+L32. String Bean with Tofu Over Rice                            
+L33. Mixed Vegetable with Tofu Over Rice                            
+L34. Kung Pao Tofu and Vegetable Over Rice                            

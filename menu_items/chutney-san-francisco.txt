@@ -1,0 +1,46 @@
+Piece Vegetable Samosa                            
+Papadams
+Seek Kabab Wrap                            
+Chicken Kabab Wrap
+Lamb Wrap
+Lamb Seek Kabab Wrap                            
+Veggie Wrap
+Seek Kabab                            
+Lamb Seekh Kebob                            
+Chicken Seekh Kabab
+Chicken Boti
+Lamb Boti
+Tandoori Prawn
+Cholley Chicken Curry
+Chicken Tikka Masala Curry
+Chicken Saag Curry                            
+Daal Chicken Curry
+Lamb Tikka Masala Curry
+Lamb Vindaloo Curry                            
+Lamb Saag Curry                            
+Bhindi Gosht Curry                            
+Karayla Gosht Curry                            
+Gobi Gosht Curry
+Daal Goaht Curry                            
+Prawn Masala Curry                            
+Prawn Tikka Masala Curry
+Prawn Vindaloo Curry                            
+Palak Aloo Methi Curry
+Palak Paneer Curry                            
+Paneer Tikka Masala Curry
+Mutter Paneer Curry                            
+Daal Masala Curry                            
+Chana Masala Curry                            
+Bhindi Masala Curry                            
+Karayla Masala Curry
+Bengan Bharta Curry                            
+Aloo Vinclaloo Curry                            
+Aloo Mutter Curry                            
+Aloo Ghobi Curry                            
+Mix Vegetables Korma Curry                            
+Mix Vegetables Tikka Masala Curry                            
+Saag Paneer Curry                            
+Vegetables Biryani                            
+Rice Pullao
+Puneer Naan
+Aloo Naan

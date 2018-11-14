@@ -1,0 +1,163 @@
+Aguadito de Pollo Breakfast                            
+Huevos a la Pobre Breakfast
+Poched Egg Breakfast                            
+Mochica Scrambled Breakfast
+Potrero Scrambled Breakfast                            
+Omelet Breakfast                            
+Breakfast Burrito Breakfast                            
+Mochica Mac and Cheese Breakfast                            
+Tequenos Breakfast                            
+Bolitas de Yucca Breakfast                            
+Peruvian Breakfast Sirloin Breakfast                            
+Vegetarian Omelet Breakfast                            
+Omelette Aij de Gallina                            
+Potrero Scrambled
+Salchipapas con Huevo Breakfast                            
+Chef Carlitos Tacos del Dia Breakfast                            
+Fresh Fruit
+Smoked Chicken Apple Sausage
+Plantano Fritto                            
+Yucca Fries
+Country Potatoes                            
+Sauce
+House Made Pork Sausage                            
+Applewood Smoked Bacon                            
+Sauteed Spinach with Garlic
+French Fries with Rocoto Aioli                            
+Sweet Potatoes Fries                            
+Any Sauce                            
+Ensalada Nuovo Andino Lunch                            
+Roasted Beet Salad Lunch                            
+Ceviche Mixto Lunch                            
+Ceviche Pescado Fresh Lunch                            
+Ceviche Chino Peruano Sushi Lunch                            
+Empanada Mochica Chorizo Lunch                            
+Empanada Wild Mushroom Lunch                            
+Chicharrones Lunch                            
+Anticuchos
+Empanada
+Chicharrones
+Mac N Cheese a Nuestro Estilo                            
+Papa a la Huancaina
+Platanos Fritos                            
+Bolitas de Yucca
+Chicharrones de Pollo
+Pollo a la Brasa
+Pollo Saltado Lunch                            
+Seafood Paella Lunch                            
+Aji de Gallina Lunch                            
+Lomo Saltado
+Pollo Saltado
+Seafood Paella
+Aji de Gallina
+Chancho Adobado
+Seco de Res
+Chaufa Pork Belly
+Ensalada Nuovo Andino Dinner                            
+Ensalada Chola Dinner                            
+Ceviche Pescado Dinner                            
+Ceviche Chino Peruano Dinner                            
+Ceviche Mixto Dinner                            
+Anticuchos Dinner                            
+Chicharrones Dinner                            
+Costillita de Chancho Dinner                            
+Tequenos Dinner                            
+Camarones Crocantes Dinner                            
+Mac and Cheese Dinner                            
+Scallops Carlitos Dinner                            
+Empanada de la Casa Dinner                            
+Bolitas de Yucca Dinner                            
+Yucca Fries Dinner                            
+Papa a la Huancaina Dinner                            
+Calamari Relleno Dinner                            
+Tuna Tartare Dinner                            
+Pulpito a la Parilla Dinner                            
+Pescado a lo Macho Dinner                            
+Aji de Gallina Dinner                            
+Lomo Saltado Dinner                            
+Chancho Adobado Dinner                            
+Chaufa Pork Belly Dinner
+Seafood Paella Dinner                            
+Seco de Res Dinner                            
+Salmon Bandido Dinner
+Tuna Nuovo Andino Dinner                            
+Churrasco a la Parilla Dinner                            
+Quinoa Risotto Dinner                            
+Pollo Salatado Dinner                            
+Platano Maduro Frito Dinner                            
+French Fries Dinner                            
+Grilled Asparagus Dinner                            
+Jasmine Rice Dinner                            
+Side of Sauce Dinner                            
+Sweet Potato Fries Dinner                            
+Sauteed Spinach with Garlic Dinner                            
+Vegetable Salteado Dinner                            
+Coconut Rice Dinner                            
+Pollo a la Brasa Dinner                            
+Ensalada Nuovo Andino                            
+Roasted Beet Salad Brunch                            
+Ceviche Mixto Brunch                            
+Ceviche Pescado Fresh                            
+Ceviche Chino Peruano
+Choros a la Chalaca Brunch                            
+Leche de Tigre Brunch
+Anticuchos Brunch                            
+Empanada Mochica Brunch                            
+Chicharrones Brunch                            
+Aguadito de Pollo                            
+Peruvian Corn and Beet Salad                            
+Pan con Salmon                            
+Pan con Championes Brunch
+Pan con Chicharron Brunch                            
+Pan con Lomo Brunch                            
+BBQ Pork Brunch                            
+Pan con Pollo Brunch                            
+Ensalada Nuovo Andina
+Ensalada Chola
+Ceviche Pescado
+Ceviche Chino
+ceviche mixto
+Chicarrones
+Costillita de Chancho
+Tequenos
+Camarones Crocantes
+Mac n Cheese
+Scallops Carlitos
+Empanadas de la Casa
+Tuna Tartare
+Pulpito a la Parilla
+Calamari Relleno
+Pescado a lo Macho
+Lomo saltado
+Chancho de Adobado
+Salmon Bandido
+Tuna Nuovo Andino
+Churrasco a la Parilla
+Quinoa Risotto
+Applewood Smoked Bacon Lunch                            
+Sweet Potato Fries
+Sauteed Spinach with Garlic Lunch                            
+Sweet Potato Fries Lunch                            
+Platano Maduro Frito                            
+Grilled Asparagus
+Vegetables Salteado                            
+Side of Any Sauce Lunch                            
+French Fries with Rocoto Aioli Lunch                            
+Aguadito de Pollo Lunch                            
+Peruvian Corn and Beet Salad Lunch                            
+Ceviche Pescado Lunch                            
+Ceviche Chino Peruano Lunch                            
+Anticuchos Lunch                            
+Bolitas de Yucca Lunch                            
+Chicharrones de Pollo Lunch                            
+Mac N Cheese a Nuestro Estilo Lunch                            
+Papa a la Huancaina Lunch                            
+Platanos Fritos Lunch                            
+Lomo Saltado Lunch                            
+Chancho Adobado Lunch                            
+Chaufa Pork Belly Lunch                            
+Pollo a La Brasa Lunch                            
+Pan con Chicharron Lunch                            
+Pan con Lomo Lunch                            
+BBQ Pork Sandwich Lunch                            
+Pan con Pollo Lunch                            

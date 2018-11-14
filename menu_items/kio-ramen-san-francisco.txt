@@ -1,0 +1,57 @@
+Piece Gyoza
+Garlic Miso Chicken Wings
+Tamagoyaki                            
+Grilled Squid
+Soft-Shell Crab Tempura
+Piece Vegetable Tempura                            
+Garlic Soy Edamame                            
+Okonomiyaki                            
+Fried Oysters                            
+Mix Sashimi Salad                            
+Curry Beef Udon                            
+Pork Flavor Ramen
+Shoyu Flavor Ramen                            
+Miso Flavor Ramen                            
+Black Garlic Flavor
+Spicy Garlic Flavor                            
+Kio Special Flavor
+Hell Spicy Flavor
+Curry Flavor                            
+Tsuke-men                            
+Soft Shell Crab Ramen                            
+Seafood Ramen                            
+Lobster Ramen                            
+Chicken Shoyu Flavor Ramen                            
+Chicken Miso Flavor Ramen                            
+Chicken KIO Special Ramen                            
+Vegetable Shoyu Flavor Ramen                            
+Vegetable Miso Flavor Ramen                            
+Vegetable KIO Special Ramen                            
+Curry Flavor Ramen                            
+Hell Spicy Flavor Ramen
+Chicken Teriyaki Set                            
+Beef Teriyaki Set                            
+Salmon Teriyaki Set                            
+Chicken Katsu Curry Set
+Tonkatsu Curry Set                            
+Unagi Set                            
+Jumbo Unagi Don
+Fried Chicken Set                            
+Shrimp Tempura Set                            
+Assorted Tempura Set                            
+Vegetable Tempura Set                            
+Tuna Poke Bowl                            
+Salmon Poke Bowl                            
+Mix Poke Bowl                            
+Hamachi Poke                            
+Plain Soba                            
+Salmon Soba                            
+Shrimp Tempura Soba                            
+Vegetable Tempura Soba
+Cold Tanuki Udon                            
+Cold Ramen
+Pork Kimchi Ramen                            
+Chicken Kimchi Ramen                            
+Beef Ramen
+Seafood Kimchi Ramen                            
+Tomato Beef Ramen                            

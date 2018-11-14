@@ -1,0 +1,40 @@
+Regular Taco
+Regular with Taco with Cheese                            
+Special Burrito
+Bean and Rice Burrito                            
+Combination Burrito                            
+Tofu Burrito
+Garden Burrito
+Chile Relleno Dinner                            
+Pollo Asado Dinner                            
+Carnitas Dinner                            
+Chile Verde Dinner                            
+Tepa Special Dinner                            
+Combination Dinner                            
+Tofu Dinner                            
+Piece Enchiladas Dinner                            
+Piece Flautas Dinner                            
+Piece Tamales Dinner                            
+Taco Dinner                            
+Steak and Shrimp Dinner
+Prawn Enchilada Dinner                            
+Fish Dinner
+Prawn Burrito
+Grill Fish Taco                            
+Grill Fish Burrito                            
+Grill Fish Tostada                            
+Tamales                            
+Enchiladas                            
+Chicken Flautas                            
+Torta                            
+Tostada Salad
+Super Flour Quesadilla                            
+Medley Vegetables                            
+Mushrooms                            
+Green Onions
+Tamale
+Flauta
+Small of Bag Tortilla Chips                            
+Sobe Life Water                            
+Spring Water                            
+Large Mexican Coke                            

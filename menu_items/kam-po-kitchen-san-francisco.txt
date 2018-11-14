@@ -1,0 +1,118 @@
+Lettuce Soup                            
+Lettuce Fried Fish Soup                            
+Lettuce Beef Soup                            
+Fish Meat Ball Soup                            
+Lettuce Fish Meat Ball & Beef Meat Ball Soup                            
+Lettuce Pork Meat Ball Soup                            
+Lettuce & Prawns Soup                            
+Lettuce Beef Meat Ball Soup                            
+Lettuce Pork Soup                            
+Wonton Noodles
+Wonton
+Beef Tenden Noodles                            
+Beef Stew Noodles                            
+Beef Organ Noodles                            
+Dumpling
+Dumpling Noodles                            
+Beef Stew & Wonton Noodles
+Beef Organ & Wonton Noodles                            
+Beef Meat Ball Noodles                            
+Fish Meat Ball Noodles                            
+Pork Meat Ball Noodles                            
+Pork Pig's Feet Noodles                            
+Striped Roast Duck Rice Noodles Soup                            
+Noodles With Barbecued Pork                            
+Noodles With Roast Pork                            
+Noodles With Roast Duck                            
+Noodles With Marinated Duck                            
+Noodles With Marinated Assortment                            
+Noodles With Soy Sauce Chicken                            
+Noodles With Boiled Chicken                            
+Noodles With Town Items Together                            
+Roast Duck Won Ton Noodles
+Chicken Won Ton Noodles                            
+Boiled Chicken Won Ton Noodles                            
+B.b.q. Pork Won Ton Noodles                            
+Roast Pork Won Ton Noodles
+Marinated Duck Won Ton Noodles                            
+Marinated Assortment Won Ton Noodles                            
+Roast Pork Rice Noodles
+Roast Duck Rice Noodles
+Barbecued Pork Rice Noodles                            
+Soy Sauce Chicken
+Cold Boiled Chicken
+Spareribs Rice Noodles
+Marinated Assortment Rice Noodles                            
+Octopus Rice Noodles                            
+Lo Mein Roast Duck                            
+Lo Mein Roast Pork                            
+Lo Mein Barbecued Pork                            
+Lo Mein Marinated Duck                            
+Lo Mein Marinsted Assortment                            
+Lo Mein Soy Sauce Chicken                            
+Lo Mein Boiled Chicken                            
+Kinds Of Meats Chow Mein                            
+Barbecued Pork Chow Mein
+B.b.q. Pork W/brocoli Chow Mein                            
+Beef Brocoli Chow Mein                            
+Chicken Brocoli Chow Mein                            
+B.b.q. Pork W/china Green Chow Mein                            
+Beef W/china Green Chow Mein                            
+Chicken W/china Green Chow Mein                            
+Beef With Black Bean Sauce Chow Fun
+Kinds Of Meats Fried Rice Noodles                            
+B.b.q. Pork W/tender Green Rice Noodles                            
+Chicken W/tender Green Rice Noodles                            
+Beef W/tender Green Rice Noodles                            
+Shrimp W/tender Green Rice Noodles                            
+Singapore Style Vermicelli
+Barbecued Pork                            
+Roast Pork
+Roast Duck
+Marinated Assortment                            
+Marinated Duck                            
+Two Items Together                            
+Sampan Porridges                            
+Pork Organ Porridges
+Meat Ball Porridges                            
+Preserved Egg With Pork Rice Porridges
+Prawns Porridges                            
+Abslone & Prawns Porridges                            
+Beef Porridges                            
+Pork Porridges
+Pork Kidney Porridges                            
+Pork Liver Porridges                            
+Pork Kidney & Liver Porridges                            
+Lettuce With Oyster Sauce                            
+Beef Stew Lettuce                            
+Beef Organ With Lettuce                            
+Beef Tender With Lettuce                            
+Pork Pig's Feet With Oyster Sauce                            
+China Green With Oyster Sauce                            
+Beef Stew With China Green                            
+Beef Organ With China Green                            
+Beef Tender With China Green                            
+Pork Pig's Feet With China Green                            
+Roast Duck With Rice
+Roast Pork With Rice
+Soy Sauce Chicken With Rice
+Boiled Chicken With Rice                            
+Two Items Together With Rice
+Marinated Duck With Rice                            
+Combination Spiced Organs With Rice                            
+Pork Pig's Feet With Rice                            
+Beef & Bitter Melon With Rice                            
+Mushroom Chicken With Rice
+Beef & Tender Green With Rice                            
+Beef & Tomato With Rice
+Beef & Tofu With Rice
+Salted Fish & Diced Chicken W/fried Rice                            
+Shrimps Fried Rice                            
+Yong Chow Frice Rice                            
+B.b.q. Pork Fried Rice
+Beef Stew Lo Mein                            
+Beef Organ Lo Mein                            
+Pork Pig's Feet Lo Mein                            
+Beef Tenden  Lo Mein                            
+Mandarin Bean Sauce Lo Mein                            
+Oyster Sauce Lo Mein                            

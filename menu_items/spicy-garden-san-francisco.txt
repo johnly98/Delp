@@ -1,0 +1,152 @@
+B1. 4 Pieces Vegetable Spring Roll                            
+B2. 6 Pieces Pot Sticker                            
+B3. Green Onion Pancake
+B4. Pancake with Beef                            
+B5. Deep Fried Tofu                            
+B6. Deep Fried Chicken Wings
+B7. Crispy Chicken Nuggets with Basil
+B8. Beanjello in Red Chili Sauce                            
+B9. Couple's Delight
+B10. Slice Pork Belly with Spicy Garlic Sauce                            
+B11. Shanghai Style Wine Chicken                            
+B12. Spicy Numbing Beef Tendon
+B13. Soft Tofu with Black Bean and Chili Sauce                            
+B14. Homemade Pickled Vegetable                            
+B15. Szechuan Style Chicken                            
+B16. Cucumber Salad                            
+B17. Spicy Cucumber Salad                            
+A1. Cucumber with Egg Flower Soup                            
+A2. Hot and Sour Soup
+A3. Chicken with Cream Corn Soup                            
+A5. Pickled Fish Filet Soup
+A.6 Seasonal Vegetable and Dumpling Soup
+H1. Bitter Melon with Salty Egg Yolk                            
+H2. String Beans with Salty Egg Yolk
+H3. Corn Stir Fried with Salty Egg Yolk                            
+H5. Eggplant with Garlic Sauce
+H6. Dry Sauteed Bitter Melon                            
+H7. Kung Po Tofu                            
+H8. Shredded Potato with Hot Chili Pepper
+H9. Triple Vegetable                            
+H10. Dry Sauteed String Beans
+H11. Stir Fried Cucumber with Black Fungus                            
+H12. Assorted Vegetables                            
+H4. Seasonal Vegetable                            
+K1. Sweet and Sour Pork
+K2. Mongolian Beef                            
+K3. Hunan Style Beef                            
+K4. Sauteed Beef with Scallion                            
+K4. Sauteed Lamb with Scallion                            
+K5. Broccoli Beef                            
+K6. Orange Flavor Beef                            
+K7. Beef with String Beans                            
+K8. Vegetable Beef                            
+K9. Cumin Beef                            
+K9. Cumin Lamb                            
+K10. Ginger and Green Onion Beef                            
+K11. Steamed Chicken Wings with Spicy and Sour Sauce                            
+K12. Kung Pao Chicken
+K13. Cashew Chicken                            
+K14. Sweet and Sour Chicken
+K15. Lemon Chicken                            
+K16. Sesame Chicken                            
+K17. Curry Chicken                            
+K18. Vegetable Deluxe Chicken                            
+K19. General Tao's Chicken                            
+K20. Salt and Pepper Chicken Wings                            
+K21. Kun Pao Prawns                            
+K22. Prawns with Mix Vegetable                            
+K23. Cashew Prawns                            
+K24. Sweet and Sour Prawns                            
+K25. Salt and Pepper Prawns                            
+K26. Prawns with Lobster Sauce                            
+K27. Fish Filet in Tomato Sauce                            
+K28. Fried Shrimps with Salted Egg Tolk and Corn                            
+K29. Mu-shu Pork                            
+K30. Mu-shu Beef                            
+K31. Mu-Shu Vegetable                            
+K32. Honey Walnut Shrimp
+C1. 4 Pieces Lamb Skewer                            
+C2. Lamb Ribs                            
+C3. 4 Chicken Wings                            
+L1. Guiling Rice Noodle                            
+L2. Single Cooked Rice Noodle                            
+L3. Hot and Sour Noodle Soup                            
+L4. Hot and Sour Noodle Soup Topped with Pork Intestine                            
+L5. Chicken Noodle Soup
+L6. Spicy Beef Noodle /
+L6. Spicy Fish Noodle /                            
+L6. Spicy Seafood Noodle /                            
+L7. Szechuan Pickled Mustard Noodle
+L8. Soy Bean Paste Noodle                            
+L9. Tantan Noodle
+L10. Szechuan Cold Noodle                            
+L11. Vegetable Chow Mein                            
+L12. House Special Chow Mein
+L13. Beef Chow Mein
+L14. Chicken Chow Mein
+L15. Prawns Chow Mein                            
+G1. Spicy Fish Filet with Flaming Chili Oil                            
+G2. Spicy Fish Filet without Chili Oil                            
+G3. Deep Fried Fish Filet with Chili Pepper                            
+G4. Tender Fish Filet with Pickle Mustard Broth and Tofu Soup                            
+G5. Silky Tofu with Fish Filet of Sole
+G6. Chong Ding Mao Xue Wang
+G7. Spicy Pork Intestine with Flaming Chili Oil                            
+G8. Spicy Kidney with Flaming Chili Oil                            
+G9. Flaming Spicy Kidney
+G10. Spicy Beef with Flaming Chili Oil                            
+G11. Rural Fence Basket Cooked Beef with Chili Pepper
+G12. Slice Beef Sauteed with Black Bean and Chili Sauce                            
+G13. Szechuan Beef                            
+G14. Pickled Mustard with Beef Soup                            
+G15. Chicken with Explosive Chili Pepper
+G16. Three Cups Chicken
+G17. Prawn with Garlic and Spicy Chili Sauce                            
+G18. Prawn with Chili Pepper                            
+G19. Twice Cooked Pork
+G20. Shredded Pork with Spicy Garlic Sauce                            
+G21. Ground Pork Stir Fried with Picked Long Bean                            
+G22. Sauteed Vermicelli with Spicy Minced Pork
+G23. Pork Intestine Stir Fried with Explosive Chili Pepper
+G24. Lamb Ribs with Explosive Chili Pepper                            
+G25. Scallion Lamb Slices
+G26. Cumin Lamb Slices                            
+G27. Ma Po Tofu with Spicy Sauce                            
+G28. Ma Po Tofu with Shrimps                            
+G28. Ma Po Tofu with Fish                            
+G29. Tofu with Chili Pepper                            
+G30. Deep Fried Fish Filet with Crispy Garlic                            
+G31. Deep Fried Eggplant with Crispy Garlic
+G32. Deep Fried Prawns with Crispy Garlic                            
+G33. Silky Tofu with House Spicy Sauce                            
+M1. House Special Fried Rice
+M2. Yangzhou Style Fried Rice
+M3. Vegetable Fried Rice                            
+M4. Beef Fried Rice                            
+M5. Chicken Fried Rice
+M6. Prawns Fried Rice                            
+M7. Egg Fried Rice                            
+M8. Steam Rice                            
+D1. Chicken in Hot and Numbling Spicy Pot                            
+D2. Beef in Hot and Numbling Spicy Pot
+D3. Assorted Mushrooms                            
+D4. Prawns in Hot and Numbling Spicy Pot                            
+D5. House Combination Hot and Numbling Spicy Pot                            
+D6. Spicy Chicken with Chili Sauce                            
+D7. Pickled Mustard with Fish and Lamb                            
+D8. Sauteed Brown Beech Mushroom Served in Mini Flaming Pot                            
+Mandarin Dinner for 2                            
+Mandarin Dinner for 3                            
+Mandarin Dinner for 4                            
+Mandarin Dinner for 5                            
+Veggie Dinner for 2                            
+Veggie Dinner for 3                            
+Veggie Dinner for 4                            
+Veggie Dinner for 5                            
+Veggie Dinner for 6                            
+Gourmet Dinner for 2                            
+Gourmet Dinner for 3                            
+Gourmet Dinner for 4                            
+Gourmet Dinner for 5                            
+Gourmet Dinner for 6                            

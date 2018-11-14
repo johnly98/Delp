@@ -1,0 +1,182 @@
+Gyoza                            
+Pieces Green Mussel                            
+Chicken Yakitori                            
+Tempura                            
+Pieces Agedashi Tofu                            
+Shiro Maguro Tataki                            
+Katsuo Tataki                            
+Jumping Cali Roll                            
+Giant Roll                            
+Spicy Philly Roll                            
+No Name Roll
+Godzilla Roll
+er's Roll                            
+Cauliflower Roll                            
+Snake Roll
+Funky Duty Roll                            
+Saigon Crunch Roll
+Narita Roll
+Double Dragon Roll
+Swamp Roll
+Double Hamachi Roll
+Titanic Roll
+Tres Amigos Roll
+Muni Roll
+Deluxe Philly Roll                            
+Pieces Nigiri Sushi                            
+Maguro Sushi                            
+Shiro Maguro Sushi                            
+Pieces Special Nigiri Sushi                            
+Hamachi Sushi                            
+pieces Deluxe Nigiri Sushi                            
+Sake Sushi                            
+Izumi Tai Sushi                            
+Saba Sushi                            
+Ika Sushi                            
+Tako Sushi                            
+Unagi Sushi                            
+Ebi Sushi                            
+Kani Sushi                            
+Ikura Sushi                            
+Tobiko Sushi                            
+Hotate Sushi                            
+Tamago Sushi                            
+Inari Sushi                            
+Natto                            
+Maguro Sashimi
+Shiro Maguro Sashimi                            
+Hamachi Sashimi
+Izumi Tai Sashimi                            
+Sake Sashimi                            
+Saba Sashimi                            
+Ika Sashimi                            
+Tako Sashimi                            
+Black Mushroom and Spinach Roll                            
+Gobo Roll                            
+Umeshiso Roll                            
+Hamachi Negi Roll                            
+Alaska Roll
+Church Roll
+Futomaki Roll                            
+Hawaiian Roll
+Philadelphia Roll
+Rock 'N' Roll
+Pocky Roll
+Maguro Nigiri                            
+Hamachi Nigiri                            
+Shiro Maguro Nigiri                            
+Sake Nigiri
+Tai Nigiri                            
+Ebi Nigiri
+Unagi Nigiri
+Kani Nigiri                            
+Saba Nigiri                            
+Ika Nigiri                            
+Tako Nigiri                            
+Ikura Nigiri                            
+Tobiko Nigiri                            
+Hotate Nigiri                            
+Tamago Nigiri                            
+Inari Sushi Nigiri                            
+Hokkigai Nigiri                            
+Smoked Salmon Nigiri                            
+Katsuo Nigiri
+Ankimo Nigiri                            
+Natto Nigiri                            
+Sunomono with Taki and Ebi Salad                            
+Ika Sansai Salad                            
+Oshitashi Salad                            
+Pieces Combination Sashimi                            
+Pieces Deluxe Sashimi                            
+Miyabi Love Boat                            
+Miso Soup Lunch                            
+White Rice Lunch                            
+Gyoza Lunch                            
+Edamame Lunch                            
+Croquette Lunch                            
+Hiyayakko Lunch                            
+Pieces Green Mussel Lunch                            
+Chicken Yakitori Lunch                            
+Soft Shell Crab Lunch                            
+Pieces Agedashi Tofu Lunch                            
+Shiro Maguro Tataki Lunch                            
+Katsuo Tataki Lunch                            
+Wakame Salad Lunch                            
+Green Salad Lunch                            
+Sunomono Lunch                            
+Oshitashi Lunch                            
+Ika Sansai Salad Lunch                            
+Spicy Tuna Salad Lunch                            
+Tsukemono Lunch                            
+Brown Rice Lunch                            
+Chicken Teriyaki and Tempura Lunch
+Chicken Teriyaki and Sashimi Lunch
+Salmon Teriyaki and California Roll Lunch                            
+Salmon Teriyaki and Sashimi Lunch
+Tempura Lunch                            
+Tonkatsu Lunch                            
+Chicken Teriyaki Lunch                            
+Salmon Teriyaki Lunch
+Bento Lunch                            
+Deluxe Chicken Bento Lunch                            
+Deluxe Salmon Bento Lunch
+Nigiri Sushi Lunch                            
+Special Nigiri Sushi Lunch                            
+Deluxe Nigiri Sushi Lunch                            
+Chirashi Lunch                            
+Combination Sashimi Lunch                            
+Deluxe Sashimi Lunch
+Oyakodon Lunch                            
+Gyudon Lunch                            
+Katsudon Lunch                            
+Unadon Lunch                            
+Seafood Udon Lunch                            
+Miso Soup Dinner                            
+White Rice Dinner                            
+Edamame Dinner                            
+Gyoza Dinner                            
+Croquette Dinner                            
+Pieces Green Mussel Dinner                            
+Soft Shell Crab Dinner                            
+Chicken Yakitori Dinner                            
+Shiro Maguro Tataki Dinner                            
+Katsuo Tataki Dinner                            
+Brown Rice Dinner                            
+Sunomono Salad Dinner                            
+Tsukemono Salad                            
+Spicy Tuna Salad Dinner                            
+Oshitashi Salad Dinner                            
+pieces of Agedashi Tofu Dinner                            
+pieces of Tofu Steak Dinner                            
+Vegetarian Sushi Dinner                            
+Vegetarian Sukiyaki Dinner
+Vegetarian Udon Dinner                            
+Tempura Dinner                            
+Vegetable Tempura Dinner                            
+Seafood Tempura Dinner                            
+Chicken Teriyaki Dinner                            
+Tonkatsu Dinner                            
+Beef Teriyaki Dinner                            
+Salmon Teriyaki Dinner                            
+Saba Shioyaki Dinner                            
+Unagi Kabayaki Dinner                            
+Chicken Teriyaki Combination Dinner                            
+Salmon Teriyaki Combination Dinner                            
+Pieces Nigiri Sushi Dinner                            
+Pieces Special Nigiri Sushi Dinner                            
+Pieces Deluxe Nigiri Sushi Dinner                            
+Pieces Combination Sashimi Dinner                            
+Pieces Deluxe Sashimi Dinner                            
+Chirashi Dinner                            
+Chicken Sukiyaki Dinner                            
+Beef Sukiyaki Dinner                            
+Seafood Nabe Dinner                            
+Chicken Udon Dinner                            
+Beef Udon Dinner                            
+Seafood Udon Dinner                            
+Tempura Udon Dinner                            
+Udon Sukiyaki Dinner                            
+Samurai Dinner                            
+Shogun Dinner
+Tokugawa Dinner                            
+Miyabi Love Boat Dinner                            

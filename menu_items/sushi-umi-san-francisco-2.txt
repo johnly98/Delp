@@ -1,0 +1,69 @@
+Martinelli Apple Juice                            
+Agedofu                            
+Teriyaki Chicken Skewer                            
+Ikayaki                            
+Teriyaki Beef Skewer                            
+Vegetable Udon Soup                            
+Beef Udon Soup                            
+Shrimp Tempura Udon Soup
+Seafood Udon Soup                            
+Chicken Udon Soup                            
+Umi Ramen Soup                            
+Tekka Maki Roll                            
+Hawaii Roll                            
+Hamachi and Lime Roll                            
+Nikki Hama Roll                            
+Chicken Teriyaki Deluxe                            
+Salmon Teriyaki Deluxe                            
+Beef Teriyaki Deluxe                            
+Hamachi Kama Deluxe                            
+Salmon Kama Deluxe                            
+Shime Saba Sashimi                            
+Tai Sashimi                            
+Piece Sashimi Combo                            
+Piece Sashimi Combo
+Ebi Sashimi                            
+Blue Fin Toro Sashimi                            
+Yam Tempura                            
+String Bean Tempura                            
+Carrot Tempura                            
+Shiitake Tempura                            
+Japanese Eggplant Tempura
+Sushi Combo A                            
+Sushi Combo B                            
+Sushi Combo C                            
+Sushi Combo D                            
+Sushi Combo E
+Sushi Combo F                            
+Sushi Combo G                            
+Crazy Horse Roll                            
+Honey Walnut Roll                            
+Aussie Roll                            
+Amigos Roll
+Spicy Crunchy Roll
+Phoenix Roll                            
+Flying Kamikaze Roll                            
+Autumn Breeze Roll                            
+Winter Blizzard Roll
+Lobster Roll
+Devilicious Roll                            
+Hokkaido Roll                            
+Summer Fever Roll                            
+Double Sake Roll
+Romeo and Juliet Roll                            
+Rocker-Man Roll                            
+Crunchy Salmon Roll                            
+Nasu Nigiri                            
+Tomago Nigiri                            
+Ebi Nigiri                            
+Shime Saba Nigiri                            
+Hotate Nigiri
+Walu Nigiri                            
+Sake Nigiri                            
+Seared Albacore Nigiri                            
+Seared Salmon Nigiri
+Blue Fin Toro Nigiri                            
+Sake Toro Nigiri                            
+Madai Nigiri                            
+Scoop of Green Tea Ice Cream                            
+Piece Party Platter                            

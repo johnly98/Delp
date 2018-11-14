@@ -1,0 +1,116 @@
+Kadhai Lamb                            
+Aachari Lamb                            
+Saag Lamb
+Keema Matar                            
+Goat Curry
+Goat Rogan Josh                            
+Aachari Goat                            
+Goat Vindaloo
+Saag Goat
+Rasgulla
+Rasmalai
+Kulfi Faluda
+Kulfi Ice Cream
+Chaat Salad
+Shahi Paneer                            
+Veggie Korma
+Kadhai Paneer                            
+Tofu Tikka Masala                            
+Kadhai Tofu                            
+Paneer Vindaloo                            
+Aachari Paneer                            
+Saag Dal                            
+Saag Chana                            
+Spicy Malai Kofta                            
+Chili Paneer                            
+Mattar Paneer                            
+Okra Vegetable
+Chana Aloo                            
+Dal Tadka
+Dal Makhani                            
+Plain Parantha                            
+Aloo Parantha
+Paneer Parantha                            
+Onion Parantha                            
+Gobi Parantha                            
+Keema Parantha                            
+Chicken Parantha                            
+Aachari Fish                            
+Fish Curry                            
+Rose Lassi
+Sweet Lassi
+Salty Lassi
+Thumbs Up
+Limca                            
+Maaza                            
+Tandoori Chicken Legs
+Seekh Kabab
+Peas Pulao                            
+Masala Fries                            
+Palak Chaat                            
+Bhel Puri
+Pani Puri
+Sev Puri
+Dahi Batata Puri
+Pakori Chaat
+Aloo Tikki                            
+Aloo Tikki Chaat
+Aloo Chop                            
+Mini Samosas
+Samosa Chaat
+Batata Vada                            
+Vada Pao
+Cholay Bhature
+Pav Bhaji
+Keema Pav
+Pieces Veggie Pakora                            
+Pieces Onion Bhaji                            
+Pieces Paneer Pakora                            
+Pieces Chicken Pakora                            
+Pieces Fish Pakora                            
+Pieces Tofu Pakora                            
+Pieces Shrimp Pakora                            
+Pieces Aloo Pakora                            
+Pieces Chili Pakora                            
+Tofu Wrap                            
+Paneer Wrap
+Paneer Tikka Masala Roll                            
+Paneer Kathi Roll                            
+Tandori Chicken Wrap                            
+Desi Chicken Wrap
+Tandoori Chicken Sandwich                            
+Chicken Tikka Masala Roll
+Spicy Seekh Kabab Wrap
+Seekh Kabab Kathi Roll                            
+Fish Wrap                            
+Spicy Chicken Kabab Wrap                            
+Chicken Kathi Roll                            
+Salmon Wrap                            
+Shrimp Wrap                            
+Chicken Tikka Plate
+Pieces Tandoori Chicken Legs Plate                            
+Pieces Tandoori Chicken Legs Plus                            
+Paneer Kabab Plate                            
+Spicy Seekh Kabab Plate                            
+Lamb Boti Kabab Plate                            
+Tandoori Salmon Plate                            
+Tandoori Shrimp Plate
+Spicy Chicken Kabab Plate                            
+Tandoori Paneer Kabab Plate                            
+Tandoori Fish Plate                            
+Lamb Chops Plate                            
+Plain Naan                            
+Tava Roti                            
+Bhatura                            
+Garlic Pesto Naan
+Paneer Stuffed Naan                            
+Gobi Stuffed Naan                            
+Aloo Stuffed Naan                            
+Chicken Pesto Naan                            
+Kadhai Chicken
+Aachari Chicken                            
+Saag Chicken                            
+Chili Chicken Kabab                            
+White Basmati Rice
+Jeera Rice                            
+Peas Pulao Rice                            

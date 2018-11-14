@@ -1,0 +1,48 @@
+Breakfast Burrito Regular
+Breakfast Burrito Special                            
+Eggs Any Style With Choice of Meat                            
+Oz Steak and Eggs                            
+Item Omelette                            
+Items Omelette                            
+Fruit Pancakes                            
+Pigs in a Blanket                            
+Regular Stack                            
+Bagel with Butter and Jam                            
+Bagel with Hummus and Tomato                            
+Bagel with Cream Cheese, Sprouts, Tomato and Onion                            
+Egg                            
+Strips of Bacon
+Slab of Ham                            
+Links of Sausage                            
+Home-Style Potatoes                            
+Espresso                            
+Middle Eastern Plate                            
+Hot Chef's Salad                            
+Cold Chef's Salad                            
+Pete's Special Burger
+Mexican Cheeseburger                            
+The Sleeping Pill
+Pastrami Cheese Burger                            
+Pete's Cheese Steak                            
+Mushroom Cheese Steak
+BBQ Cheese Steak                            
+Chicken Cheese Steak                            
+Bacon Cheesesteak
+Teriyaki Cheese Steak                            
+Plain Steak "No Cheese"                            
+Italian Cheesesteak                            
+Lemon Chicken Breast                            
+Teriyaki Chicken Breast                            
+BBQ Chicken Breast
+Hot Roast Beef
+Hot Link                            
+Grilled Ham and Cheese
+Pete's Classic Hamburger                            
+Bacon Burger                            
+Teriyaki Burger                            
+Meatball Sandwich with Swiss                            
+Fresh Roast Pork Loin Sandwich
+Muffaletta Sandwich                            
+BBQ Pork Sandwich                            
+Fresh Mash Potatoes                            
+Side of Veggies                            

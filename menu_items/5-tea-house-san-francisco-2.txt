@@ -1,0 +1,67 @@
+Degree Milk (Black / Green) Tea
+Honey Milk (Black / Green) Tea                            
+Caramel Milk (Black / Green) Tea                            
+Almond Milk (Black / Green) Tea
+Chocolate (Black / Green) Tea                            
+Coconut Milk (Black / Green) Tea                            
+Honey Dew Milk (Black / Green) Tea
+Coffee Milk (Black / Green) Tea                            
+Lychee Milk (Black / Green) Tea
+Peach Milk (Black / Green) Tea                            
+Strawberry Milk (Black / Green) Tea                            
+Taro Milk (Black / Green) Tea                            
+Thai Milk (Black / Green) Tea                            
+Passion Fruit Milk (Black / Green) Tea                            
+Mango Milk (Black / Green) Tea                            
+Mango (Black / Green) Tea                            
+Honey (Black / Green) Tea                            
+Honey Lemon Black Tea
+Lychee (Black / Green) Tea
+Passion Fruit (Black / Green) Tea                            
+Peach (Black / Green) Tea                            
+Strawberry (Black / Green) Tea                            
+Yakult Green Tea
+Yakult Mango Green Tea                            
+Yakult Strawberry Green Tea
+Yakult Lychee Green Tea
+Yakult Peach Green Tea                            
+Yakult Honey Dew Green Tea                            
+Passion Fruit Juice                            
+Peach Juice                            
+Lychee Juice                            
+Honey Slush                            
+Caramel Slush                            
+Almond Slush                            
+Chocolate Slush                            
+Coconut Slush                            
+Honey Dew Slush                            
+Coffee Slush                            
+Lychee Slush                            
+Peach Slush                            
+Strawberry Slush                            
+Taro Slush                            
+Passion Fruit Slush                            
+Mango Slush                            
+Almond Smoothie                            
+Banana Smoothie
+Caramel Smoothie                            
+Coconut Smoothie                            
+Honey Dew Smoothie                            
+Kiwi Smoothie                            
+Strawberry Smoothie
+Avocado Smoothie
+Taro Smoothie
+Original Iced Milk Drink
+Green Tea Iced Milk Drink                            
+Honey Iced Milk Drink                            
+Caramel Iced Milk Drink                            
+Almond Iced Milk Drink                            
+Chocolate Iced Milk Drink                            
+Coconut Iced Milk Drink                            
+Honey Dew Iced Milk Drink                            
+Coffee Iced Milk Drink                            
+Lychee Iced Milk Drink                            
+Peach Iced Milk Drink                            
+Strawberry Iced Milk Drink                            
+Passion Fruit Iced Milk Drink                            
+Mango Iced Milk Drink                            

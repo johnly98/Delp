@@ -1,0 +1,40 @@
+Gambas Al Ajillo
+Pollo Loco                            
+Sampler
+Guatemalan Tostada
+Tia Tostada
+Gambas Tostada                            
+Jennie's Special
+Steak Picado
+Pollo Asada
+Chef's Special Combo
+Combination Plate (large)
+Combination Plate (small)
+Enchiladas Suizas (2)                            
+Chimichanga (1)
+Enchiladas Verde (2)                            
+Taco (1)
+Tamale (1)                            
+Burrito (1)                            
+Flauta (1)                            
+Enchilada (1)
+Chile Relleno (1)
+Quesadilla (1)                            
+Enchilada Verde (1)                            
+Enchilada Ranchera (1)                            
+Enchilada Suiza (1)                            
+Enchiladas (2)
+Tamalas In Husks (2)                            
+Chile Rellenos (2)                            
+Quesadillas (2)                            
+Enchiladas Rancheras (2)                            
+Enchiladas Racheras With A Fried Egg (2)
+Taco Dorados (2)                            
+Flautas (2)                            
+Tia Margarita Special Enchiladas (2)
+Chorizo Con Huevos (3 Eggs)
+Burritos (2)
+Sour Cream Dressing                            
+Chimol                            
+Gambas Or Verde Sauce                            
+Mexican Coffee                            

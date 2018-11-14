@@ -1,0 +1,192 @@
+Unsweetened Thai Iced Tea                            
+Sparking Water                            
+Nom Yenn                            
+Chaiya Tea float                            
+Chaiya Coffee float                            
+Lychee Thai Iced Tea                            
+Fresh Honey Lemonade                            
+Whole Coconut                            
+Glazed Calamari
+Wing Wing
+Glazed Tofu
+Corn Fritter
+Pork Jerky
+Shrimp Chips                            
+Chicken Thai Curry Puffs                            
+Taro Thai Puffs                            
+Vegan Fresh Rolls                            
+Grilled Pork Meatball                            
+Grilled Beef Meatball                            
+Beef Jerky                            
+Tiger Cry                            
+Tom Jued                            
+Poh Tak                            
+Beef Waterfall Salad                            
+Lettuce Wrap                            
+Grilled Pork Salad                            
+Chicken Larb Salad                            
+Sister Salad                            
+Som Tum Moo Yang Combo                            
+Som Tum Gai Yang Combo                            
+Laab Moo                            
+Laab Gai                            
+Laab Tofu                            
+Num Tok Nuer                            
+Num Tok Moo                            
+Yum Woonsen                            
+Yum Tofu                            
+Yum Moo Krob                            
+Phla Grilled Shrimp                            
+Laab Ped                            
+Pad C U
+Hawaiian Fried Rice
+Kua Gai
+Yum Noodle
+Tom Yum Noodle Soup                            
+Gao Lhao                            
+Roasted Duck Noodle Soup                            
+Khao Naa Ped Yang                            
+Khao Mun Gai                            
+Khao Mun Gai Tod                            
+Khao Moo Krob                            
+Fried Rice with Fried Chicken                            
+Evil Jungle Prince Curry                            
+Ginger Garlic Jasmine Rice                            
+Steamed Rice Noodles                            
+Steamed Assorted Vegetables                            
+Fried Banana with Ice-Cream                            
+Sticky rice with Mango
+SRM                            
+Homemade Ice cream                            
+FBH                            
+SRI                            
+Pad Thai Lunch Special
+Pad C U Lunch Special                            
+Pad Kee Mow Lunch Special                            
+Hawaiian Fried Rice Lunch Special                            
+Fried Chicken Over Fried Rice Lunch Special                            
+Grilled Pork Over Rice Lunch Special                            
+Pad Basil Lunch Special                            
+Pad Ginger Lunch Special                            
+Pad Garlic Lunch Special                            
+Pad Pak Lunch Special                            
+Prik Khing Lunch Special                            
+Eggplant Merlot Lunch Special                            
+Roasted Cashew Nuts Lunch Special                            
+Praram Lunch Special                            
+Evil Jungle Prince Curry Lunch Special                            
+Chaiya Noodles                            
+Tamarind Prawns                            
+Garlic Lover Prawns                            
+Ginger Snapper                            
+Seafood Paradise
+Amazing Snapper                            
+Pla Prik Kleur                            
+Half Moon Prawn                            
+Goong Yang                            
+Amazing Sawaii                            
+Bay Club                            
+Ginger Sawaii                            
+Hor Mok                            
+Mango Trout
+Chili Cha Cha Bass                            
+Tango Striper                            
+Pad Basil
+Pad Ginger                            
+Garlic Dish                            
+Roasted Cashew Nuts                            
+Eggplant Merlot
+Lava Chicken
+Sweet Pumpkin Basil
+Siren Beef
+Grilled Beef Short Ribs
+Grilled Pork Shoulder                            
+Pad Pumpkin                            
+Pad Khing Sod                            
+Pad Pedd                            
+Pad Cashew                            
+Catering Blanketed Shrimp
+Catering Golden Basket                            
+Catering Vegetarian Rolls                            
+Catering Crispy Tofu                            
+Catering Beef Waterfall Salad                            
+Catering Grilled Pork Salad                            
+Catering Chicken Larb Salad                            
+Catering House Salad                            
+Catering Nam Tok Gai Tod Salad                            
+Catering Grilled Chicken                            
+Catering Grilled Pork                            
+Catering Grilled Beef Short Ribs                            
+Catering Yellow Curry - Small Tray                            
+Catering Yellow Curry - Large Tray                            
+Catering Red Curry - Small Tray                            
+Catering Red Curry - Large Tray                            
+Catering Panang Curry - Small Tray                            
+Catering Evil Jungle Prince Curry - Small Tray                            
+Catering Evil Jungle Prince Curry - Large Tray                            
+Catering Pumpkin Curry - Small Tray                            
+Catering Pumpkin Curry - Large Tray                            
+Catering Panang Curry - Large Tray                            
+Catering Pad Thai - Small Tray                            
+Catering Pad Thai - Large Tray                            
+Catering Pad C U - Small Tray                            
+Catering Pad C U - Large Tray                            
+Catering Pad Kee Mow - Small Tray
+Catering Pad Kee Mow - Large Tray                            
+Catering Pad Woonsen - Small Tray                            
+Catering Pad Woonsen - Large Tray                            
+Catering Kuay Tiew Kua Gai - Small Tray                            
+Catering Kuay Tiew Kua Gai - Large Tray                            
+Catering Thai Fried Rice - Small Tray                            
+Catering Thai Fried Rice - Large Tray                            
+Catering Khao Pad Gai Tod - Small Tray                            
+Catering Khao Pad Gai Tod - Large Tray                            
+Catering Khao Pad Gai Yang - Small Tray                            
+Catering Khao Pad Gai Yang - Large Tray                            
+Catering Pad Basil - Small Tray                            
+Catering Pad Basil - Large Tray                            
+Catering Pad Ginger - Small Tray                            
+Catering Pad Ginger - Large Tray                            
+Catering Pad Garlic - Small Tray                            
+Catering Pad Garlic - Large Tray                            
+Catering Pad Pak - Small Tray                            
+Catering Pad Pak - Large Tray                            
+Catering Prik Khing - Small Tray                            
+Catering Prik Khing - Large Tray                            
+Catering Eggplant Merlot - Small Tray                            
+Catering Eggplant Merlot - Large Tray                            
+Catering Roasted Cashew Nut - Small Tray                            
+Catering Roasted Cashew Nut - Large Tray                            
+Catering Praram - Small Tray                            
+Catering Praram - Large Tray                            
+Catering Sweet Pumpkin Basil - Small Tray                            
+Catering Sweet Pumpkin Basil - Large Tray                            
+Catering Sticky Rice                            
+Fried Rice with Crab                            
+Fried Rice with Pork Jerky                            
+Fisherman's Soup                            
+Mussamun Curry with Chicken Wings
+Pla Grilled Shrimp                            
+Grilled Meat Balls                            
+Rainbow Salad                            
+Mixed Veggie Salad                            
+Vegetarian Thai Curry Puff                            
+Chicken Thai Curry Puff                            
+Green Lantern Curry
+Duck Curry
+Pad Basil with Steamed Rice                            
+Pad Eggplant with Steamed Rice                            
+Pad Khing Sod with Steamed Rice                            
+Pad Prik Khing with Steamed Rice                            
+Pad Pedd with Steamed Rice                            
+Praram with Steamed Rice                            
+Pad Pak with Steamed Rice                            
+Pad Garlic with Steamed Rice                            
+Grilled Chicken with Steamed Rice                            
+Grilled Pork with Steamed Rice                            
+Pad Pong Karee with Jasmine Rice                            
+Chicken Satay Salad                            
+Sweet Sticky Rice with Durian                            
+Sweet Sticky Rice with Thai Egg Custard                            
+Chicken Thigh Panang Curry Sauce with Jasmine Rice                            
+Sai Au                            

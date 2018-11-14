@@ -1,0 +1,47 @@
+Egg Omelette                            
+Northern Beans
+Fava Beans
+Liver
+Ground Beef
+Beef Stir-Fried
+Chicken Stir-Fried
+Yemeni Bread
+Yemeni Salad                            
+Sahawek with Cheese
+Yugourt                            
+Vegetable Stew
+French Bread
+Beef Sandwich                            
+Liver Sandwich                            
+Fava Bean Sandwich
+Northern Beans Sandwich                            
+Shrimp Sandwich                            
+Roasted Lamb Dinner
+Lamb Kabsah Dinner                            
+Chicken Kabsah Dinner                            
+Boiled Lamb with Soup Dinner
+Lamb Aqdah Dinner                            
+Chicken Aqdah Dinner                            
+Tumbaky Dinner                            
+Dihbashy Dinner
+Zanbakah Dinner
+/2 Roasted Chicken Dinner                            
+Saltah Dinner
+Kartalah Dinner                            
+Fish Stir Fry
+Fish and Shrimp Combo                            
+Roasted Fish
+Shrimp Stir Fry                            
+Tawa Bread with Honey
+Masoob                            
+Khalta harisa                            
+Bint Alsahan                            
+Yemen Sweets                            
+Yemeni Chai                            
+Yemeni Chai with Milk                            
+Quarter Leg Roasted Chicken Lunch Special                            
+Roasted Lamb Lunch Special
+Lamb Kabsah Lunch Special                            
+Lamb Aqdah Lunch Special                            
+Chicken Kabsah Lunch Special                            
+Chicken Aqdah Lunch Special                            

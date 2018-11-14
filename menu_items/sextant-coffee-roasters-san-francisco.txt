@@ -1,0 +1,15 @@
+Espresso
+Cappuccino
+Mocha
+Red Eye
+Macchiato
+Latte
+Cafe Americano                            
+Jostel Gandi
+House Drip
+Karita                            
+Cafe Au Lait
+Iced Coffee
+Iced Cafe Mocha                            
+Iced Cafe Latte                            
+Iced Jostel Gandi
