@@ -16,30 +16,62 @@
   <div class="container">
 
 
-    <div class="row">
+    <div class="row" id="header_div">
       <div class="col-lg-12" style="margin-top: 5%;">
 
         <a href="/"><img src="/static/img/logo.png" class='animated bounceInLeft' height="200"></a>
+      </div>
+
+      <div class="col-md-4 offset-md-4" style="font-size: 150%;">
+        Hello! Welcome to Delp. To get started, simply input which food you'd like to eat.
       </div>
     </div>
 
 
     <div class="row col-md-12" >
-      <div class="col-md-4 offset-md-4" style="font-size: 150%;">
-        Hello! Welcome to Delp. To get started, simply input which food you'd like to eat.
-      </div>
+      
 
       <div class="col-md-8 offset-md-2" style="margin-top: 2%;">
           <button type="button" class="btn btn-success" id="search_button" class='col-md-3' style='margin-top: 2%;'>Delp Search</button>
 
           <input class="form-control form-control-lg" type="text" placeholder="What do you want to eat?" class='col-md-5' id="typeahead" style='margin-top: 3%; text-align: center;'>
+      </div>
 
+      <div class="col-md-8 offset-md-2 row" style="margin-top: 2%" id="results">
 
       </div>
 
+
+
       <script type="text/javascript">
         $("#search_button").click(function() {
-          alert( $("#typeahead").val());
+          $("#header_div").hide()
+
+          for (var i = 0; i < foods.length; i++){
+            food = foods[i][0]
+            rest = foods[i][1]
+            prop = foods[i][2]
+
+            if(food == $("#typeahead").val()){
+              console.log(food + " " +rest + " " + prop)
+
+              content = '<div class="card border-danger mb-3" style="max-width: 20rem; margin-left: 2%;">'+
+  '<div class="card-header">' + food + '</div>'+
+  '<div class="card-body">'+
+    '<h4 class="card-title">' + rest + '</h4>'+
+    '<p class="card-text">' +
+    prop
+
+    '</p>' + 
+  '</div>' +
+'</div>'
+
+              $("#results").html($("#results").html() + content)
+              
+            }
+          }
+
+          $("#typeahead").val("")
         });
 
         var foods = [];
@@ -47,12 +79,15 @@
         data = JSON.parse(data)
         for (var key in data) {
             if (data.hasOwnProperty(key)) {
-                foods += data[key]
+                for (var i = 0; i < data[key].length; i++){
+                  foods.push([data[key][i], key, i / data[key].length])
+                }
             }
         }
 
-        console.log(foods)
+        //console.log(foods)
 
+        
         
     $( "#typeahead" ).autocomplete({
       source: foods
