@@ -76,16 +76,23 @@ function customized_food(food){
             if(food == $("#typeahead").val()){
               console.log(food + " " +rest + " " + prop)
 
+              rest_disp = rest.split('-san-francisco')[0].replaceAll("-", " ")
+              rest_disp = rest_disp.toLowerCase()
+                      .split(' ')
+                      .map((s) => s.charAt(0).toUpperCase() + s.substring(1))
+                      .join(' ');
+
+              link = "http://www.yelp.com/biz/" + rest
+              console.log(link)
 
               content = '<div class="card border-danger col-md-5 offset-md-1">'+
-                        '<div class="card-header">' + rest.replaceAll("-", " ") + '</div>'+
+                        '<div class="card-header"><a href="' + link + '" target="_blank">' + rest_disp + '</a></div>'+
                         '<div class="card-body">'+
                         '<h4 class="card-title">' + customized_food(food)[0] + food + customized_food(food)[1] + '</h4>'+
                         '<p class="card-text">' +
                         '</p>' + 
                         '</div>' +
                         '</div>'
-
 
               $("#results").html($("#results").html() + content)
               
@@ -128,6 +135,5 @@ function customized_food(food){
 
 
 {% endblock %}
-
 
 
