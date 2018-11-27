@@ -38,12 +38,33 @@
       </div>
 
       <div class="col-md-8 offset-md-2 row" style="margin-top: 2%" id="results">
-
+          <div id='yelpwidget'></div>
       </div>
 
 
-
       <script type="text/javascript">
+      String.prototype.replaceAll = function(search, replacement) {
+    var target = this;
+    return target.replace(new RegExp(search, 'g'), replacement);
+};
+
+function customized_food(food){
+
+  var frames = [["We've heard that the ", " at this place is really good! You should try it out."], 
+            ["If you really want to eat ", " you should definetley visit this place."],
+            ["Yum! ", " is the best -- you should go here ASAP!"],
+            ["I heard these folk make an amazing ", ". Go check them out!"],
+            ["If you're craving ", " you should visit this restaraunt."],
+            ["These people are well known for their ", "! You should give them a visit."],
+            ["Wanna eat ", "? Go visit this eatery."]];
+
+  var i = Math.floor(Math.random() * 7);
+
+  return frames[i]
+
+
+}
+
         $("#search_button").click(function() {
           $("#header_div").hide()
 
@@ -55,16 +76,16 @@
             if(food == $("#typeahead").val()){
               console.log(food + " " +rest + " " + prop)
 
-              content = '<div class="card border-danger mb-3" style="max-width: 20rem; margin-left: 2%;">'+
-  '<div class="card-header">' + food + '</div>'+
-  '<div class="card-body">'+
-    '<h4 class="card-title">' + rest.split('-san-francisco')[0] + '</h4>'+
-    '<p class="card-text">' +
-    prop
 
-    '</p>' + 
-  '</div>' +
-'</div>'
+              content = '<div class="card border-danger col-md-5 offset-md-1">'+
+                        '<div class="card-header">' + rest.replaceAll("-", " ") + '</div>'+
+                        '<div class="card-body">'+
+                        '<h4 class="card-title">' + customized_food(food)[0] + food + customized_food(food)[1] + '</h4>'+
+                        '<p class="card-text">' +
+                        '</p>' + 
+                        '</div>' +
+                        '</div>'
+
 
               $("#results").html($("#results").html() + content)
               
