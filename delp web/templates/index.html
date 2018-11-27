@@ -58,7 +58,7 @@
               content = '<div class="card border-danger mb-3" style="max-width: 20rem; margin-left: 2%;">'+
   '<div class="card-header">' + food + '</div>'+
   '<div class="card-body">'+
-    '<h4 class="card-title">' + rest + '</h4>'+
+    '<h4 class="card-title">' + rest.split('-san-francisco')[0] + '</h4>'+
     '<p class="card-text">' +
     prop
 
@@ -89,9 +89,9 @@
 
         
         
-    $( "#typeahead" ).autocomplete({
-      source: foods
-    });
+    // $( "#typeahead" ).autocomplete({
+    //   source: foods
+    // });
 
       </script>
 
